@@ -1,0 +1,35 @@
+---
+title: "Case Study: What Makes an Organization?"
+---
+
+## Overview
+
+In your groups, you'll read three short scenarios and work through the questions below. Be prepared to share your conclusions with the class. One person should take notes; another should present.
+
+---
+
+## Scenario A: The Meme Server
+
+A Discord server called "Lafayette Locals" has 340 members who share local news, memes, and event recommendations about their city. There are channels for restaurants, sports, rants, and pets. A few people post frequently; most just read. Nobody is in charge — the server was created by someone who hasn't logged on in two years. Members have developed unwritten norms (no politics, no self-promotion) that are enforced informally through social pressure. Members have never met in person.
+
+## Scenario B: The Startup
+
+Three friends — Aaliyah, Marcus, and Priya — have been working together for eight months building a mobile app that helps renters track maintenance requests. They have no formal titles, no org chart, and no office. They meet at coffee shops and communicate mainly through group texts. They have 200 paying users, a shared bank account, and a pitch meeting with an investor next week. They disagree regularly about priorities but always manage to move forward.
+
+## Scenario C: The Neighborhood Association
+
+During a contentious city council vote on a new apartment complex, 15 neighbors formed the "Elmwood Residents Association." They exchanged heated emails, held one meeting in someone's garage, submitted a formal comment to the city, and ultimately lost the vote. That was 18 months ago. The association is still technically registered with the city, has a bank account with $47 in it, and has a website nobody updates. Members occasionally run into each other at the grocery store.
+
+---
+
+## Discussion Questions
+
+Work through these together and be ready to explain your reasoning:
+
+1. **Is each scenario an organization?** Use Ch. 1's definition of "organization" to make your case. You may decide some are, some aren't, or all three are in different ways — but be specific about why.
+
+2. **What role is communication playing in each case?** Apply the distinction between the *transmission view* (communication as sending information between members) and the *constitutive view* (communication as creating the organization itself). Which view better explains what's happening in each scenario?
+
+3. **Where is the organizing happening?** Point to a specific communication act, artifact, or pattern in each scenario that is doing organizational work — creating identity, coordinating behavior, establishing norms, or maintaining (or dissolving) the group.
+
+4. **Stretch question:** Scenario C's association is technically registered but mostly dormant. Is it still an organization? What would it take to make it "real" again — and what does your answer reveal about the relationship between communication and organizational existence?

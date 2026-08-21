@@ -1,0 +1,18 @@
+---
+title: Schedule for the semester
+---
+
+Each week is outlined in the sidebar. Click on a week to see the schedule for that week. This includes readings, and assignments.
+
+## Key Due Dates
+
+| Date | Assignment |
+|------|-----------|
+| Thu, Oct 1 | Self-Assessment Reflection 1 |
+| Thu, Oct 8 | Exam 1 (Chs. 1–6) |
+| Thu, Oct 22 | Theory Application Short Paper |
+| Thu, Nov 12 | Organizational Profile / Site Selection Memo |
+| Thu, Nov 19 | Self-Assessment Reflection 2 |
+| Tue, Dec 1 | Exam 2 (Chs. 7–12) |
+| Thu, Dec 10 | Final Paper: Organizational Communication Analysis |
+| Thu, Dec 10 | Self-Assessment Reflection 3 |

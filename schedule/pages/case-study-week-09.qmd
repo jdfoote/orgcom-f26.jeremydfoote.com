@@ -1,0 +1,80 @@
+---
+title: "Case Study: The Lodestar Launch Decision"
+---
+
+## Background
+
+**Lodestar Electric** is a mid-sized electric vehicle manufacturer preparing to launch its first mass-market model, the Lodestar S. The launch has been in development for three years and is scheduled for eight weeks from now. Two thousand dealerships have pre-sold 18,000 units. The CEO has already appeared on the cover of *Forbes* with the headline "America's EV Moment."
+
+One week before the final go/no-go decision meeting, the lead battery engineer, Daria Chen, submits an internal report flagging a thermal management issue. Under sustained high-speed driving in temperatures above 95°F, the battery cooling system may underperform, causing reduced range and, in rare cases, a risk of thermal runaway (battery fire). Her report estimates the probability of thermal runaway at approximately 1 in 4,000 vehicles under worst-case conditions.
+
+---
+
+## What Happened in the Meeting
+
+The go/no-go meeting includes the CEO, CFO, VP of Engineering, VP of Marketing, General Counsel, and Daria Chen. Here is a summary of what each person said:
+
+- **CEO:** "We've spent $340 million getting here. Our competitors are six months behind us. Missing this launch window costs us everything. Daria, how confident are you in that 1-in-4,000 figure?"
+- **CFO:** "A recall post-launch would be catastrophic financially. But delaying also has massive costs. I'd want to see the data independently verified before we decide."
+- **VP of Engineering:** "Every vehicle has edge-case risks. We exceeded all current federal safety standards. I think we're fine."
+- **VP of Marketing:** "If we delay now, the press narrative becomes 'Lodestar can't deliver.' We can issue a software update post-launch to manage the thermal curve."
+- **General Counsel:** "Federal standards are met. As long as we document that we reviewed the report, our liability exposure is limited."
+- **Daria Chen:** "I want to be clear: I'm not saying don't launch. I'm saying we need four more weeks to redesign the cooling loop. The fix is straightforward. The risk is low but it's real."
+
+The CEO called for a show of hands. Everyone except Daria voted to launch on schedule.
+
+---
+
+## Group Tasks
+
+Each group will analyze the case through **one** assigned decision-making model, then share findings with the class.
+
+---
+
+### Group 1: The Rational Model
+
+The rational model assumes decision-makers have complete information, evaluate all alternatives, and choose the option that maximizes outcomes.
+
+- In what ways did the Lodestar meeting *follow* the rational model?
+- In what ways did it *fail* to follow it? What information was missing, ignored, or not sought?
+- If the team had followed a fully rational process, what would the decision-making procedure have looked like — and would it have changed the outcome?
+
+---
+
+### Group 2: Bounded Rationality
+
+Herbert Simon argued that real decision-makers *satisfice* — they look for a "good enough" solution rather than the optimal one, because their information and cognitive capacity are limited.
+
+- What cognitive shortcuts or "satisficing" moves do you see in the meeting? Who was settling for "good enough," and on what basis?
+- What information did participants use as a mental shortcut to avoid deeper analysis?
+- How did time pressure and sunk costs ("we've spent $340 million") shape the decision? Is this rational, boundedly rational, or something else?
+
+---
+
+### Group 3: Groupthink
+
+Irving Janis identified groupthink as a pattern where the pressure to reach consensus overrides realistic appraisal of alternatives. Classic symptoms include: illusion of invulnerability, collective rationalization, self-censorship, illusion of unanimity, and pressure on dissenters.
+
+- Which groupthink symptoms appear in this meeting? Find specific evidence in the dialogue.
+- What communication dynamics silenced or minimized Daria Chen's concern?
+- What specific procedural change — in how the meeting was structured or how voices were solicited — might have produced a different outcome?
+
+---
+
+### Group 4: The Garbage Can Model
+
+The garbage can model describes organizations as "organized anarchies" where problems, solutions, participants, and choice opportunities flow independently and connect somewhat randomly.
+
+- What different "problems" and "solutions" were floating around in this meeting, and did they actually match each other?
+- Is the go/no-go decision actually about the thermal issue — or are other problems (financial pressure, competitive timing, reputation) being channeled into this decision?
+- Who were the key participants, and how did their presence or absence shape what got decided?
+
+---
+
+## Whole-Class Discussion
+
+After groups share out, we'll discuss together:
+
+- Which model best explains what happened at Lodestar?
+- Are these models competing explanations, or can they all be true at the same time?
+- What does this case reveal about the role of *communication* — not just information — in organizational decision-making?

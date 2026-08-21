@@ -1,0 +1,47 @@
+---
+title: "Case Study: Culture Clash at Meridian-Apex"
+---
+
+## Background
+
+**Meridian Analytics** is a 12-year-old data consulting firm known for its rigorous processes, formal hierarchy, and conservative culture. Dress code is business professional. Meetings start and end exactly on time. Decisions go through a clear chain of approval. The firm's motto, displayed in the lobby, is *"Precision. Reliability. Trust."* Turnover is low; many employees have been there for a decade or more. Clients are mostly Fortune 500 companies and government agencies.
+
+**Apex Labs** is a 4-year-old product analytics startup that Meridian just acquired. Apex has 30 employees, no dress code, an open floor plan with a ping-pong table, and a culture of fast iteration and public disagreement. Decisions are made in Slack threads, often without managers involved. Their internal motto is *"Ship it, then fix it."* Turnover is high but accepted — people come in intense, contribute, and move on. Clients are mostly early-stage tech companies.
+
+Meridian's leadership announced the acquisition as a way to "bring Apex's innovation energy into Meridian's trusted infrastructure." They plan to integrate the two teams within six months.
+
+---
+
+## Part 1: Culture Mapping
+
+Using **Schein's three levels of organizational culture**, map each organization:
+
+| Level | Meridian Analytics | Apex Labs |
+|-------|-------------------|-----------|
+| **Artifacts** (visible: physical space, rituals, language, dress, symbols) | | |
+| **Espoused values** (what the org says it believes) | | |
+| **Basic assumptions** (what the org actually believes, often unstated) | | |
+
+Complete the table together before moving to Part 2.
+
+---
+
+## Part 2: Systems Thinking
+
+The merger creates a new combined system. Using systems theory concepts from Ch. 4:
+
+1. **Interdependence:** Identify two or three places where Meridian and Apex are now interdependent in ways they weren't before. What happens in one part of the system that will now affect the other?
+
+2. **Feedback loops:** What feedback mechanisms exist (or should exist) to help leadership know whether the integration is working? What signals might they miss?
+
+3. **Equifinality:** The goal is a successfully integrated organization. What are two or three *different* ways the combined company could reach that goal? What does this suggest about how Meridian's leadership should approach the merger?
+
+---
+
+## Part 3: Communication Diagnosis
+
+4. Meridian's CEO sent a company-wide email on day one of the acquisition that said: *"We are thrilled to welcome the Apex team. Their innovative spirit will strengthen everything we do. Business as usual for now — more details to come."*
+
+   What does this message communicate about assumptions, values, and power — beyond what it literally says? How might Apex employees read it differently than Meridian employees?
+
+5. If you were advising the integration team, what is the **single most important communication act** they should take in the first 30 days, and why?

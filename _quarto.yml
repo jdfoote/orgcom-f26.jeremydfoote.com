@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: _site
+
+pre-render:
+  - python scripts/create_assignment_files.py
+
+preview:
+  port: 4201
+
+execute:
+  freeze: auto
+
+website:
+  title: "Organizational Communication"
+  navbar:
+    right:
+      - href: syllabus/syllabus.qmd
+        text: Syllabus
+      - href: schedule.qmd
+        text: Schedule
+      - href: assignments/assignments.qmd
+        text: Assignments
+
+  sidebar:
+    - title: "Schedule"
+      style: "docked"
+      search: false
+      background: dark
+      contents:
+        - section: "Overview"
+          contents:
+            - schedule.qmd
+        - section: "Course content"
+          contents: "schedule/*.qmd"
+
+    - title: "Assignments"
+      style: "docked"
+      search: false
+      background: dark
+      contents:
+        - section: "Assignments"
+          contents:
+            - text: "Overview"
+              href: assignments/assignments.qmd
+            - assignments/Self-Assessment-Reflection.qmd
+            - assignments/Final-Self-Assessment-Reflection.qmd
+
+  favicon: "resources/favicon.ico"
+  site-url: "https://orgcom-f26.jeremydfoote.com"
+
+format:
+  html:
+    theme: flatly
+    css: resources/custom_css.css
+    toc: true

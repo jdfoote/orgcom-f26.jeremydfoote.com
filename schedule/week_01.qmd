@@ -1,0 +1,31 @@
+---
+title: "Week 1: Introductions and Overview"
+date: "2026-08-24"
+---
+
+### Tuesday (Aug 25)
+
+**Assignment Due:**
+
+* [Sign up for Discord](pages/Discord-Signup.html) and introduce yourself
+
+**Required Readings:**
+
+* None
+
+**Concepts:**
+
+* Course overview and expectations — We'll walk through [the syllabus](/syllabus/syllabus.qmd)
+* What is organizational communication?
+* Why study it?
+
+### Thursday (Aug 27)
+
+**Assignment Due:**
+
+* Read the entire [syllabus](/syllabus/syllabus.qmd)
+* Complete the [Initial Self-Assessment](/assignments/Initial-Self-Assessment.html) on Brightspace — a short reflection on what you hope to get out of this course
+
+**In Class:**
+
+* Activity: Think about an organization you currently belong to or have belonged to (job, student org, team, etc.). What does communication look like there? We'll use this as a first look at org comm concepts — and you'll return to this organization for your final project.

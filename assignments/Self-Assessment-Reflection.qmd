@@ -1,0 +1,20 @@
+---
+title: Self-Assessment Reflection
+---
+
+Answer the following questions about your learning and participation thus far. I am not expecting extensive essays — some questions may be answered in a single sentence, while others may inspire more detail. Remember that the grade you assign here is not a permanent calculation; it is a way for us to align expectations and set goals. If you want to earn an A but are at a B right now, you can absolutely still earn an A by setting and meeting higher goals for the remainder of the course.
+
+1. What have you done to ensure that you understand the material and concepts in this course?
+1. How have you applied the ideas from this course to your own experiences in organizations?
+1. How have you addressed challenges and/or feedback so far?
+1. How have you used AI in this class (ChatGPT, Claude.ai, etc.)? Has it helped you learn, or has it been more of a shortcut?
+1. How have you contributed to others' learning — in class discussions, case studies, or on Discord?
+1. What is something you could improve on for the rest of the semester?
+1. What are your goals for the remainder of the course?
+1. What else would you like to share?
+1. What would you like feedback on?
+1. Based on your answers above, the work you have done, and the grade-level descriptions in the [syllabus](/syllabus/syllabus.qmd#grades), what grade would you assign yourself thus far? Why?
+
+---
+
+Finally, some feedback for me. I have learned that feedback is more honest (and therefore more helpful!) if given anonymously, so I would encourage you to fill out [this anonymous survey](https://docs.google.com/forms/d/e/1FAIpQLSepkCJfjpC8jlq6Xfq8zq64hEF8SPJF60N5rLSdlRx_BuL_Ag/viewform?usp=sf_link).

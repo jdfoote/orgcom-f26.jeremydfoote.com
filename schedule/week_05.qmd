@@ -1,0 +1,28 @@
+---
+title: "Week 5: Systems and Cultural Approaches"
+date: "2026-09-21"
+---
+
+### Tuesday (Sep 22)
+
+**Required Readings:**
+
+* Miller, Barbour & Woo, Ch. 4
+
+**Concepts:**
+
+* Systems theory: organizations as open systems, interdependence, feedback loops, equifinality
+* Organizational culture: the "culture as metaphor" shift
+* Artifacts, values, and basic assumptions (Schein's levels)
+* Strong vs. weak cultures; culture and communication
+* How we "read" an organization's culture
+
+**Assignment Due:**
+
+* 3-2-1 Reading Review
+
+### Thursday (Sep 24)
+
+**In Class:**
+
+* [Case study: Culture Clash at Meridian-Apex](pages/case-study-week-05.html)
