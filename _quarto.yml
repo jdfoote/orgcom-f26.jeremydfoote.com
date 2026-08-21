@@ -46,6 +46,8 @@ website:
             - assignments/Self-Assessment-Reflection.qmd
             - assignments/Final-Self-Assessment-Reflection.qmd
 
+  repo-url: "https://github.com/jdfoote/orgcom-f26.jeremydfoote.com"
+  repo-actions: ["edit", "issue"]
   favicon: "resources/favicon.ico"
   site-url: "https://orgcom-f26.jeremydfoote.com"
 
