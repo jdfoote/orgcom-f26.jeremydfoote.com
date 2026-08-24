@@ -31,6 +31,12 @@ format:
 
 ## Dad Joke
 
+Why did the nearsighted man fall into the well?
+
+<span class='fragment'>He couldn't see that well.</span>
+
+## AI's attempt at a dad joke
+
 Why did the manager get promoted?
 
 <span class='fragment'>She really knew how to work through the <span class='highlight'>channels</span>.</span>
@@ -43,10 +49,12 @@ Why did the manager get promoted?
 
 ## What is organizational communication?
 
+- What is an organization?
+  - A group of people working together to achieve a goal
+  - Surprisingly hard to define!
 - We spend most of our lives *in* organizations
   - Schools, workplaces, families, teams, clubs, governments
-- Communication is how organizations *exist*
-  - Not just what happens inside them — it's what *makes* them
+- Communication is what makes organizations work
 
 ## This course
 
@@ -60,9 +68,10 @@ We'll look at:
 ## Goals
 
 1. Understand the major theoretical traditions in organizational communication
-2. Critically analyze communication in organizational contexts
-3. Apply concepts to real-world situations in your own life
-4. Engage thoughtfully with scholarly perspectives
+2. Identify organizational problems and propose practical solutions. 
+3. Reflect on your own experiences and expectations as an organizational member. 
+4. Describe how communication functions in organizations, between organizations, and in organizing. 
+5. Apply concepts to real-world situations in your own life
 
 # How we get there
 
@@ -70,14 +79,14 @@ We'll look at:
 
 **Tuesdays** — Discussion-centric
 
-- You've done the reading; we go deeper
-- Driven by your questions and 3-2-1s
-- Cold calling (friendly — it's about learning, not gotcha)
+- Brief recap of the reading and concepts
+- Guided discussion driven by your questions and 3-2-1s
+- Cold calling (friendly!) to ensure everyone participates
 
 **Thursdays** — Workshop
 
 - Apply concepts to case studies in groups
-- Project work, peer feedback, exams
+- Also project work, peer feedback, exams
 
 ## Grading
 
@@ -95,7 +104,9 @@ We'll look at:
 
 - I'm interested in teaching, not assessing
 - At three points this semester you'll reflect on your work and propose a grade
-  - Oct 1 · Nov 19 · Dec 10
+  - Oct 1 
+  - Nov 19 
+  - Dec 10
 - I'll provide feedback; if I disagree I'll reach out
 - Exams are graded normally (they're 30% of the grade)
 
@@ -131,21 +142,16 @@ We'll look at:
 
 AI is a powerful tool. I want you to use it well, not avoid it.
 
-- ✅ Use AI to understand concepts and readings
-- ✅ Use AI for feedback on your writing
-- ✅ Use AI as a conversation partner (it's literally an assignment option)
-- ❌ Don't use AI to write your assignments for you
+- Use AI to understand concepts and readings
+- Use AI for feedback on your writing
+- Use AI as a conversation partner (it's literally an assignment option)
+- Don't use AI to write your assignments for you
 
 The principle: **scaffold, not shortcut**
 
 ## Thursday
 
-Two activities — bring a pen:
-
-1. **Gallery walk**: Is it an organization?
-2. **Org mapping**: mapping your own organizational life
-
-The org you think of today may become your final project.
+"What is an organization?" activities
 
 ## Before Thursday
 
