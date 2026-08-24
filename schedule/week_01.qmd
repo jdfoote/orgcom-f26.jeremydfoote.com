@@ -28,4 +28,4 @@ date: "2026-08-24"
 
 **In Class:**
 
-* Activity: Think about an organization you currently belong to or have belonged to (job, student org, team, etc.). What does communication look like there? We'll use this as a first look at org comm concepts — and you'll return to this organization for your final project.
+* [What is an organization? Activities](/slides/what_is_an_organization.html) — gallery walk + org mapping
