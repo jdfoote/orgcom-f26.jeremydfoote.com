@@ -40,7 +40,7 @@ Students who complete this course will be able to:
 
 ## Note About This Syllabus
 
-Although the core expectations for this class are fixed, the details of readings and assignments may shift based on how the class goes. As a result, there are three important things to keep in mind:
+Although the core expectations for this class are fixed, this is my first time teaching this course, sothe details of readings and assignments may shift based on how the class goes. As a result, there are three important things to keep in mind:
 
 1. Although details on this syllabus will change, I will not change readings or assignments less than one week before they are due. If I don't fill in a "To Be Determined" one week before it's due, it is dropped. If you plan to read more than one week ahead, contact me first.
 2. Closely monitor the class [Discord](/schedule/pages/Discord-Signup.html). I will summarize changes in announcements on Discord that should be emailed to everybody in the class if you have notifications turned on.
@@ -48,7 +48,7 @@ Although the core expectations for this class are fixed, the details of readings
 
 ## Class Sessions
 
-This course follows a discussion- and application-centered format. Most content is encountered through the readings before class, so that our time together can be used to go deeper — not to cover the basics.
+This course will be mostly discussion-based and application-centered. For the most part, you will engage with the content through doing readings before class, so that our time together can be used to go deeper — not to cover the basics.
 
 **Tuesday sessions** are discussion-centric. Most of the session will be a conversation about that week's readings, driven by your questions and ideas. I will use the discussion questions from your 3-2-1 assignments to guide us. This means **I expect you to arrive on Tuesdays having done the reading.**
 
@@ -86,12 +86,12 @@ Write and submit the following on Brightspace:
 
 Post your discussion question to the #discussions channel on Discord as well. Good discussion questions engage with the reading and connect it to other concepts or to the real world. For example:
 
-* *The reading discussed how organizational culture is created through communication. I think about how different my internship felt from my current job, even in the same industry. What role does management communication play in shaping that difference?*
-* *How is organizational power different from personal authority? The reading seemed to conflate them at times.*
+* *How is organizational power different from personal authority? What are the sources of power in organizations?*
+* *Would a club or a sports team be considered an organization? Why or why not?*
 
 ### Option B: AI Conversation
 
-After doing the reading, open an AI tool (Claude.ai, ChatGPT, etc.) and start a conversation with a prompt like this:
+**After** doing the reading, open an AI tool (Claude.ai, ChatGPT, etc.) and start a conversation with a prompt like this:
 
 > "I just read Chapter 4 of my Organizational Communication textbook about Systems and Cultural Approaches. Ask me questions and have a conversation with me to make sure I understand the most important principles and ideas."
 
@@ -100,9 +100,10 @@ Then have a genuine back-and-forth — answer the AI's questions, push back if s
 Submit two things on Brightspace:
 
 1. A shareable link to your conversation (both Claude.ai and ChatGPT support this)
-2. A short reflection (a paragraph or two): Discuss what you learned from the conversation and whether you still have questions or confusions after it. What, if anything, would you still like to explore in class?
+2. A short reflection (a paragraph or two): Discuss what you learned from the conversation and whether you still have questions or confusions after it. 
 
-*Conversations where the student is mostly passive — reading AI output rather than engaging with it — won't receive full credit.*
+As with the 3-2-1 assignment, post one discussion question in the #discussions channel on Discord.
+
 
 ## Assignments
 
@@ -110,7 +111,7 @@ Submit two things on Brightspace:
 
 **In-class case studies** happen most Thursdays. In groups, you will analyze a real organizational scenario using the week's concepts and briefly share your analysis with the class. These are completed in class — no outside preparation required beyond having done the reading.
 
-**Theory Application Short Paper** (~2 pages): Choose one concept or theory from any chapter we've covered and find a real-world example from your own experience or current events that illustrates it. Explain the concept and analyze how your example demonstrates it. Due Thu, Oct 22.
+**Theory Application Short Paper** (~2 pages): Choose one concept or theory we've covered and find a real-world example from your own experience or current events that illustrates it. Explain the concept and analyze how your example demonstrates it. Due Thu, Oct 22.
 
 **Organizational Profile / Site Selection Memo** (~1–2 pages): Identify the organization you will analyze for your final project. Describe it briefly, explain why you chose it, and identify 2–3 course concepts you think will be most useful for analyzing its communication. Due Thu, Nov 12.
 
@@ -137,11 +138,11 @@ The university still requires grades, so you will be leading the evaluation of y
 
 We will use the following rubric in our assessment:
 
-* 20%: Participation (attendance, 3-2-1s, in-class case studies, and engagement in discussions)
+* 25%: Participation (attendance, 3-2-1s, in-class case studies, and engagement in discussions)
 * 15%: Assignments (Theory Application Short Paper, Organizational Profile memo, Self-Assessment Reflections)
 * 15%: Exam 1
 * 15%: Exam 2
-* 35%: Final Project (paper + presentation)
+* 30%: Final Project (paper + presentation)
 
 The two exams will be graded like normal exams and together make up 30% of your grade. For everything else (the other 70%), I will provide feedback that informs an ongoing conversation about your work through the self-assessment process.
 
@@ -171,7 +172,7 @@ My interpretation of grade levels (A, B, C, D/F) is the following:
 * Turn in and complete the final project on time.
 * Be collegial and continue discussion, through asking simple or limited questions.
 * Compose reflections with straightforward and easily manageable goals and/or avoid discussions of challenges.
-* Not complete homework assignments or complete them in a hasty or incomplete manner.
+* Not complete all homework assignments or complete them in a hasty or incomplete manner.
 
 **D/F:** These are reserved for cases in which students do not complete work or participate. Students may also be impeding the ability of others to learn.
 
