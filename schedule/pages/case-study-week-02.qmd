@@ -1,35 +1,44 @@
 ---
-title: "Case Study: What Makes an Organization?"
+title: "Week 2 Case Studies: Communication in Organizations"
 ---
 
-## Overview
+Each group will work through one organization in depth, then present their analysis to the class. You have about 20 minutes to work through the questions; plan on a 3–4 minute presentation.
 
-In your groups, you'll read three short scenarios and work through the questions below. Be prepared to share your conclusions with the class. One person should take notes; another should present.
+## The Organizations
 
----
-
-## Scenario A: The Meme Server
-
-A Discord server called "Lafayette Locals" has 340 members who share local news, memes, and event recommendations about their city. There are channels for restaurants, sports, rants, and pets. A few people post frequently; most just read. Nobody is in charge — the server was created by someone who hasn't logged on in two years. Members have developed unwritten norms (no politics, no self-promotion) that are enforced informally through social pressure. Members have never met in person.
-
-## Scenario B: The Startup
-
-Three friends — Aaliyah, Marcus, and Priya — have been working together for eight months building a mobile app that helps renters track maintenance requests. They have no formal titles, no org chart, and no office. They meet at coffee shops and communicate mainly through group texts. They have 200 paying users, a shared bank account, and a pitch meeting with an investor next week. They disagree regularly about priorities but always manage to move forward.
-
-## Scenario C: The Neighborhood Association
-
-During a contentious city council vote on a new apartment complex, 15 neighbors formed the "Elmwood Residents Association." They exchanged heated emails, held one meeting in someone's garage, submitted a formal comment to the city, and ultimately lost the vote. That was 18 months ago. The association is still technically registered with the city, has a bank account with $47 in it, and has a website nobody updates. Members occasionally run into each other at the grocery store.
+- **Group A:** [Westport Metal Works — a manufacturing plant](case-study-week-02-factory.html)
+- **Group B:** [Midland Metro Transit — a city bus system](case-study-week-02-transit.html)
+- **Group C:** [Homes for All Coalition — a housing justice organization](case-study-week-02-social-movement.html)
 
 ---
 
-## Discussion Questions
+## Questions (same for all groups)
 
-Work through these together and be ready to explain your reasoning:
+Work through these in order. Be specific — use details from your organization's scenario.
 
-1. **Is each scenario an organization?** Use Ch. 1's definition of "organization" to make your case. You may decide some are, some aren't, or all three are in different ways — but be specific about why.
+**1. Map the communication**
 
-2. **What role is communication playing in each case?** Apply the distinction between the *transmission view* (communication as sending information between members) and the *constitutive view* (communication as creating the organization itself). Which view better explains what's happening in each scenario?
+What are *all* the kinds of communication that have to occur for your organization to function? Think broadly: who talks to whom, through what channels, about what? Try to list at least 8–10 distinct types.
 
-3. **Where is the organizing happening?** Point to a specific communication act, artifact, or pattern in each scenario that is doing organizational work — creating identity, coordinating behavior, establishing norms, or maintaining (or dissolving) the group.
+**2. What does communication *do* here?**
 
-4. **Stretch question:** Scenario C's association is technically registered but mostly dormant. Is it still an organization? What would it take to make it "real" again — and what does your answer reveal about the relationship between communication and organizational existence?
+Pick 2–3 items from your list and analyze what communication is actually accomplishing — not just passing information, but coordinating action, establishing authority, building identity, motivating people, resolving conflict, etc. Use concepts from Ch. 1.
+
+**3. Forces of change**
+
+How has your organization changed — or how *will* it change — because of each of the following? Be as specific as you can:
+
+- **Globalization** — supply chains, competition, migration, offshoring, global customers
+- **Climate change** — operations, mission, risk, regulation, stakeholder pressure
+- **Changing demographics** — workforce, customer base, leadership, community
+- **Changing technology** — how work gets done, how people communicate, what jobs exist
+
+---
+
+## For your presentation
+
+Be ready to share:
+- A quick 1-sentence description of your organization
+- Your communication map (give us the highlights)
+- One thing communication *does* in your org that surprised you or sparked debate
+- One force of change your group found most interesting

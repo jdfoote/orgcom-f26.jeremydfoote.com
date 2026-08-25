@@ -24,4 +24,4 @@ date: "2026-08-31"
 
 **In Class:**
 
-* [Case study: What Makes an Organization?](pages/case-study-week-02.html)
+* [Case studies: Communication in Organizations](pages/case-study-week-02.html) — each group analyzes one organization (factory, transit agency, social movement) and presents to the class
