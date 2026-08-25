@@ -16,7 +16,7 @@ Each group will work through one organization in depth, then present their analy
 
 Work through these in order. Be specific — use details from your organization's scenario.
 
-**1. Map the communication**
+**1. Identify communication**
 
 What are *all* the kinds of communication that have to occur for your organization to function? Think broadly: who talks to whom, through what channels, about what? Try to list at least 8–10 distinct types.
 
@@ -35,10 +35,9 @@ How has your organization changed — or how *will* it change — because of eac
 
 ---
 
-## For your presentation
+## Presentations
 
-Be ready to share:
-- A quick 1-sentence description of your organization
-- Your communication map (give us the highlights)
-- One thing communication *does* in your org that surprised you or sparked debate
-- One force of change your group found most interesting
+Make a ~5 minute presentation about your organization and your analysis. Be sure to include:
+- A brief description of the organization and its context
+- An explanation of the communication you identified and what it accomplishes
+- A discussion of how the organization has changed or will change because of the forces above
