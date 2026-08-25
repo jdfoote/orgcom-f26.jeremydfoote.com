@@ -9,6 +9,9 @@ date: "2026-09-28"
 
 * Miller, Barbour & Woo, Ch. 6
 
+{{< video https://youtu.be/nVIAu3c1xLY?si=7zubdl0ppR5dRb1a >}}
+Matthew Koschmann's video on critical and feminist approaches
+
 **Concepts:**
 
 * Critical approaches: ideology, hegemony, and how organizations reproduce power

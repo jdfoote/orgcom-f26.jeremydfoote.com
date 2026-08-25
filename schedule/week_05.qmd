@@ -9,6 +9,8 @@ date: "2026-09-21"
 
 * Miller, Barbour & Woo, Ch. 4
 
+{{< video https://youtu.be/zZUSVSMy_H8?si=qk1Z9DZ9sbJwnzxA >}}
+
 **Concepts:**
 
 * Systems theory: organizations as open systems, interdependence, feedback loops, equifinality

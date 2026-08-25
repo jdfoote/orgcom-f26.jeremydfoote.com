@@ -9,6 +9,9 @@ date: "2026-10-26"
 
 * Miller, Barbour & Woo, Ch. 9
 
+{{< video https://youtu.be/XMX2ADSduAg?si=TbJit1HTrVykqinv >}}
+Matthew Koschmann's video on conflict management
+
 **Concepts:**
 
 * What is organizational conflict? — not always negative

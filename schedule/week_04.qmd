@@ -9,6 +9,9 @@ date: "2026-09-14"
 
 * Miller, Barbour & Woo, Ch. 3
 
+{{< video https://youtu.be/Pi9oAyxWoB0?si=_35FeBb_5rsS2sQt >}}
+
+
 **Concepts:**
 
 * Human Relations: the Hawthorne studies, the discovery that social factors matter

@@ -9,6 +9,9 @@ date: "2026-08-31"
 
 * Miller, Barbour & Woo, Ch. 1
 
+{{< video https://youtu.be/Jl116ud7T_U?si=ussn5mPJc78sW_VS >}}
+Matthew Koschmann's video introducing organizational communication
+
 **Concepts:**
 
 * Defining "organization" — what makes something an organization?

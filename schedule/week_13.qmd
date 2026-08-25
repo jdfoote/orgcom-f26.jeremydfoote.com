@@ -9,6 +9,9 @@ date: "2026-11-16"
 
 * Miller, Barbour & Woo, Ch. 12
 
+{{< video https://youtu.be/5ok25qGjHD8?si=dGahsNTfFYTisfuV >}}
+Matthew Koschmann's video on diversity in organizations
+
 **Concepts:**
 
 * Diversity beyond demographics: identity, experience, and perspective

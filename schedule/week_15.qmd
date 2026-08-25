@@ -14,6 +14,8 @@ date: "2026-11-30"
 **Required Readings:**
 
 * Miller, Barbour & Woo, Ch. 13 and Ch. 14
+{{< video https://youtu.be/PqSXDfEQjlo?si=6juYKj9Hrl1ckEX2 >}}
+Matthew Koschmann's video on technology
 
 **Concepts:**
 

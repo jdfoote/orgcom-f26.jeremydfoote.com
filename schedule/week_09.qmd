@@ -9,6 +9,9 @@ date: "2026-10-19"
 
 * Miller, Barbour & Woo, Ch. 8
 
+{{< video https://youtu.be/gBmhDJwdq9I?si=_2jCjJn2F-u0dWIF >}}
+Matthew Koschmann's video on decision-making processes
+
 **Concepts:**
 
 * The rational model of decision making — and why it's rarely how decisions actually happen

@@ -9,6 +9,9 @@ date: "2026-11-02"
 
 * Miller, Barbour & Woo, Ch. 10
 
+{{< video https://youtu.be/T1UptctoRuk?si=nnPDsyA0boNt_RFx >}}
+Matthew Koschmann's video on organizational change and leadership
+
 **Concepts:**
 
 * Planned vs. emergent organizational change

@@ -9,6 +9,10 @@ date: "2026-09-07"
 
 * Miller, Barbour & Woo, Ch. 2
 
+{{< video https://youtu.be/ec-XE9fpN-w?si=QyEp6l3Hr8oR86Tg >}}
+Matthew Koschmann's video on classical approaches
+
+
 **Concepts:**
 
 * Scientific management (Taylor) — efficiency, time-and-motion studies, the worker as machine
