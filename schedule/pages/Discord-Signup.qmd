@@ -17,7 +17,7 @@ add a server, and the "Join a Server" and enter the following URL:
 This should bring you to our server. There's one more thing you need to
 do in order to get access to the class.
 
-Click the Firework/Network icon (🎆) and you should then see the COM 324
+Click the office worker icon and you should then see the COM 324
 category on the left side.
 
 A few years ago I made a video to walk you through how to do this if you get stuck. I think the process is still basically the same.
