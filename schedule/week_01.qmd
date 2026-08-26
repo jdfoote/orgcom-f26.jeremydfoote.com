@@ -28,4 +28,4 @@ date: "2026-08-24"
 
 **In Class:**
 
-* [What is an organization? Activities](/slides/what_is_an_organization.html) — gallery walk + org mapping
+* [What is an organization? Activities](/activities/what_is_an_organization.html) — gallery walk + org mapping + small group presentations

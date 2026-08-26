@@ -2,54 +2,54 @@
 title: "What is an Organization? Activities"
 ---
 
-# Activity 1: Gallery Walk
+# Activity 1: Is it an Organization?
 
 ## Setup
 
-Post each scenario card around the room. Students move through them with a marker or sticky dots (green = yes, red = no, yellow = unsure). Give about 10 minutes to visit all cards, then regroup to discuss the contested ones.
+I'll write each group name around the room. You will go around with a marker and mark whether you think each group is an organization or not. 
 
 **Discussion prompt after the walk:** What features seemed to *matter* most in deciding? What kept coming up?
 
 ---
 
-## Scenario Cards
+## Groups
 
-**Card A: Apple Inc.**
+**Group A: Apple Inc.**
 160,000 employees worldwide. Formal hierarchy, explicit goals, legal incorporation, products you can buy. Is it an organization?
 
 ---
 
-**Card B: Your Family**
+**Group B: Your Family**
 Five people who live together, share finances, have meals together, and have unspoken roles (who does dishes, who picks up kids). Is it an organization?
 
 ---
 
-**Card C: The Purdue Student Body**
+**Group C: The Purdue Student Body**
 50,000 students enrolled at Purdue. They all pay tuition, share a campus, and are governed by the same university rules — but most have never met each other. Is it an organization?
 
 ---
 
-**Card D: A Discord Fan Server**
+**Group D: A Discord Fan Server**
 3,400 members who joined a server dedicated to a TV show. They share memes, debate plot points, and have volunteer moderators who enforce rules. There are no dues, no formal leadership, no stated goals. Is it an organization?
 
 ---
 
-**Card E: A Sunday Pickup Basketball Game**
+**Group E: A Sunday Pickup Basketball Game**
 10 people who show up to the campus gym every Sunday morning to play basketball. No signup, no dues, no formal membership — just a recurring pattern. Is it an organization?
 
 ---
 
-**Card F: A Flash Mob**
+**Group F: A Flash Mob**
 200 strangers who found each other online, coordinated to perform a choreographed dance in Union Station for 5 minutes, then dispersed and never interacted again. Is it an organization?
 
 ---
 
-**Card G: A Dormant Neighborhood Association**
+**Group G: A Dormant Neighborhood Association**
 Formally incorporated, has elected officers and bylaws, collects annual dues — but hasn't held a meeting in 3 years and has no active members. Is it an organization?
 
 ---
 
-**Card H: The U.S. Federal Government**
+**Group H: The U.S. Federal Government**
 4 million employees, constitutional authority, explicit hierarchy, legal powers, and stated goals. Is it an organization?
 
 ---
@@ -63,11 +63,37 @@ Formally incorporated, has elected officers and bylaws, collects annual dues —
 
 ---
 
-# Activity 2: Org Mapping
+# Activity 2: Small Group Presentations
+
+## Instructions (~18 minutes total)
+
+In groups of 3–4, spend **8–10 minutes** answering these question:
+
+> **Why is/isn't your "group" an organization? What features are *necessary* for something to be an organization?**
+
+Try to land on **2–3 features** your group agrees are essential and some criteria for deciding whether a group has them.
+
+Be ready to share:
+- Your 2–3 necessary features
+- Your criteria for deciding whether a group has them
+
+## Group Presentations
+
+Each group takes ~2 minutes to share their features. As groups present, note where you agree and where you differ.
+
+## Debrief
+
+- Where did groups converge? Where did they disagree?
+- Did any features keep coming up across groups?
+- What influences your judgment about whether something is an organization? Why is there disagreement?
+
+---
+
+# Activity 3: My Organizations
 
 ## Instructions (individual, ~8 minutes)
 
-On a blank piece of paper, map all the organizations you are currently part of — or have been part of recently. Include formal ones (jobs, clubs, sports teams, schools) and informal ones (family, friend groups, regular gatherings) if they feel organization-like to you.
+On a blank piece of paper, write down all the organizations you are currently part of — or have been part of recently. Include formal ones (jobs, clubs, sports teams, schools) and informal ones (family, friend groups, regular gatherings) if they feel organization-like to you.
 
 For each one, note:
 
@@ -75,23 +101,21 @@ For each one, note:
 - Roughly how many people are involved
 - Whether your membership is **voluntary** or **involuntary**
 - Whether the structure is **formal** (explicit rules, roles, hierarchy) or **informal**
+- What kind of communication happens there (meetings, texts, emails, social media, etc.)
 
-Try to get at least 6–8 on your map.
 
 ## Pair Share (5 minutes)
 
-Compare maps with a partner:
+Compare lists with a partner:
 
-- What surprised you about your own list?
-- Are any of the same organizations on both of your maps?
-- Which one on your map do you know the most about *from the inside*?
+- What surprised you about your partner's list?
+- Are any of the same organizations on both of your lists?
+- Do any of your organizations have surprising communication patterns?
 
 ## Whole-Class Debrief
 
 - What types of organizations showed up most?
+- What communication patterns did you notice across different organizations?
+- What factors influenced your judgment about whether each group is an organization?
 - Did any organizations feel hard to place (voluntary vs. involuntary? formal vs. informal?)?
-- **Look at your map**: which organization would you most want to dig into for a 4-page analysis? Circle it.
-
-::: {.callout-tip}
-The organization you circle today is a strong candidate for your final project.
-:::
+- **Look at your list**: which organization would you most want to dig into for the final project?
