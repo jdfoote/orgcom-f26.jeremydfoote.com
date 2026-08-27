@@ -74,6 +74,7 @@ In groups of 3–4, spend **8–10 minutes** answering these question:
 Try to land on **2–3 features** your group agrees are essential and some criteria for deciding whether a group has them.
 
 Be ready to share:
+
 - Your 2–3 necessary features
 - Your criteria for deciding whether a group has them
 
