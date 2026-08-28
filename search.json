@@ -28,7 +28,7 @@
     "href": "schedule/week_10.html",
     "title": "Week 10: Conflict Management",
     "section": "",
-    "text": "Content for the week of Monday, October 26, 2026\n\n\n\n\n\nTuesday (Oct 27)\nRequired Readings:\n\nMiller, Barbour & Woo, Ch. 9\n\n Matthew Koschmann’s video on conflict management\nConcepts:\n\nWhat is organizational conflict? — not always negative\nConflict styles (competing, collaborating, compromising, avoiding, accommodating)\nNegotiation and mediation\nCommunication strategies for productive conflict\nHow organizational structure shapes conflict\n\nAssignment Due:\n\nReading Review Assignment\nTheory Application Short Paper (due Monday Oct 26) — Choose one concept or theory from any chapter we’ve covered so far. Find a real-world example from your own experience or current events that illustrates it. In ~2 pages, explain the concept and analyze how the example demonstrates it.\n\n\n\nThursday (Oct 29)\nIn Class:\n\nCase study: Conflict management scenarios (materials on Brightspace)",
+    "text": "Content for the week of Monday, October 26, 2026\n\n\n\n\n\nTuesday (Oct 27)\nRequired Readings:\n\nMiller, Barbour & Woo, Ch. 9\n\n Matthew Koschmann’s video on conflict management\nConcepts:\n\nWhat is organizational conflict? — not always negative\nConflict styles (competing, collaborating, compromising, avoiding, accommodating)\nNegotiation and mediation\nCommunication strategies for productive conflict\nHow organizational structure shapes conflict\n\nAssignment Due:\n\nReading Review Assignment\nTheory Application Short Paper (due Monday Oct 26)\n\n\n\nThursday (Oct 29)\nIn Class:\n\nCase study: Conflict management scenarios (materials on Brightspace)",
     "crumbs": [
       "Schedule",
       "Course content",
@@ -132,7 +132,7 @@
     "href": "schedule/week_16.html",
     "title": "Week 16: Final Presentations and Wrap-Up",
     "section": "",
-    "text": "Content for the week of Monday, December 7, 2026\n\n\n\n\n\nTuesday (Dec 8)\nAssignment Due:\n\nFinal Paper: Organizational Communication Analysis (due Monday Dec 7) — 4–5 pages analyzing the communication of an organization you belong to or have belonged to. Apply at least two theoretical frameworks from the course. Identify a key communication dynamic or challenge and reflect on your own role as a communicator within that organization.\nSelf-Assessment Reflection 3 (due Friday Dec 11)\nNo 3-2-1 this week.\n\nIn Class:\n\nFinal presentations (Part 1) — 5–7 minutes per student\n\n\n\nThursday (Dec 10)\nIn Class:\n\nFinal presentations (Part 2) — 5–7 minutes per student\nCourse wrap-up and reflection",
+    "text": "Content for the week of Monday, December 7, 2026\n\n\n\n\n\nTuesday (Dec 8)\nAssignment Due:\n\nFinal Paper: Organizational Communication Analysis (due Monday Dec 7)\nSelf-Assessment Reflection 3 (due Friday Dec 11)\nNo 3-2-1 this week.\n\nIn Class:\n\nFinal presentations (Part 1) — 5–7 minutes per student\n\n\n\nThursday (Dec 10)\nIn Class:\n\nFinal presentations (Part 2) — 5–7 minutes per student\nCourse wrap-up and reflection",
     "crumbs": [
       "Schedule",
       "Course content",
@@ -164,25 +164,272 @@
     ]
   },
   {
-    "objectID": "assignments/assignments.html",
-    "href": "assignments/assignments.html",
-    "title": "Overview of Assignments",
+    "objectID": "assignments/Initial-Self-Assessment.html",
+    "href": "assignments/Initial-Self-Assessment.html",
+    "title": "Initial Self-Assessment",
     "section": "",
-    "text": "Here you will find all of the assignments for the course.\n\nInitial Self-Assessment — due Thu, Aug 27\nSelf-Assessment Reflection — due Oct 1 and Nov 19\nTheory Application Short Paper — due Thu, Oct 22\nOrganizational Profile / Site Selection Memo — due Thu, Nov 12\nFinal Self-Assessment Reflection — due Thu, Dec 10\nFinal Paper: Organizational Communication Analysis — due Thu, Dec 10",
+    "text": "I want you to take a few minutes to answer the following questions:\n\nWhy did you decide to take this class?\nWhat do you hope to get out of this class?\nWhat aspect of the class are you most excited about? Most worried about?\nWrite a statement about the actions that you will take to help our class to be a productive learning environment, for yourself and for the rest of the students."
+  },
+  {
+    "objectID": "assignments/Theory-Application-Short-Paper.html",
+    "href": "assignments/Theory-Application-Short-Paper.html",
+    "title": "Theory Application Short Paper",
+    "section": "",
+    "text": "The goal of this assignment is to apply a theoretical lens to a real organizational situation. Ideally, you will be able to use the theory to gain new insights into the situation, and will see something you wouldn’t have noticed otherwise."
+  },
+  {
+    "objectID": "assignments/Theory-Application-Short-Paper.html#what-to-do",
+    "href": "assignments/Theory-Application-Short-Paper.html#what-to-do",
+    "title": "Theory Application Short Paper",
+    "section": "What to do",
+    "text": "What to do\n1. Choose a concept. Pick one specific concept or theory from any chapter we’ve covered so far.\n2. Find an example. Identify a real-world situation that your concept can help explain. This can be something from your own experience in an organization or a current or recent event you’ve read about. Describe the situation briefly.\n3. Apply the theory. Explain the concept in your own words and show how your example illustrates it. What does viewing the situation through the lens of the concept / framework reveal that you wouldn’t otherwise see? Are there limitations to the theory? Are there aspects of this situation that remain unexplained or confusing?\n4. Conclusion. Reflect broadly on the broader implications of your analysis: what it reveals about organizations and communication?\n\nLength: 2–3 pages, double-spaced\nFormat: 12-point font, 1-inch margins. Cite the textbook (or any other course reading) if you quote or paraphrase it. You do not need a formal reference list for a brief citation, but do include enough information for me to find the source (author, chapter, page number).\nSubmit: Brightspace by Monday, Oct 26"
+  },
+  {
+    "objectID": "assignments/Final-Paper.html",
+    "href": "assignments/Final-Paper.html",
+    "title": "Final Paper: Organizational Communication Analysis",
+    "section": "",
+    "text": "For this assignment you will apply what you have learned in this class toward understanding a real organization that you are familiar with."
+  },
+  {
+    "objectID": "assignments/Final-Paper.html#suggested-structure",
+    "href": "assignments/Final-Paper.html#suggested-structure",
+    "title": "Final Paper: Organizational Communication Analysis",
+    "section": "Suggested structure",
+    "text": "Suggested structure\nIntroduction (~1 page). Introduce the organization and your relationship to it. State your analytical focus: what communication dynamic or challenge you’ll examine, and which frameworks you’ll bring to it, and why this is the correct lens for understanding it. Your goal is to argue that these frameworks illuminate something important about the organization, and that your analysis will reveal something that wasn’t obvious before.\nAnalysis (~3–4 pages). Apply at least two theoretical frameworks from the course. For each one, clearly introduce the dynamic or challenge you’ll be examining, and show how this framework helps to understand it in a new way. Use concrete evidence from your experience in the organization to outline what is happening: things you witnessed, conversations you had, policies you encountered, patterns you noticed. Then, analyze the evidence through the lens of the framework. What does it tell us about the organization? What does it reveal, and what might it predict about the future of the organization or its processes?\nConclusion (~1 page). Do some bigger picture thinking to answer questions like: What are some of the broader implications of your analysis? What are some limitations of your analysis? What would you recommend to someone in a leadership role there, or what does the analysis explain that you previously couldn’t account for?"
+  },
+  {
+    "objectID": "assignments/Final-Paper.html#in-class-presentation",
+    "href": "assignments/Final-Paper.html#in-class-presentation",
+    "title": "Final Paper: Organizational Communication Analysis",
+    "section": "In-class presentation",
+    "text": "In-class presentation\nYour presentation (Dec 8 or 10) is a condensed version of this same analysis. You will probably use slides, but you are welcome to propose something more creative. The presentation should be no more than 5 minutes long, and should include the following:\n\nBriefly introduce the organization and your relationship to it\nExplain how at least one framework illuminates something important about the organization\nTalk about a takeaway from your analysis that you think is important for the class to understand\n\n\nLength: 5–7 pages, double-spaced (not counting references)\nSources: Cite the textbook and at least one other additional reading. Use any consistent citation format (APA, MLA, Chicago).\nSubmit: Paper on Brightspace by Monday, Dec 7. Presentations in class Dec 8 and Dec 10."
+  },
+  {
+    "objectID": "activities/what_is_an_organization.html",
+    "href": "activities/what_is_an_organization.html",
+    "title": "What is an Organization? Activities",
+    "section": "",
+    "text": "I’ll write each group name around the room. You will go around with a marker and mark whether you think each group is an organization or not.\nDiscussion prompt after the walk: What features seemed to matter most in deciding? What kept coming up?\n\n\n\n\nGroup A: Apple Inc. 160,000 employees worldwide. Formal hierarchy, explicit goals, legal incorporation, products you can buy. Is it an organization?\n\nGroup B: Your Family Five people who live together, share finances, have meals together, and have unspoken roles (who does dishes, who picks up kids). Is it an organization?\n\nGroup C: The Purdue Student Body 50,000 students enrolled at Purdue. They all pay tuition, share a campus, and are governed by the same university rules — but most have never met each other. Is it an organization?\n\nGroup D: A Discord Fan Server 3,400 members who joined a server dedicated to a TV show. They share memes, debate plot points, and have volunteer moderators who enforce rules. There are no dues, no formal leadership, no stated goals. Is it an organization?\n\nGroup E: A Sunday Pickup Basketball Game 10 people who show up to the campus gym every Sunday morning to play basketball. No signup, no dues, no formal membership — just a recurring pattern. Is it an organization?\n\nGroup F: A Flash Mob 200 strangers who found each other online, coordinated to perform a choreographed dance in Union Station for 5 minutes, then dispersed and never interacted again. Is it an organization?\n\nGroup G: A Dormant Neighborhood Association Formally incorporated, has elected officers and bylaws, collects annual dues — but hasn’t held a meeting in 3 years and has no active members. Is it an organization?\n\nGroup H: The U.S. Federal Government 4 million employees, constitutional authority, explicit hierarchy, legal powers, and stated goals. Is it an organization?\n\n\n\n\n\nWhich ones were easiest to decide? Why?\nWhich were hardest? What made them hard?\nWhat features seemed necessary for something to be an organization?\nDid any of you change your mind after seeing what others marked?"
+  },
+  {
+    "objectID": "activities/what_is_an_organization.html#setup",
+    "href": "activities/what_is_an_organization.html#setup",
+    "title": "What is an Organization? Activities",
+    "section": "",
+    "text": "I’ll write each group name around the room. You will go around with a marker and mark whether you think each group is an organization or not.\nDiscussion prompt after the walk: What features seemed to matter most in deciding? What kept coming up?"
+  },
+  {
+    "objectID": "activities/what_is_an_organization.html#groups",
+    "href": "activities/what_is_an_organization.html#groups",
+    "title": "What is an Organization? Activities",
+    "section": "",
+    "text": "Group A: Apple Inc. 160,000 employees worldwide. Formal hierarchy, explicit goals, legal incorporation, products you can buy. Is it an organization?\n\nGroup B: Your Family Five people who live together, share finances, have meals together, and have unspoken roles (who does dishes, who picks up kids). Is it an organization?\n\nGroup C: The Purdue Student Body 50,000 students enrolled at Purdue. They all pay tuition, share a campus, and are governed by the same university rules — but most have never met each other. Is it an organization?\n\nGroup D: A Discord Fan Server 3,400 members who joined a server dedicated to a TV show. They share memes, debate plot points, and have volunteer moderators who enforce rules. There are no dues, no formal leadership, no stated goals. Is it an organization?\n\nGroup E: A Sunday Pickup Basketball Game 10 people who show up to the campus gym every Sunday morning to play basketball. No signup, no dues, no formal membership — just a recurring pattern. Is it an organization?\n\nGroup F: A Flash Mob 200 strangers who found each other online, coordinated to perform a choreographed dance in Union Station for 5 minutes, then dispersed and never interacted again. Is it an organization?\n\nGroup G: A Dormant Neighborhood Association Formally incorporated, has elected officers and bylaws, collects annual dues — but hasn’t held a meeting in 3 years and has no active members. Is it an organization?\n\nGroup H: The U.S. Federal Government 4 million employees, constitutional authority, explicit hierarchy, legal powers, and stated goals. Is it an organization?"
+  },
+  {
+    "objectID": "activities/what_is_an_organization.html#debrief-questions",
+    "href": "activities/what_is_an_organization.html#debrief-questions",
+    "title": "What is an Organization? Activities",
+    "section": "",
+    "text": "Which ones were easiest to decide? Why?\nWhich were hardest? What made them hard?\nWhat features seemed necessary for something to be an organization?\nDid any of you change your mind after seeing what others marked?"
+  },
+  {
+    "objectID": "activities/what_is_an_organization.html#instructions-18-minutes-total",
+    "href": "activities/what_is_an_organization.html#instructions-18-minutes-total",
+    "title": "What is an Organization? Activities",
+    "section": "Instructions (~18 minutes total)",
+    "text": "Instructions (~18 minutes total)\nIn groups of 3–4, spend 8–10 minutes answering these question:\n\nWhy is/isn’t your “group” an organization? What features are necessary for something to be an organization?\n\nTry to land on 2–3 features your group agrees are essential and some criteria for deciding whether a group has them.\nBe ready to share:\n\nYour 2–3 necessary features\nYour criteria for deciding whether a group has them"
+  },
+  {
+    "objectID": "activities/what_is_an_organization.html#group-presentations",
+    "href": "activities/what_is_an_organization.html#group-presentations",
+    "title": "What is an Organization? Activities",
+    "section": "Group Presentations",
+    "text": "Group Presentations\nEach group takes ~2 minutes to share their features. As groups present, note where you agree and where you differ."
+  },
+  {
+    "objectID": "activities/what_is_an_organization.html#debrief",
+    "href": "activities/what_is_an_organization.html#debrief",
+    "title": "What is an Organization? Activities",
+    "section": "Debrief",
+    "text": "Debrief\n\nWhere did groups converge? Where did they disagree?\nDid any features keep coming up across groups?\nWhat influences your judgment about whether something is an organization? Why is there disagreement?"
+  },
+  {
+    "objectID": "activities/what_is_an_organization.html#instructions-individual-8-minutes",
+    "href": "activities/what_is_an_organization.html#instructions-individual-8-minutes",
+    "title": "What is an Organization? Activities",
+    "section": "Instructions (individual, ~8 minutes)",
+    "text": "Instructions (individual, ~8 minutes)\nOn a blank piece of paper, write down all the organizations you are currently part of — or have been part of recently. Include formal ones (jobs, clubs, sports teams, schools) and informal ones (family, friend groups, regular gatherings) if they feel organization-like to you.\nFor each one, note:\n\nIts name / what it is\nRoughly how many people are involved\nWhether your membership is voluntary or involuntary\nWhether the structure is formal (explicit rules, roles, hierarchy) or informal\nWhat kind of communication happens there (meetings, texts, emails, social media, etc.)"
+  },
+  {
+    "objectID": "activities/what_is_an_organization.html#pair-share-5-minutes",
+    "href": "activities/what_is_an_organization.html#pair-share-5-minutes",
+    "title": "What is an Organization? Activities",
+    "section": "Pair Share (5 minutes)",
+    "text": "Pair Share (5 minutes)\nCompare lists with a partner:\n\nWhat surprised you about your partner’s list?\nAre any of the same organizations on both of your lists?\nDo any of your organizations have surprising communication patterns?"
+  },
+  {
+    "objectID": "activities/what_is_an_organization.html#whole-class-debrief",
+    "href": "activities/what_is_an_organization.html#whole-class-debrief",
+    "title": "What is an Organization? Activities",
+    "section": "Whole-Class Debrief",
+    "text": "Whole-Class Debrief\n\nWhat types of organizations showed up most?\nWhat communication patterns did you notice across different organizations?\nWhat factors influenced your judgment about whether each group is an organization?\nDid any organizations feel hard to place (voluntary vs. involuntary? formal vs. informal?)?\nLook at your list: which organization would you most want to dig into for the final project?"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Organizational Communication",
+    "section": "",
+    "text": "Welcome to Organizational Communication (COM 324)!\nIn this class, we will explore how communication shapes and is shaped by organizational life. We will examine the major theories and frameworks for understanding communication within and between organizations, and apply them to real-world contexts.\nThe top of the page includes links to the syllabus, schedule, and assignments. Check the schedule each week for readings and any assignments due."
+  },
+  {
+    "objectID": "slides/week_01.html#about-me",
+    "href": "slides/week_01.html#about-me",
+    "title": "Organizational Communication",
+    "section": "About me",
+    "text": "About me"
+  },
+  {
+    "objectID": "slides/week_01.html#dad-joke",
+    "href": "slides/week_01.html#dad-joke",
+    "title": "Organizational Communication",
+    "section": "Dad Joke",
+    "text": "Dad Joke\nWhy did the nearsighted man fall into the well?\nHe couldn’t see that well."
+  },
+  {
+    "objectID": "slides/week_01.html#ais-attempt-at-a-dad-joke",
+    "href": "slides/week_01.html#ais-attempt-at-a-dad-joke",
+    "title": "Organizational Communication",
+    "section": "AI’s attempt at a dad joke",
+    "text": "AI’s attempt at a dad joke\nWhy did the manager get promoted?\nShe really knew how to work through the channels."
+  },
+  {
+    "objectID": "slides/week_01.html#introductions",
+    "href": "slides/week_01.html#introductions",
+    "title": "Organizational Communication",
+    "section": "Introductions",
+    "text": "Introductions\n\nName\nYear / Major\nAn organization you’re currently part of (team, job, club, family business, etc.)"
+  },
+  {
+    "objectID": "slides/week_01.html#deeper-introductions",
+    "href": "slides/week_01.html#deeper-introductions",
+    "title": "Organizational Communication",
+    "section": "Deeper introductions",
+    "text": "Deeper introductions\n\nSome research that we enjoy deeper conversations, even with strangers\nWe’re going to try it\nFor 2 minutes, discuss:\n\nWhat are your hobbies? For 8 minutes (4 minutes per person), discuss:\nWhat do you love doing?\nWhat do you regret most in life?"
+  },
+  {
+    "objectID": "slides/week_01.html#what-is-organizational-communication",
+    "href": "slides/week_01.html#what-is-organizational-communication",
+    "title": "Organizational Communication",
+    "section": "What is organizational communication?",
+    "text": "What is organizational communication?\n\nWhat is an organization?\n\nA group of people working together to achieve a goal\nSurprisingly hard to define!\n\nWe spend most of our lives in organizations\n\nSchools, workplaces, families, teams, clubs, governments\n\nCommunication is what makes organizations work"
+  },
+  {
+    "objectID": "slides/week_01.html#this-course",
+    "href": "slides/week_01.html#this-course",
+    "title": "Organizational Communication",
+    "section": "This course",
+    "text": "This course\nWe’ll look at:\n\nHow communication creates organizational culture\nHow power and identity operate in workplaces\nHow conflict, decision-making, and emotion are fundamentally communicative\nHow organizations interact with their broader environments"
+  },
+  {
+    "objectID": "slides/week_01.html#goals",
+    "href": "slides/week_01.html#goals",
+    "title": "Organizational Communication",
+    "section": "Goals",
+    "text": "Goals\n\nUnderstand the major theoretical traditions in organizational communication\nIdentify organizational problems and propose practical solutions.\nReflect on your own experiences and expectations as an organizational member.\nDescribe how communication functions in organizations, between organizations, and in organizing.\nApply concepts to real-world situations in your own life"
+  },
+  {
+    "objectID": "slides/week_01.html#class-format",
+    "href": "slides/week_01.html#class-format",
+    "title": "Organizational Communication",
+    "section": "Class format",
+    "text": "Class format\nTuesdays — Discussion-centric\n\nBrief recap of the reading and concepts\nGuided discussion driven by your questions and 3-2-1s\nCold calling (friendly!) to ensure everyone participates\n\nThursdays — Workshop\n\nApply concepts to case studies in groups\nAlso project work, peer feedback, exams"
+  },
+  {
+    "objectID": "slides/week_01.html#grading",
+    "href": "slides/week_01.html#grading",
+    "title": "Organizational Communication",
+    "section": "Grading",
+    "text": "Grading\n\nNormal grading has some unintended consequences\n\n\n\n\n\n\n\nHow can we build a community where the goal is actually learning?"
+  },
+  {
+    "objectID": "slides/week_01.html#self-assessment-grading",
+    "href": "slides/week_01.html#self-assessment-grading",
+    "title": "Organizational Communication",
+    "section": "Self-assessment grading",
+    "text": "Self-assessment grading\n\nI’m interested in teaching, not assessing\nAt three points this semester you’ll reflect on your work and propose a grade\n\nOct 1\nNov 19\nDec 10\n\nI’ll provide feedback; if I disagree I’ll reach out\nExams are graded normally (they’re 30% of the grade)"
+  },
+  {
+    "objectID": "slides/week_01.html#assignments",
+    "href": "slides/week_01.html#assignments",
+    "title": "Organizational Communication",
+    "section": "Assignments",
+    "text": "Assignments\n3-2-1 Reading Reviews (before most Tuesdays)\n\n3 concepts / connections\n2 questions / confusions\n1 discussion question → post to Discord #discussions\n\nOR: AI Conversation — have a dialogue with AI about the reading, share the link + a reflection"
+  },
+  {
+    "objectID": "slides/week_01.html#more-assignments",
+    "href": "slides/week_01.html#more-assignments",
+    "title": "Organizational Communication",
+    "section": "More assignments",
+    "text": "More assignments\n\nIn-class case studies (most Thursdays) — group work, no outside prep needed\nTheory Application Short Paper (~2 pp) — due Oct 22\nOrganizational Profile memo (~1–2 pp) — due Nov 12\nFinal Project — 4–5 pp analysis + 5–7 min presentation — due Dec 10\n2 in-class exams — Oct 8 and Dec 1"
+  },
+  {
+    "objectID": "slides/week_01.html#resources",
+    "href": "slides/week_01.html#resources",
+    "title": "Organizational Communication",
+    "section": "Resources",
+    "text": "Resources\nDiscord — primary place for questions and announcements\nCourse website — syllabus, schedule, slides, assignment details\nBrightspace — submit assignments; some readings\nOffice hours — Tuesdays 1–3 PM, BRNG 2134 (or by appointment)"
+  },
+  {
+    "objectID": "slides/week_01.html#ai-policy",
+    "href": "slides/week_01.html#ai-policy",
+    "title": "Organizational Communication",
+    "section": "AI Policy",
+    "text": "AI Policy\nAI is a powerful tool. I want you to use it well, not avoid it.\n\nUse AI to understand concepts and readings\nUse AI for feedback on your writing\nUse AI as a conversation partner (it’s literally an assignment option)\nDon’t use AI to write your assignments for you\n\nThe principle: scaffold, not shortcut"
+  },
+  {
+    "objectID": "slides/week_01.html#thursday",
+    "href": "slides/week_01.html#thursday",
+    "title": "Organizational Communication",
+    "section": "Thursday",
+    "text": "Thursday\n“What is an organization?” activities"
+  },
+  {
+    "objectID": "slides/week_01.html#before-thursday",
+    "href": "slides/week_01.html#before-thursday",
+    "title": "Organizational Communication",
+    "section": "Before Thursday",
+    "text": "Before Thursday\n\nRead the full syllabus\nComplete the Initial Self-Assessment on Brightspace\nMake sure you’re on Discord"
+  },
+  {
+    "objectID": "slides/week_01.html#questions",
+    "href": "slides/week_01.html#questions",
+    "title": "Organizational Communication",
+    "section": "Questions?",
+    "text": "Questions?"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule for the semester",
+    "section": "",
+    "text": "Each week is outlined in the sidebar. Click on a week to see the schedule for that week. This includes readings, and assignments.",
     "crumbs": [
-      "Assignments",
-      "Overview"
+      "Schedule",
+      "Overview",
+      "Schedule for the semester"
     ]
   },
   {
-    "objectID": "assignments/Final-Self-Assessment-Reflection.html",
-    "href": "assignments/Final-Self-Assessment-Reflection.html",
-    "title": "Final Self-Assessment Reflection",
-    "section": "",
-    "text": "Answer the following questions about your learning and participation across the whole semester. I am not expecting extensive essays — some questions may be answered in a sentence, while others may inspire more detail.\n\nWhat have you done to ensure that you understand the material and concepts in this course?\nHow have you addressed previous goals, challenges, and/or feedback over the course of the semester?\nHow has your understanding of organizations and communication changed since the start of the semester? Point to specific concepts or moments that shifted your thinking.\nHow did working on your final project — analyzing your own organization — change how you see it?\nWhat have you learned in this class that you will carry with you into your own life?\nWhat obstacles have you overcome this semester?\nWhat else would you like to share?\n\n\nNext, look back through Brightspace and Discord and review the work you’ve done across the semester. Think as well about your participation in Tuesday discussions, Thursday case studies, and your reading reviews. Also review the grade-level descriptions in the syllabus.\n\nBased on your answers above, the work you have done, and the grade-level descriptions in the syllabus, what grade would you assign yourself for the course? Why?\n\n\nFinally, some feedback for me:\n\nWhat did you enjoy most about this class?\nWhat are two ways in which this class could be better?\n\nFeel free to share this feedback anonymously at this link if you prefer.",
+    "objectID": "schedule.html#key-due-dates",
+    "href": "schedule.html#key-due-dates",
+    "title": "Schedule for the semester",
+    "section": "Key Due Dates",
+    "text": "Key Due Dates\n\n\n\nDate\nAssignment\n\n\n\n\nMon, Sep 28\nSelf-Assessment Reflection 1\n\n\nThu, Oct 8\nExam 1 (Chs. 1–6)\n\n\nMon, Oct 26\nTheory Application Short Paper\n\n\nMon, Nov 9\nOrganizational Profile / Site Selection Memo\n\n\nMon, Nov 9\nSelf-Assessment Reflection 2\n\n\nTue, Dec 1\nExam 2 (Chs. 7–12)\n\n\nMon, Dec 7\nFinal Paper: Organizational Communication Analysis\n\n\nFri, Dec 11\nFinal Self-Assessment Reflection",
     "crumbs": [
-      "Assignments",
-      "Final Self-Assessment Reflection"
+      "Schedule",
+      "Overview",
+      "Schedule for the semester"
     ]
   },
   {
@@ -333,231 +580,15 @@
     "text": "Additional Policies\nLinks to additional Purdue policies are on our Brightspace page. If you have questions about policies please get in touch."
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule for the semester",
+    "objectID": "assignments/Final-Self-Assessment-Reflection.html",
+    "href": "assignments/Final-Self-Assessment-Reflection.html",
+    "title": "Final Self-Assessment Reflection",
     "section": "",
-    "text": "Each week is outlined in the sidebar. Click on a week to see the schedule for that week. This includes readings, and assignments.",
+    "text": "Answer the following questions about your learning and participation across the whole semester. I am not expecting extensive essays — some questions may be answered in a sentence, while others may inspire more detail.\n\nWhat have you done to ensure that you understand the material and concepts in this course?\nHow have you addressed previous goals, challenges, and/or feedback over the course of the semester?\nHow has your understanding of organizations and communication changed since the start of the semester? Point to specific concepts or moments that shifted your thinking.\nHow did working on your final project — analyzing your own organization — change how you see it?\nWhat have you learned in this class that you will carry with you into your own life?\nWhat obstacles have you overcome this semester?\nWhat else would you like to share?\n\n\nNext, look back through Brightspace and Discord and review the work you’ve done across the semester. Think as well about your participation in Tuesday discussions, Thursday case studies, and your reading reviews. Also review the grade-level descriptions in the syllabus.\n\nBased on your answers above, the work you have done, and the grade-level descriptions in the syllabus, what grade would you assign yourself for the course? Why?\n\n\nFinally, some feedback for me:\n\nWhat did you enjoy most about this class?\nWhat are two ways in which this class could be better?\n\nFeel free to share this feedback anonymously at this link if you prefer.",
     "crumbs": [
-      "Schedule",
-      "Overview",
-      "Schedule for the semester"
+      "Assignments",
+      "Final Self-Assessment Reflection"
     ]
-  },
-  {
-    "objectID": "schedule.html#key-due-dates",
-    "href": "schedule.html#key-due-dates",
-    "title": "Schedule for the semester",
-    "section": "Key Due Dates",
-    "text": "Key Due Dates\n\n\n\nDate\nAssignment\n\n\n\n\nMon, Sep 28\nSelf-Assessment Reflection 1\n\n\nThu, Oct 8\nExam 1 (Chs. 1–6)\n\n\nMon, Oct 26\nTheory Application Short Paper\n\n\nMon, Nov 9\nOrganizational Profile / Site Selection Memo\n\n\nMon, Nov 9\nSelf-Assessment Reflection 2\n\n\nTue, Dec 1\nExam 2 (Chs. 7–12)\n\n\nMon, Dec 7\nFinal Paper: Organizational Communication Analysis\n\n\nFri, Dec 11\nFinal Self-Assessment Reflection",
-    "crumbs": [
-      "Schedule",
-      "Overview",
-      "Schedule for the semester"
-    ]
-  },
-  {
-    "objectID": "slides/week_01.html#about-me",
-    "href": "slides/week_01.html#about-me",
-    "title": "Organizational Communication",
-    "section": "About me",
-    "text": "About me"
-  },
-  {
-    "objectID": "slides/week_01.html#dad-joke",
-    "href": "slides/week_01.html#dad-joke",
-    "title": "Organizational Communication",
-    "section": "Dad Joke",
-    "text": "Dad Joke\nWhy did the nearsighted man fall into the well?\nHe couldn’t see that well."
-  },
-  {
-    "objectID": "slides/week_01.html#ais-attempt-at-a-dad-joke",
-    "href": "slides/week_01.html#ais-attempt-at-a-dad-joke",
-    "title": "Organizational Communication",
-    "section": "AI’s attempt at a dad joke",
-    "text": "AI’s attempt at a dad joke\nWhy did the manager get promoted?\nShe really knew how to work through the channels."
-  },
-  {
-    "objectID": "slides/week_01.html#introductions",
-    "href": "slides/week_01.html#introductions",
-    "title": "Organizational Communication",
-    "section": "Introductions",
-    "text": "Introductions\n\nName\nYear / Major\nAn organization you’re currently part of (team, job, club, family business, etc.)"
-  },
-  {
-    "objectID": "slides/week_01.html#deeper-introductions",
-    "href": "slides/week_01.html#deeper-introductions",
-    "title": "Organizational Communication",
-    "section": "Deeper introductions",
-    "text": "Deeper introductions\n\nSome research that we enjoy deeper conversations, even with strangers\nWe’re going to try it\nFor 2 minutes, discuss:\n\nWhat are your hobbies? For 8 minutes (4 minutes per person), discuss:\nWhat do you love doing?\nWhat do you regret most in life?"
-  },
-  {
-    "objectID": "slides/week_01.html#what-is-organizational-communication",
-    "href": "slides/week_01.html#what-is-organizational-communication",
-    "title": "Organizational Communication",
-    "section": "What is organizational communication?",
-    "text": "What is organizational communication?\n\nWhat is an organization?\n\nA group of people working together to achieve a goal\nSurprisingly hard to define!\n\nWe spend most of our lives in organizations\n\nSchools, workplaces, families, teams, clubs, governments\n\nCommunication is what makes organizations work"
-  },
-  {
-    "objectID": "slides/week_01.html#this-course",
-    "href": "slides/week_01.html#this-course",
-    "title": "Organizational Communication",
-    "section": "This course",
-    "text": "This course\nWe’ll look at:\n\nHow communication creates organizational culture\nHow power and identity operate in workplaces\nHow conflict, decision-making, and emotion are fundamentally communicative\nHow organizations interact with their broader environments"
-  },
-  {
-    "objectID": "slides/week_01.html#goals",
-    "href": "slides/week_01.html#goals",
-    "title": "Organizational Communication",
-    "section": "Goals",
-    "text": "Goals\n\nUnderstand the major theoretical traditions in organizational communication\nIdentify organizational problems and propose practical solutions.\nReflect on your own experiences and expectations as an organizational member.\nDescribe how communication functions in organizations, between organizations, and in organizing.\nApply concepts to real-world situations in your own life"
-  },
-  {
-    "objectID": "slides/week_01.html#class-format",
-    "href": "slides/week_01.html#class-format",
-    "title": "Organizational Communication",
-    "section": "Class format",
-    "text": "Class format\nTuesdays — Discussion-centric\n\nBrief recap of the reading and concepts\nGuided discussion driven by your questions and 3-2-1s\nCold calling (friendly!) to ensure everyone participates\n\nThursdays — Workshop\n\nApply concepts to case studies in groups\nAlso project work, peer feedback, exams"
-  },
-  {
-    "objectID": "slides/week_01.html#grading",
-    "href": "slides/week_01.html#grading",
-    "title": "Organizational Communication",
-    "section": "Grading",
-    "text": "Grading\n\nNormal grading has some unintended consequences\n\n\n\n\n\n\n\nHow can we build a community where the goal is actually learning?"
-  },
-  {
-    "objectID": "slides/week_01.html#self-assessment-grading",
-    "href": "slides/week_01.html#self-assessment-grading",
-    "title": "Organizational Communication",
-    "section": "Self-assessment grading",
-    "text": "Self-assessment grading\n\nI’m interested in teaching, not assessing\nAt three points this semester you’ll reflect on your work and propose a grade\n\nOct 1\nNov 19\nDec 10\n\nI’ll provide feedback; if I disagree I’ll reach out\nExams are graded normally (they’re 30% of the grade)"
-  },
-  {
-    "objectID": "slides/week_01.html#assignments",
-    "href": "slides/week_01.html#assignments",
-    "title": "Organizational Communication",
-    "section": "Assignments",
-    "text": "Assignments\n3-2-1 Reading Reviews (before most Tuesdays)\n\n3 concepts / connections\n2 questions / confusions\n1 discussion question → post to Discord #discussions\n\nOR: AI Conversation — have a dialogue with AI about the reading, share the link + a reflection"
-  },
-  {
-    "objectID": "slides/week_01.html#more-assignments",
-    "href": "slides/week_01.html#more-assignments",
-    "title": "Organizational Communication",
-    "section": "More assignments",
-    "text": "More assignments\n\nIn-class case studies (most Thursdays) — group work, no outside prep needed\nTheory Application Short Paper (~2 pp) — due Oct 22\nOrganizational Profile memo (~1–2 pp) — due Nov 12\nFinal Project — 4–5 pp analysis + 5–7 min presentation — due Dec 10\n2 in-class exams — Oct 8 and Dec 1"
-  },
-  {
-    "objectID": "slides/week_01.html#resources",
-    "href": "slides/week_01.html#resources",
-    "title": "Organizational Communication",
-    "section": "Resources",
-    "text": "Resources\nDiscord — primary place for questions and announcements\nCourse website — syllabus, schedule, slides, assignment details\nBrightspace — submit assignments; some readings\nOffice hours — Tuesdays 1–3 PM, BRNG 2134 (or by appointment)"
-  },
-  {
-    "objectID": "slides/week_01.html#ai-policy",
-    "href": "slides/week_01.html#ai-policy",
-    "title": "Organizational Communication",
-    "section": "AI Policy",
-    "text": "AI Policy\nAI is a powerful tool. I want you to use it well, not avoid it.\n\nUse AI to understand concepts and readings\nUse AI for feedback on your writing\nUse AI as a conversation partner (it’s literally an assignment option)\nDon’t use AI to write your assignments for you\n\nThe principle: scaffold, not shortcut"
-  },
-  {
-    "objectID": "slides/week_01.html#thursday",
-    "href": "slides/week_01.html#thursday",
-    "title": "Organizational Communication",
-    "section": "Thursday",
-    "text": "Thursday\n“What is an organization?” activities"
-  },
-  {
-    "objectID": "slides/week_01.html#before-thursday",
-    "href": "slides/week_01.html#before-thursday",
-    "title": "Organizational Communication",
-    "section": "Before Thursday",
-    "text": "Before Thursday\n\nRead the full syllabus\nComplete the Initial Self-Assessment on Brightspace\nMake sure you’re on Discord"
-  },
-  {
-    "objectID": "slides/week_01.html#questions",
-    "href": "slides/week_01.html#questions",
-    "title": "Organizational Communication",
-    "section": "Questions?",
-    "text": "Questions?"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Organizational Communication",
-    "section": "",
-    "text": "Welcome to Organizational Communication (COM 324)!\nIn this class, we will explore how communication shapes and is shaped by organizational life. We will examine the major theories and frameworks for understanding communication within and between organizations, and apply them to real-world contexts.\nThe top of the page includes links to the syllabus, schedule, and assignments. Check the schedule each week for readings and any assignments due."
-  },
-  {
-    "objectID": "activities/what_is_an_organization.html",
-    "href": "activities/what_is_an_organization.html",
-    "title": "What is an Organization? Activities",
-    "section": "",
-    "text": "I’ll write each group name around the room. You will go around with a marker and mark whether you think each group is an organization or not.\nDiscussion prompt after the walk: What features seemed to matter most in deciding? What kept coming up?\n\n\n\n\nGroup A: Apple Inc. 160,000 employees worldwide. Formal hierarchy, explicit goals, legal incorporation, products you can buy. Is it an organization?\n\nGroup B: Your Family Five people who live together, share finances, have meals together, and have unspoken roles (who does dishes, who picks up kids). Is it an organization?\n\nGroup C: The Purdue Student Body 50,000 students enrolled at Purdue. They all pay tuition, share a campus, and are governed by the same university rules — but most have never met each other. Is it an organization?\n\nGroup D: A Discord Fan Server 3,400 members who joined a server dedicated to a TV show. They share memes, debate plot points, and have volunteer moderators who enforce rules. There are no dues, no formal leadership, no stated goals. Is it an organization?\n\nGroup E: A Sunday Pickup Basketball Game 10 people who show up to the campus gym every Sunday morning to play basketball. No signup, no dues, no formal membership — just a recurring pattern. Is it an organization?\n\nGroup F: A Flash Mob 200 strangers who found each other online, coordinated to perform a choreographed dance in Union Station for 5 minutes, then dispersed and never interacted again. Is it an organization?\n\nGroup G: A Dormant Neighborhood Association Formally incorporated, has elected officers and bylaws, collects annual dues — but hasn’t held a meeting in 3 years and has no active members. Is it an organization?\n\nGroup H: The U.S. Federal Government 4 million employees, constitutional authority, explicit hierarchy, legal powers, and stated goals. Is it an organization?\n\n\n\n\n\nWhich ones were easiest to decide? Why?\nWhich were hardest? What made them hard?\nWhat features seemed necessary for something to be an organization?\nDid any of you change your mind after seeing what others marked?"
-  },
-  {
-    "objectID": "activities/what_is_an_organization.html#setup",
-    "href": "activities/what_is_an_organization.html#setup",
-    "title": "What is an Organization? Activities",
-    "section": "",
-    "text": "I’ll write each group name around the room. You will go around with a marker and mark whether you think each group is an organization or not.\nDiscussion prompt after the walk: What features seemed to matter most in deciding? What kept coming up?"
-  },
-  {
-    "objectID": "activities/what_is_an_organization.html#groups",
-    "href": "activities/what_is_an_organization.html#groups",
-    "title": "What is an Organization? Activities",
-    "section": "",
-    "text": "Group A: Apple Inc. 160,000 employees worldwide. Formal hierarchy, explicit goals, legal incorporation, products you can buy. Is it an organization?\n\nGroup B: Your Family Five people who live together, share finances, have meals together, and have unspoken roles (who does dishes, who picks up kids). Is it an organization?\n\nGroup C: The Purdue Student Body 50,000 students enrolled at Purdue. They all pay tuition, share a campus, and are governed by the same university rules — but most have never met each other. Is it an organization?\n\nGroup D: A Discord Fan Server 3,400 members who joined a server dedicated to a TV show. They share memes, debate plot points, and have volunteer moderators who enforce rules. There are no dues, no formal leadership, no stated goals. Is it an organization?\n\nGroup E: A Sunday Pickup Basketball Game 10 people who show up to the campus gym every Sunday morning to play basketball. No signup, no dues, no formal membership — just a recurring pattern. Is it an organization?\n\nGroup F: A Flash Mob 200 strangers who found each other online, coordinated to perform a choreographed dance in Union Station for 5 minutes, then dispersed and never interacted again. Is it an organization?\n\nGroup G: A Dormant Neighborhood Association Formally incorporated, has elected officers and bylaws, collects annual dues — but hasn’t held a meeting in 3 years and has no active members. Is it an organization?\n\nGroup H: The U.S. Federal Government 4 million employees, constitutional authority, explicit hierarchy, legal powers, and stated goals. Is it an organization?"
-  },
-  {
-    "objectID": "activities/what_is_an_organization.html#debrief-questions",
-    "href": "activities/what_is_an_organization.html#debrief-questions",
-    "title": "What is an Organization? Activities",
-    "section": "",
-    "text": "Which ones were easiest to decide? Why?\nWhich were hardest? What made them hard?\nWhat features seemed necessary for something to be an organization?\nDid any of you change your mind after seeing what others marked?"
-  },
-  {
-    "objectID": "activities/what_is_an_organization.html#instructions-18-minutes-total",
-    "href": "activities/what_is_an_organization.html#instructions-18-minutes-total",
-    "title": "What is an Organization? Activities",
-    "section": "Instructions (~18 minutes total)",
-    "text": "Instructions (~18 minutes total)\nIn groups of 3–4, spend 8–10 minutes answering these question:\n\nWhy is/isn’t your “group” an organization? What features are necessary for something to be an organization?\n\nTry to land on 2–3 features your group agrees are essential and some criteria for deciding whether a group has them.\nBe ready to share:\n\nYour 2–3 necessary features\nYour criteria for deciding whether a group has them"
-  },
-  {
-    "objectID": "activities/what_is_an_organization.html#group-presentations",
-    "href": "activities/what_is_an_organization.html#group-presentations",
-    "title": "What is an Organization? Activities",
-    "section": "Group Presentations",
-    "text": "Group Presentations\nEach group takes ~2 minutes to share their features. As groups present, note where you agree and where you differ."
-  },
-  {
-    "objectID": "activities/what_is_an_organization.html#debrief",
-    "href": "activities/what_is_an_organization.html#debrief",
-    "title": "What is an Organization? Activities",
-    "section": "Debrief",
-    "text": "Debrief\n\nWhere did groups converge? Where did they disagree?\nDid any features keep coming up across groups?\nWhat influences your judgment about whether something is an organization? Why is there disagreement?"
-  },
-  {
-    "objectID": "activities/what_is_an_organization.html#instructions-individual-8-minutes",
-    "href": "activities/what_is_an_organization.html#instructions-individual-8-minutes",
-    "title": "What is an Organization? Activities",
-    "section": "Instructions (individual, ~8 minutes)",
-    "text": "Instructions (individual, ~8 minutes)\nOn a blank piece of paper, write down all the organizations you are currently part of — or have been part of recently. Include formal ones (jobs, clubs, sports teams, schools) and informal ones (family, friend groups, regular gatherings) if they feel organization-like to you.\nFor each one, note:\n\nIts name / what it is\nRoughly how many people are involved\nWhether your membership is voluntary or involuntary\nWhether the structure is formal (explicit rules, roles, hierarchy) or informal\nWhat kind of communication happens there (meetings, texts, emails, social media, etc.)"
-  },
-  {
-    "objectID": "activities/what_is_an_organization.html#pair-share-5-minutes",
-    "href": "activities/what_is_an_organization.html#pair-share-5-minutes",
-    "title": "What is an Organization? Activities",
-    "section": "Pair Share (5 minutes)",
-    "text": "Pair Share (5 minutes)\nCompare lists with a partner:\n\nWhat surprised you about your partner’s list?\nAre any of the same organizations on both of your lists?\nDo any of your organizations have surprising communication patterns?"
-  },
-  {
-    "objectID": "activities/what_is_an_organization.html#whole-class-debrief",
-    "href": "activities/what_is_an_organization.html#whole-class-debrief",
-    "title": "What is an Organization? Activities",
-    "section": "Whole-Class Debrief",
-    "text": "Whole-Class Debrief\n\nWhat types of organizations showed up most?\nWhat communication patterns did you notice across different organizations?\nWhat factors influenced your judgment about whether each group is an organization?\nDid any organizations feel hard to place (voluntary vs. involuntary? formal vs. informal?)?\nLook at your list: which organization would you most want to dig into for the final project?"
   },
   {
     "objectID": "assignments/Self-Assessment-Reflection.html",
@@ -571,18 +602,43 @@
     ]
   },
   {
-    "objectID": "assignments/Initial-Self-Assessment.html",
-    "href": "assignments/Initial-Self-Assessment.html",
-    "title": "Initial Self-Assessment",
+    "objectID": "assignments/assignments.html",
+    "href": "assignments/assignments.html",
+    "title": "Overview of Assignments",
     "section": "",
-    "text": "I want you to take a few minutes to answer the following questions:\n\nWhy did you decide to take this class?\nWhat do you hope to get out of this class?\nWhat aspect of the class are you most excited about? Most worried about?\nWrite a statement about the actions that you will take to help our class to be a productive learning environment, for yourself and for the rest of the students."
+    "text": "Here you will find all of the assignments for the course.\n\nInitial Self-Assessment — due Mon, Aug 25\nSelf-Assessment Reflection 1 — due Mon, Sep 28\nTheory Application Short Paper — due Mon, Oct 26\nSelf-Assessment Reflection 2 — due Mon, Nov 9\nOrganizational Profile / Site Selection Memo — due Mon, Nov 9\nFinal Paper: Organizational Communication Analysis — due Mon, Dec 7\nFinal Self-Assessment Reflection — due Fri, Dec 11",
+    "crumbs": [
+      "Assignments",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "assignments/Site-Selection-Memo.html",
+    "href": "assignments/Site-Selection-Memo.html",
+    "title": "Organizational Profile / Site Selection Memo",
+    "section": "",
+    "text": "The goal of this assignment is just to make sure that you are choosing a reasonable organization and strategy for your final project. By doing this early, I can give you feedback early; it also helps you to think seriously about your topic while there’s still time to change course."
+  },
+  {
+    "objectID": "assignments/Site-Selection-Memo.html#what-to-include",
+    "href": "assignments/Site-Selection-Memo.html#what-to-include",
+    "title": "Organizational Profile / Site Selection Memo",
+    "section": "What to include",
+    "text": "What to include\n1. The organization. What is the organization that you want to analyze. What kind of organization it is, its size, sector, and your relationship to it (current or former job, student group, volunteer role, athletic team, family business, religious organization, etc.).\n2. Why this organization. Why did you choose this organization? What is interesting about how communication happens within / around the organization?\n3. Theoretical frameworks. Identify 2–3 concepts or frameworks from the course that you expect will be most useful for analyzing this organization’s communication. For each one, say briefly why you think it fits and how you think you might use it to study / analyze the organization.\n4. Your data collection strategy. What information do you need and how will you collect it? For some questions, your own experience as a member and/or publicly available information are sufficient. However, you might want to conduct interviews or send out surveys for other questions. Tell me about your plan."
+  },
+  {
+    "objectID": "assignments/Site-Selection-Memo.html#tips-for-choosing-a-good-organization",
+    "href": "assignments/Site-Selection-Memo.html#tips-for-choosing-a-good-organization",
+    "title": "Organizational Profile / Site Selection Memo",
+    "section": "Tips for choosing a good organization",
+    "text": "Tips for choosing a good organization\n\nPick an organization you know well enough to write specifically about. Vague generalizations don’t make for good analysis.\nAvoid organizations that are so large that focused analysis is really difficult (e.g., “the U.S. government,” “Amazon”).\nAvoid organizations so small or thin that there’s nothing to analyze.\nPast organizations are fine — a former job, a team you’ve left, a group that no longer exists.\nYou probably want to avoid organizations where your personal entanglement might make analysis uncomfortable (close family, romantic relationships).\n\n\nLength: 1–2 pages\nSubmit: Brightspace by Monday, Nov 9"
   },
   {
     "objectID": "schedule/week_12.html",
     "href": "schedule/week_12.html",
     "title": "Week 12: Emotion in the Workplace",
     "section": "",
-    "text": "Content for the week of Monday, November 9, 2026\n\n\n\n\n\nTuesday (Nov 10)\nRequired Readings:\n\nMiller, Barbour & Woo, Ch. 11  Matthew Koschmann’s video on emotion in the workplace\n\nConcepts:\n\nEmotional labor: managing feelings as part of the job\nSurface acting vs. deep acting — and the cost of each\nEmotional intelligence in organizations\nBurnout: when emotional demands outpace resources\nOrganizational norms around emotion: what’s allowed, what’s suppressed\n\nAssignment Due:\n\nReading Review Assignment\nOrganizational Profile / Site Selection Memo (due Monday Nov 9) — In 1–2 pages, identify the organization you’ll analyze for your final project. Describe the organization briefly (type, size, your role in it), explain why you chose it, and identify 2–3 course concepts you think will be most useful for analyzing its communication. This is your commitment to your final project topic.\nSelf-Assessment Reflection 2 (due Monday Nov 9)\n\n\n\nThursday (Nov 12)\nIn Class:\n\nCase study: Emotion in the workplace (materials on Brightspace)",
+    "text": "Content for the week of Monday, November 9, 2026\n\n\n\n\n\nTuesday (Nov 10)\nRequired Readings:\n\nMiller, Barbour & Woo, Ch. 11  Matthew Koschmann’s video on emotion in the workplace\n\nConcepts:\n\nEmotional labor: managing feelings as part of the job\nSurface acting vs. deep acting — and the cost of each\nEmotional intelligence in organizations\nBurnout: when emotional demands outpace resources\nOrganizational norms around emotion: what’s allowed, what’s suppressed\n\nAssignment Due:\n\nReading Review Assignment\nOrganizational Profile / Site Selection Memo (due Monday Nov 9)\nSelf-Assessment Reflection 2 (due Monday Nov 9)\n\n\n\nThursday (Nov 12)\nIn Class:\n\nCase study: Emotion in the workplace (materials on Brightspace)",
     "crumbs": [
       "Schedule",
       "Course content",
