@@ -7,7 +7,7 @@ date: "2026-12-07"
 
 **Assignment Due:**
 
-* **Final Paper: Organizational Communication Analysis** (due Monday Dec 7) — 4–5 pages analyzing the communication of an organization you belong to or have belonged to. Apply at least two theoretical frameworks from the course. Identify a key communication dynamic or challenge and reflect on your own role as a communicator within that organization.
+* [Final Paper: Organizational Communication Analysis](/assignments/Final-Paper.html) (due Monday Dec 7)
 * [Self-Assessment Reflection 3](/assignments/Final-Self-Assessment-Reflection.html) (due Friday Dec 11)
 * No 3-2-1 this week.
 

@@ -4,9 +4,10 @@ title: Overview of Assignments
 
 Here you will find all of the assignments for the course.
 
-* [Initial Self-Assessment](Initial-Self-Assessment.html) — due Thu, Aug 27
-* [Self-Assessment Reflection](Self-Assessment-Reflection.html) — due Oct 1 and Nov 19
-* [Theory Application Short Paper](../schedule/week_09.html) — due Thu, Oct 22
-* [Organizational Profile / Site Selection Memo](../schedule/week_12.html) — due Thu, Nov 12
-* [Final Self-Assessment Reflection](Final-Self-Assessment-Reflection.html) — due Thu, Dec 10
-* [Final Paper: Organizational Communication Analysis](../schedule/week_16.html) — due Thu, Dec 10
+* [Initial Self-Assessment](Initial-Self-Assessment.html) — due Mon, Aug 25
+* [Self-Assessment Reflection 1](Self-Assessment-Reflection.html) — due Mon, Sep 28
+* [Theory Application Short Paper](Theory-Application-Short-Paper.html) — due Mon, Oct 26
+* [Self-Assessment Reflection 2](Self-Assessment-Reflection.html) — due Mon, Nov 9
+* [Organizational Profile / Site Selection Memo](Site-Selection-Memo.html) — due Mon, Nov 9
+* [Final Paper: Organizational Communication Analysis](Final-Paper.html) — due Mon, Dec 7
+* [Final Self-Assessment Reflection](Final-Self-Assessment-Reflection.html) — due Fri, Dec 11
