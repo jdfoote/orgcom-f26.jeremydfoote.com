@@ -6,7 +6,7 @@ Each group will work through one organization in depth, then present their analy
 
 ## The Organizations
 
-- **Group A:** [Westport Metal Works — a manufacturing plant](case-study-week-02-factory.html)
+- **Group A:** [KAPOW — a manufacturing plant](case-study-week-02-factory.html)
 - **Group B:** [Midland Metro Transit — a city bus system](case-study-week-02-transit.html)
 - **Group C:** [Homes for All Coalition — a housing justice organization](case-study-week-02-social-movement.html)
 

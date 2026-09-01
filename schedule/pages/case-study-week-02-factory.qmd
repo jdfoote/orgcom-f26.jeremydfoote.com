@@ -1,18 +1,16 @@
 ---
-title: "Group A: Westport Metal Works"
+title: "Group A: KAPOW (Kokomo Auto Parts & Outfitting Works)"
 ---
 
 *See the [full activity overview](case-study-week-02.html) for the questions your group should work through.*
 
----
-
 ## Your Organization
 
-**Westport Metal Works** is a metal stamping plant in Kokomo, Indiana that manufactures structural components for pickup trucks and SUVs. Founded in 1962, it employs 380 people across three shifts — about 290 on the production floor and 90 in supervisory, engineering, quality, HR, logistics, and administrative roles. The workforce is unionized (UAW Local 1744) and has been for 40 years.
+**KAPOW (Kokomo Auto Parts & Outfitting Works)** is a metal stamping plant in Kokomo, Indiana that manufactures structural components for pickup trucks and SUVs. Founded in 1962, it employs 380 people across three shifts — about 290 on the production floor and 90 in supervisory, engineering, quality, HR, logistics, and administrative roles. The workforce is unionized and has been for 40 years.
 
-The plant runs around the clock to meet just-in-time delivery contracts with two major automakers. A missed delivery doesn't just cost money — it can shut down an assembly line 200 miles away. Quality defects caught downstream can trigger expensive recalls and damage the relationship. The margin for error is thin.
+The plant runs around the clock to meet just-in-time delivery contracts with two major automakers. A missed delivery is a huge deal for the company and can shut down an assembly line 200 miles away. Quality defects caught downstream can trigger expensive recalls and damage the relationship. The margin for error is thin.
 
-On the floor, work is organized around production cells. Each cell has a team leader (not quite a supervisor, but the first point of contact for problems). Supervisors oversee multiple cells per shift. Above them are department managers, a plant manager, and corporate liaisons from the parent company — a mid-size Ohio manufacturer that acquired Westport in 2019.
+On the floor, work is organized around production cells. Each cell has a team leader (not quite a supervisor, but the first point of contact for problems). Supervisors oversee multiple cells on a shift. Above them are department managers, a plant manager, and corporate liaisons from the parent company — a mid-size Ohio manufacturer that acquired KAPOW in 2019.
 
 The workforce skews older — average tenure is 14 years. A significant share of employees are first- or second-generation immigrants from Mexico and Central America; Spanish is widely spoken on two of the three shifts. The union contract governs everything from break schedules to grievance procedures, and the union steward is often the first person workers turn to when something goes wrong.
 
