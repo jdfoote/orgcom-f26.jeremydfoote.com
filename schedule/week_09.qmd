@@ -22,7 +22,7 @@ Matthew Koschmann's video on decision-making processes
 
 **Assignment Due:**
 
-* [Reading Review Assignment](syllabus/syllabus.html#reading-review-assignment)
+* [Reading Review Assignment](/syllabus/syllabus.html#reading-review-assignments)
 
 ### Thursday (Oct 22)
 

@@ -21,7 +21,7 @@ Matthew Koschmann's video on emotion in the workplace
 
 **Assignment Due:**
 
-* [Reading Review Assignment](syllabus/syllabus.html#reading-review-assignment)
+* [Reading Review Assignment](/syllabus/syllabus.html#reading-review-assignments)
 * [Organizational Profile / Site Selection Memo](/assignments/Site-Selection-Memo.html) (due Monday Nov 9)
 * [Self-Assessment Reflection 2](/assignments/Self-Assessment-Reflection.html) (due Monday Nov 9)
 

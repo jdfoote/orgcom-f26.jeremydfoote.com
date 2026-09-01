@@ -1,5 +1,5 @@
 ---
-title: Week 2 - Network Data and Network Types
+title: Week 2 - Organizations in a Changing World
 sort: 2
 format: 
   revealjs:
@@ -53,7 +53,7 @@ I wanted to marry a Carbon 14 expert but all she wanted to do was date.
 > - What is communication?
 > - What is the transmission model of communication?
 > - What is requisite variety?
-> - Why are organizaations more complicated now?
+> - Why are organizations more complicated now?
 > - What are some of the forces of change that are affecting organizations?
 
 ## Questions from 3-2-1s
