@@ -1,6 +1,7 @@
 ---
+title: "Week 1: Introductions and Overview"
 pagetitle: Welcome to COM 324!
-date: Week 1
+date: "2026-08-25"
 format:
   revealjs:
     css: /resources/custom_css.css

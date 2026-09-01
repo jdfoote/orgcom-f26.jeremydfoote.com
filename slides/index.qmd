@@ -1,0 +1,13 @@
+---
+title: "Slides"
+listing:
+  contents: "week_*.qmd"
+  type: table
+  fields: [date, title]
+  date-format: "MMM D"
+  sort: "date asc"
+  sort-ui: false
+  filter-ui: false
+---
+
+These slides are posted as they are finalized, sometimes before class. They may change up until class time.

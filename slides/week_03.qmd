@@ -1,0 +1,38 @@
+---
+title: "Week 3: Classical Approaches"
+date: "2026-09-07"
+format: 
+  revealjs:
+    css: /resources/custom_css.css
+    theme: white
+    progress: true
+    transition: convex
+    reveal_plugins: ['notes']
+---
+
+## Today's Dad Joke
+
+Who is in favor or bringing back Roman numerals?
+
+<span class="fragment">I for one!</span>
+
+## Housekeeping
+
+> - Reading review assignments
+
+
+## Class Questions
+
+> - What do you want to talk about today?
+
+## Basic Concepts
+
+> - What is the machine metaphor?
+> - What are Fayol's principles of organizational structure, power, reward, and attitude?
+> - Which aspects ring true and which aspects seem outdated?
+
+## Basic Concepts (cont.)
+
+> - What is Taylor's theory of scientific management?
+> - What role does communication play in these classical approaches?
+> - What role do classical approaches have in contemporary organizations?
