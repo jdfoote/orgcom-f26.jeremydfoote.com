@@ -59,7 +59,7 @@
     "href": "schedule/pages/case-study-week-02-transit.html#your-organization",
     "title": "Group B: Midland Metro Transit",
     "section": "Your Organization",
-    "text": "Your Organization\nMidland Metro Transit is the public bus authority serving a mid-sized Midwestern city of about 180,000 people. It operates 22 routes, runs roughly 6 AM to midnight, and carries about 14,000 riders on a typical weekday. The agency has 340 employees: 210 bus operators, 40 mechanics and maintenance staff, dispatchers, planners, customer service staff, and an administrative and leadership team.\nTransit is a public agency — it’s funded by a combination of fare revenue (about 20% of its budget), city and county subsidies, and state and federal grants. The board of directors is appointed by elected officials. Decisions about routes, fares, and service levels are technically made by the board, but in practice they emerge from a messy mix of staff recommendations, public comment, political pressure, and budget constraints.\nBus operators are the face of the agency. They interact with hundreds of passengers a day — handling fares, answering questions, managing conflicts, and making split-second decisions about safety. They’re also the people most likely to know what’s actually happening on the ground: which stops are dangerous at night, which routes are always overcrowded, where the potholes are. But they work largely alone, and their feedback reaches management through a long chain.\nThe agency has been struggling. Ridership dropped sharply during COVID and hasn’t fully recovered. The agency is facing a budget shortfall, pressure from the city to expand service to underserved neighborhoods, and a tight labor market that’s made hiring drivers difficult. Meanwhile, an ongoing contract negotiation with the drivers’ union (ATU Local 819) has stalled.\n\nWork through the discussion questions with your group."
+    "text": "Your Organization\nMidland Metro Transit is the public bus authority serving a mid-sized Midwestern city of about 180,000 people. It operates 22 routes, runs roughly 6 AM to midnight, and carries about 14,000 riders on a typical weekday. The agency has 340 employees: 210 bus operators, 40 mechanics and maintenance staff, dispatchers, planners, customer service staff, and an administrative and leadership team.\nTransit is a public agency — it’s funded by a combination of fare revenue (about 20% of its budget), city and county subsidies, and state and federal grants. The board of directors is appointed by elected officials. Decisions about routes, fares, and service levels are technically made by the board, but in practice they emerge from a messy mix of staff recommendations, public comment, political pressure, and budget constraints.\nBus operators are the face of the agency. They interact with hundreds of passengers a day — handling fares, answering questions, managing conflicts, and making decisions about safety. They’re also the people most likely to know what’s actually happening on the ground: which stops are dangerous at night, which routes are always overcrowded, where the potholes are. But they work largely alone, they are busy, and their feedback reaches management through a long chain.\nThe agency has been struggling. Ridership dropped sharply during COVID and hasn’t fully recovered. The agency is facing a budget shortfall, pressure from the city to expand service to underserved neighborhoods, and a tight labor market that’s made hiring drivers difficult. Meanwhile, an ongoing contract negotiation with the drivers’ union has stalled.\n\nWork through the discussion questions with your group."
   },
   {
     "objectID": "schedule/pages/case-study-week-05.html#background",
@@ -92,16 +92,16 @@
   {
     "objectID": "schedule/pages/case-study-week-02-factory.html",
     "href": "schedule/pages/case-study-week-02-factory.html",
-    "title": "Group A: Westport Metal Works",
+    "title": "Group A: KAPOW (Kokomo Auto Parts & Outfitting Works)",
     "section": "",
     "text": "See the full activity overview for the questions your group should work through."
   },
   {
     "objectID": "schedule/pages/case-study-week-02-factory.html#your-organization",
     "href": "schedule/pages/case-study-week-02-factory.html#your-organization",
-    "title": "Group A: Westport Metal Works",
+    "title": "Group A: KAPOW (Kokomo Auto Parts & Outfitting Works)",
     "section": "Your Organization",
-    "text": "Your Organization\nWestport Metal Works is a metal stamping plant in Kokomo, Indiana that manufactures structural components for pickup trucks and SUVs. Founded in 1962, it employs 380 people across three shifts — about 290 on the production floor and 90 in supervisory, engineering, quality, HR, logistics, and administrative roles. The workforce is unionized (UAW Local 1744) and has been for 40 years.\nThe plant runs around the clock to meet just-in-time delivery contracts with two major automakers. A missed delivery doesn’t just cost money — it can shut down an assembly line 200 miles away. Quality defects caught downstream can trigger expensive recalls and damage the relationship. The margin for error is thin.\nOn the floor, work is organized around production cells. Each cell has a team leader (not quite a supervisor, but the first point of contact for problems). Supervisors oversee multiple cells per shift. Above them are department managers, a plant manager, and corporate liaisons from the parent company — a mid-size Ohio manufacturer that acquired Westport in 2019.\nThe workforce skews older — average tenure is 14 years. A significant share of employees are first- or second-generation immigrants from Mexico and Central America; Spanish is widely spoken on two of the three shifts. The union contract governs everything from break schedules to grievance procedures, and the union steward is often the first person workers turn to when something goes wrong.\n\nWork through the discussion questions with your group."
+    "text": "Your Organization\nKAPOW (Kokomo Auto Parts & Outfitting Works) is a metal stamping plant in Kokomo, Indiana that manufactures structural components for pickup trucks and SUVs. Founded in 1962, it employs 380 people across three shifts — about 290 on the production floor and 90 in supervisory, engineering, quality, HR, logistics, and administrative roles. The workforce is unionized and has been for 40 years.\nThe plant runs around the clock to meet just-in-time delivery contracts with two major automakers. A missed delivery is a huge deal for the company and can shut down an assembly line 200 miles away. Quality defects caught downstream can trigger expensive recalls and damage the relationship. The margin for error is thin.\nOn the floor, work is organized around production cells. Each cell has a team leader (not quite a supervisor, but the first point of contact for problems). Supervisors oversee multiple cells on a shift. Above them are department managers, a plant manager, and corporate liaisons from the parent company — a mid-size Ohio manufacturer that acquired KAPOW in 2019.\nThe workforce skews older — average tenure is 14 years. A significant share of employees are first- or second-generation immigrants from Mexico and Central America; Spanish is widely spoken on two of the three shifts. The union contract governs everything from break schedules to grievance procedures, and the union steward is often the first person workers turn to when something goes wrong.\n\nWork through the discussion questions with your group."
   },
   {
     "objectID": "schedule/week_02.html",
@@ -407,6 +407,90 @@
     "title": "Organizational Communication",
     "section": "Questions?",
     "text": "Questions?"
+  },
+  {
+    "objectID": "slides/week_02.html#todays-dad-joke",
+    "href": "slides/week_02.html#todays-dad-joke",
+    "title": "Week 2 - Network Data and Network Types",
+    "section": "Today’s Dad Joke",
+    "text": "Today’s Dad Joke\nI wanted to marry a Carbon 14 expert but all she wanted to do was date."
+  },
+  {
+    "objectID": "slides/week_02.html#housekeeping",
+    "href": "slides/week_02.html#housekeeping",
+    "title": "Week 2 - Network Data and Network Types",
+    "section": "Housekeeping",
+    "text": "Housekeeping\n\n\n\nIntro survey\nDiscussion questions\nHomework 1\n\nAll were due Monday at 1 pm"
+  },
+  {
+    "objectID": "slides/week_02.html#example",
+    "href": "slides/week_02.html#example",
+    "title": "Week 2 - Network Data and Network Types",
+    "section": "3-2-1 Example",
+    "text": "3-2-1 Example"
+  },
+  {
+    "objectID": "slides/week_02.html#the-plan",
+    "href": "slides/week_02.html#the-plan",
+    "title": "Week 2 - Network Data and Network Types",
+    "section": "The Plan",
+    "text": "The Plan\n\n\n\nHousekeeping / Announcements (5-10)\nDiscussion and review (40-50)\nConsolidation and Confusion (5-10)\n\nResponse to needs"
+  },
+  {
+    "objectID": "slides/week_02.html#review",
+    "href": "slides/week_02.html#review",
+    "title": "Week 2 - Network Data and Network Types",
+    "section": "Review",
+    "text": "Review\n\n\n\nConceptual review every Tuesday\n\nEncouragement to be prepared\nTime to identify confusion - it’s OK to be confused!\n\nDiscussion questions review"
+  },
+  {
+    "objectID": "slides/week_02.html#class-questions",
+    "href": "slides/week_02.html#class-questions",
+    "title": "Week 2 - Network Data and Network Types",
+    "section": "Class Questions",
+    "text": "Class Questions\n\n\n\nWhat do you want to talk about today?"
+  },
+  {
+    "objectID": "slides/week_02.html#basic-concepts",
+    "href": "slides/week_02.html#basic-concepts",
+    "title": "Week 2 - Network Data and Network Types",
+    "section": "Basic Concepts",
+    "text": "Basic Concepts\n\n\n\nWhat is communication?\nWhat is the transmission model of communication?\nWhat is requisite variety?\nWhy are organizaations more complicated now?\nWhat are some of the forces of change that are affecting organizations?"
+  },
+  {
+    "objectID": "slides/week_02.html#questions-from-3-2-1s",
+    "href": "slides/week_02.html#questions-from-3-2-1s",
+    "title": "Week 2 - Network Data and Network Types",
+    "section": "Questions from 3-2-1s",
+    "text": "Questions from 3-2-1s\n\n\n\nIsn’t Craig’s “constitutive model” just a subset of the Rhetorical Domain? To me, it seems like the “practical art of discourse” is a superset of “producing shared meaning”.\nIf “communication constitutes organizations” does that mean every gathering of people is an organization?\nCan informal communication such as workplace gossip influence an organization as much as formal communication such as meetings or emails?"
+  },
+  {
+    "objectID": "slides/week_02.html#questions-from-3-2-1s-1",
+    "href": "slides/week_02.html#questions-from-3-2-1s-1",
+    "title": "Week 2 - Network Data and Network Types",
+    "section": "Questions from 3-2-1s",
+    "text": "Questions from 3-2-1s\n\n\n\nHow does communication play a role in helping organizations address larger social and global issues, such as climate change?\nWhat is a “majority minority” nation?"
+  },
+  {
+    "objectID": "slides/week_02.html#discussion-questions",
+    "href": "slides/week_02.html#discussion-questions",
+    "title": "Week 2 - Network Data and Network Types",
+    "section": "Discussion Questions",
+    "text": "Discussion Questions\n\n\n\nWhat role do individuals have in addressing larger social and global issues, such as climate change, within organizations?\nHow is technology changing organizations?"
+  },
+  {
+    "objectID": "slides/week_02.html#consolidation",
+    "href": "slides/week_02.html#consolidation",
+    "title": "Week 2 - Network Data and Network Types",
+    "section": "Consolidation",
+    "text": "Consolidation\n\n\n\nWhat were some of the key ideas?\nWhat are you thinking differently about now?\nWhat are remaining questions/confusions?"
+  },
+  {
+    "objectID": "slides/week_02.html#thursday",
+    "href": "slides/week_02.html#thursday",
+    "title": "Week 2 - Network Data and Network Types",
+    "section": "Thursday",
+    "text": "Thursday\n\n\n\nCase studies"
   },
   {
     "objectID": "schedule.html",
@@ -728,7 +812,7 @@
     "href": "schedule/pages/case-study-week-02-social-movement.html#your-organization",
     "title": "Group C: Homes for All Coalition",
     "section": "Your Organization",
-    "text": "Your Organization\nHomes for All Coalition is a housing justice organization based in Indianapolis that works to prevent displacement, fight discriminatory housing practices, and expand access to affordable housing. Founded in 2011, it has a staff of 11 (6 full-time, 5 part-time), an annual budget of about $900,000, and an active membership base of roughly 600 people — mostly renters and low-income homeowners in neighborhoods facing rapid gentrification.\nThe organization does several kinds of work simultaneously: direct services (helping tenants navigate eviction proceedings), policy advocacy (lobbying city council and the state legislature), community organizing (building power among affected residents), and public communications (media outreach, social media, storytelling). These aren’t cleanly separate — a tenant fighting eviction might become a community organizer who ends up testifying at city hall, whose story gets turned into a press release.\nInternally, the organization tries to practice what it preaches. Decision-making is intentionally participatory: staff and member leaders share power through a governance structure that gives members a meaningful voice in organizational direction. This slows things down sometimes. It also means that the people most affected by housing injustice are the ones setting the agenda — which is the point.\nThe coalition is part of a national network of similar organizations, which means regular communication with allied groups in other cities, shared strategy, and sometimes shared campaigns. Locally, they work in coalition with tenant unions, immigrant rights groups, faith communities, and labor unions — relationships that require constant maintenance and negotiation.\nFunding comes from a mix of foundation grants, individual donors, and government contracts. Each comes with strings: foundations want measurable outcomes, government contracts restrict political activity, and individual donors have varying levels of engagement and expectation.\n\nWork through the discussion questions with your group."
+    "text": "Your Organization\nHomes for All Coalition is a housing justice organization based in Indianapolis that works to prevent displacement, fight discriminatory housing practices, and expand access to affordable housing. Founded in 2011, it has a staff of 11 (6 full-time, 5 part-time), an annual budget of about $900,000, and an active membership base of roughly 600 people — mostly renters and low-income homeowners in neighborhoods facing rapid gentrification.\nThe organization does several kinds of work simultaneously: direct services (helping tenants navigate eviction proceedings), policy advocacy (lobbying city council and the state legislature), community organizing (building power among affected residents), and public communications (media outreach, social media, storytelling).\nInternally, the organization tries to practice what it preaches. Decision-making is intentionally participatory: staff and member leaders share power through a governance structure that gives members a meaningful voice in organizational direction. This slows things down sometimes, but it also means that there are active attempts to listen to people most affected by housing policy when setting the agenda.\nThe coalition is part of a national network of similar organizations, which means regular communication with allied groups in other cities, shared strategy, and sometimes shared campaigns. Locally, they work in coalition with tenant unions, immigrant rights groups, faith communities, and labor unions — relationships that require constant maintenance and negotiation.\nFunding comes from a mix of foundation grants, individual donors, and government contracts. Each comes with strings: foundations want measurable outcomes, government contracts restrict political activity, and individual donors have varying levels of engagement and expectation.\n\nWork through the discussion questions with your group."
   },
   {
     "objectID": "schedule/pages/case-study-week-02.html",
@@ -742,7 +826,7 @@
     "href": "schedule/pages/case-study-week-02.html#the-organizations",
     "title": "Week 2 Case Studies: Communication in Organizations",
     "section": "The Organizations",
-    "text": "The Organizations\n\nGroup A: Westport Metal Works — a manufacturing plant\nGroup B: Midland Metro Transit — a city bus system\nGroup C: Homes for All Coalition — a housing justice organization"
+    "text": "The Organizations\n\nGroup A: KAPOW — a manufacturing plant\nGroup B: Midland Metro Transit — a city bus system\nGroup C: Homes for All Coalition — a housing justice organization"
   },
   {
     "objectID": "schedule/pages/case-study-week-02.html#questions-same-for-all-groups",
