@@ -1,0 +1,19 @@
+---
+title: "Group D: r/HCMWarriors"
+---
+
+*See the [full activity overview](case-study-week-02.html) for the questions your group should work through.*
+
+## Your Organization
+
+**r/HCMWarriors** is a Reddit community for people living with Hypertrophic Cardiomyopathy (HCM) — a genetic heart condition in which the heart muscle thickens abnormally, increasing the risk of sudden cardiac arrest, arrhythmias, and heart failure. It affects roughly 1 in 500 people, but because symptoms are often subtle or absent, many patients go undiagnosed for years. When someone is finally diagnosed — often after a family member dies suddenly — they typically feel terrified and alone.
+
+The subreddit has about 28,000 members. Most are patients, but the community also includes family members of HCM patients, genetic carriers who haven't developed the disease, and a small number of cardiologists and genetic counselors who participate informally. There are no dues, no office, no staff, and no formal organization. The community is governed by five volunteer moderators — all patients themselves — who enforce a set of rules posted in the sidebar.
+
+Day-to-day, the community is a mix of newly-diagnosed members asking basic questions ("What does this echo result mean?"), veterans sharing advice on finding a specialist ("You need an HCM Center of Excellence, not just a regular cardiologist"), emotional support threads ("My son was just diagnosed at 14"), debates about treatment options (medication vs. septal reduction surgery vs. ablation), discussions of new research, and sharing of experiences with specific hospitals, devices (ICDs, loop recorders), and insurance battles.
+
+The community has real stakes. HCM is rare enough that many primary care doctors and even general cardiologists don't have much experience with it. Information shared in the subreddit — about which specialists to see, which procedures are appropriate for which situations, how to advocate with insurers — can meaningfully affect patient outcomes. At the same time, medical misinformation is a serious risk, and the moderators walk a difficult line between keeping conversation open and preventing harm.
+
+---
+
+*Work through the [discussion questions](case-study-week-02.html#questions-same-for-all-groups) with your group.*

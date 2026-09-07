@@ -9,6 +9,7 @@ Each group will work through one organization in depth, then present their analy
 - **Group A:** [KAPOW — a manufacturing plant](case-study-week-02-factory.html)
 - **Group B:** [Midland Metro Transit — a city bus system](case-study-week-02-transit.html)
 - **Group C:** [Homes for All Coalition — a housing justice organization](case-study-week-02-social-movement.html)
+- **Group D:** [r/HCMWarriors — a patient subreddit for a genetic heart condition](case-study-week-02-subreddit.html)
 
 ---
 
@@ -22,7 +23,7 @@ What are *all* the kinds of communication that have to occur for your organizati
 
 **2. What does communication *do* here?**
 
-Pick 2–3 items from your list and analyze what communication is actually accomplishing — not just passing information, but coordinating action, establishing authority, building identity, motivating people, resolving conflict, etc. Use concepts from Ch. 1.
+Pick 2–3 items from your list and analyze what communication is actually doing — not just passing information, but coordinating action, establishing authority, building identity, motivating people, resolving conflict, etc. Use concepts from Ch. 1.
 
 **3. Forces of change**
 
