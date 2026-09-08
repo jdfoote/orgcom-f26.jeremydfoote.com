@@ -1,6 +1,6 @@
 ---
 title: "Week 3: Classical Approaches"
-date: "2026-09-07"
+date: "2026-09-08"
 format: 
   revealjs:
     css: /resources/custom_css.css
@@ -40,15 +40,14 @@ Who is in favor or bringing back Roman numerals?
 > - What role does communication play in these classical approaches?
 > - What role do classical approaches have in contemporary organizations?
 
-
 ## Reading Review Questions
 
- > - Does Taylor's management model prevent innovation in the workplace?
- > - Do you think that the classical approach could still be effective in modern-day workplaces, or do organizations need to focus on giving employees more flexibility than the classical approach does?
- > - What is the difference between traditional and charismatic authority versus rational-legal authority in bureaucratic functioning.
+> - Does Taylor's management model prevent innovation in the workplace?
+> - Do you think that the classical approach could still be effective in modern-day workplaces, or do organizations need to focus on giving employees more flexibility than the classical approach does?
+> - What is the difference between traditional and charismatic authority versus rational-legal authority in bureaucratic functioning.
 
- ## Reading Review Questions (cont.)
+## Reading Review Questions (cont.)
 
- > - Who has the most influence over communication in an organization: managers, employees, or the organization structure itself?
- > - How do the three theories discussed in the textbook motivate lower-wage employees to work efficiently and diligently when employees are viewed primarily as components of the organizational machine?
- > - When is the line crossed that rules, and clear hierarchy become too much and actually make an organization less efficient?
+> - Who has the most influence over communication in an organization: managers, employees, or the organization structure itself?
+> - How do the three theories discussed in the textbook motivate lower-wage employees to work efficiently and diligently when employees are viewed primarily as components of the organizational machine?
+> - When is the line crossed that rules, and clear hierarchy become too much and actually make an organization less efficient?
