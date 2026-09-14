@@ -1,13 +1,6 @@
 ---
 title: "Week 2: Organizations in a Changing World"
 date: "2026-08-31"
-format: 
-  revealjs:
-    css: /resources/custom_css.css
-    theme: white
-    progress: true
-    transition: convex
-    reveal_plugins: ['notes']
 ---
 
 ## Today's Dad Joke

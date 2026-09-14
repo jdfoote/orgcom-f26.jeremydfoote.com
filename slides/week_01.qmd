@@ -4,14 +4,7 @@ pagetitle: Welcome to COM 324!
 date: "2026-08-25"
 format:
   revealjs:
-    css: /resources/custom_css.css
-    theme: white
-    progress: true
-    transition: convex
-    reveal_plugins: ['notes']
     incremental: true
-    width: 1200
-    height: 800
 ---
 
 # Welcome to COM 324: Organizational Communication!

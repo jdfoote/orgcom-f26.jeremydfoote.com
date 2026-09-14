@@ -1,13 +1,6 @@
 ---
 title: "Week 3: Classical Approaches"
 date: "2026-09-08"
-format: 
-  revealjs:
-    css: /resources/custom_css.css
-    theme: white
-    progress: true
-    transition: convex
-    reveal_plugins: ['notes']
 ---
 
 ## Today's Dad Joke
@@ -37,6 +30,8 @@ Who is in favor or bringing back Roman numerals?
 ## Basic Concepts (cont.)
 
 > - What is Taylor's theory of scientific management?
+> - What did Weber mean by bureaucracy?
+> - What are Weber's three types of authority? Give examples of each.
 > - What role does communication play in these classical approaches?
 > - What role do classical approaches have in contemporary organizations?
 
