@@ -1,0 +1,61 @@
+---
+title: "Week 4: Human Relations and Human Resources Approaches"
+date: "2026-09-17"
+format:
+  revealjs:
+    incremental: true
+---
+
+## Today's Dad Joke
+
+One astronaut says to the other, "I can't find any milk for my coffee"
+
+<span class="fragment">The other astronaut says, "In space no one can, here use cream"</span>
+
+## Housekeeping
+
+
+
+
+## Class Questions
+
+- What do you want to talk about today?
+
+## Basic Concepts
+
+- What were the Hawthorne studies, and what did they find?
+- What is the Hawthorne effect?
+- What are the items in Maslow's hierarchy of needs, and what is the hierarchy of prepotency?
+
+## Basic Concepts (cont.)
+
+- What is McGregor's Theory X and Theory Y? What did he think classical theorists got wrong about human nature?
+- What is the weakness of the human relations approach?
+- How does the human resources approach differ from the human relations approach?
+
+## Basic Concepts (cont.)
+
+- What are the axes of the Managerial / Leadership Grid? What are the four quandrants?
+- What were Likert's four systems of management, and what are the characteristics of each?
+
+
+## Interview Activity
+
+- Interview a classmate about an organization you've been part of, using the questions from [the activity page](activity-week-04-quick-interview.qmd).
+
+## Reading Review Questions
+
+- Must human relations approach necessarily view people's social motivations as a means to the end of increased productivity or is it merely widespread failure in its application that makes it appear that way?
+- Within Maslow's Hierarchy of Needs Theory, how much money does an individual need to make in order for that basic need to be considered "met", before other factors are then considered?
+
+## Reading Review Questions (cont.)
+
+- Is Likert's System IV actually workable in practice for non-knowledge-work-focused organizations? It seems like it would mainly apply to the management of knowledge workers.
+- How can managers tell which type of motivation works best for their organization/ workers?
+- How can employees tell the difference between genuine participation in decision maing and the "pseudo-participation" described in the chapter?
+
+## Reading Review Questions (cont.)
+
+- Why do the human resources departments often have such a negative connotation? If HR is supposed to focus on employees, why don't employees necessarily perceive HR as being on their side?
+-  Do employees actually want to participate in decision making and take on more responsibility, or do they prefer a clear setup where they just do their job, get paid, and leave big decisions to management?
+- Are there organizations/circumstances when the classical approach is genuinely better than the alternative human-based approaches?

@@ -1,0 +1,54 @@
+---
+title: "Week 4 Case Studies: Human Relations & Human Resources Approaches"
+---
+
+Each group will analyze one organization through the lens of the Human Relations and Human Resources frameworks, then present their analysis to the class. You have about 20 minutes to work through the questions; plan on a 3–4 minute presentation.
+
+## The Organizations
+
+- **Group A:** [r/AskHistorians — a volunteer-run history Q&A community](case-study-week-04-greenline.html)
+- **Group B:** [Stormwall Security — a cybersecurity firm](case-study-week-04-stormwall.html)
+- **Group C:** [Mercy Ridge Family Clinic — a community health clinic](case-study-week-04-mercy-ridge.html)
+- **Group D:** [Fulton Street Academy — a "no excuses" charter school](case-study-week-04-fulton.html)
+- **Group E:** [Cascade Fulfillment — a regional logistics warehouse](case-study-week-04-cascade.html)
+
+---
+
+## Questions (same for all groups)
+
+We are going to analyze these organizations through the lens of different human relations and humans resources frameworks. Each group will answer the same set of questions about their organization, then present their analysis to the class.
+
+**1. Theory X or Theory Y?**
+
+Based on what you know about this organization, what assumptions do managers seem to hold about workers? Find at least two or three practices or communication patterns that reveal those assumptions. Are the assumptions uniform across the organization, or do different levels hold different views?
+
+**2. What needs are (and aren't) being met?**
+
+Using Maslow's hierarchy, identify:
+
+- Which needs does the organization seem to be addressing well for workers?
+- Which needs are going unmet or ignored?
+- How does this shape how workers communicate — with management, with each other, with clients/customers?
+
+**3. Human Relations vs. Human Resources**
+
+The Human Relations approach says: workers have social and emotional needs, so managers should attend to morale and belonging. The Human Resources approach goes further: workers have valuable knowledge and judgment, so organizations should genuinely involve them in decisions.
+
+- Does this organization practice Human Relations, Human Resources, or neither? Give evidence.
+- Where would this organization fall on the Managerial / Leadership Grid? What about Likert's four systems of management? Give evidence.
+- If this organization were to take human resources more seriously, what's one change they could make? How might that change affect communication and decision-making?
+
+**4. What's the argument against it?**
+
+Play devil's advocate: what is the strongest case that *this particular organization* should NOT adopt a more participative HR approach? (Think about task type, urgency, skill distribution, accountability requirements.) Is that argument convincing?
+
+---
+
+## Presentations
+
+Make a ~5 minute presentation about your organization and your analysis. Be sure to:
+
+- Briefly describe the organization so the class can picture it
+- Share your Theory X/Y read and the evidence behind it
+- Explain what needs are and aren't being met and what that does to communication
+- Take a position on whether HR-style management is appropriate for this org, and say why

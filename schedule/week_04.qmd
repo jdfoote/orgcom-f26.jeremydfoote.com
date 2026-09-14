@@ -24,8 +24,13 @@ date: "2026-09-14"
 
 * [Reading Review Assignment](/syllabus/syllabus.html#reading-review-assignments)
 
+**In Class:**
+
+* [Quick Interview activity](pages/activity-week-04-quick-interview.html) — paired interview connecting HR concepts to organizations you've experienced
+
 ### Thursday (Sep 17)
 
 **In Class:**
 
-* Case study: Human Relations and Human Resources approaches in practice (materials on Brightspace)
+* [Spot the Assumption](pages/activity-week-04-spot-the-assumption.html) — find a real job posting and analyze the assumptions embedded in its language
+* [Case studies: Human Relations & Human Resources in practice](pages/case-study-week-04.html) — each group analyzes one organization and presents to the class

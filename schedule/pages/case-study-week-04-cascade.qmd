@@ -1,0 +1,21 @@
+---
+title: "Group E: Cascade Fulfillment"
+---
+
+*See the [full activity overview](case-study-week-04.html) for the questions your group should work through.*
+
+## Your Organization
+
+**Cascade Fulfillment** is a regional e-commerce warehouse outside of Indianapolis that processes about 80,000 orders per day. It employs 320 full-time workers and another 150 seasonal workers during peak periods. Workers pick, pack, and ship orders for a mix of online retailers; the warehouse is run by a third-party logistics company under contracts with its retail clients.
+
+Work on the floor is highly monitored. Each picker wears a wrist scanner that tracks their location and logs every item they scan. The warehouse management system sets a "rate" — the number of items a worker must pick per hour — and workers can see their real-time progress on small screens mounted to their carts. Supervisors receive alerts when workers fall below rate. The company calls this system "performance transparency."
+
+Workers have 30 minutes for lunch and two 15-minute breaks per shift. The bathrooms are a 4-minute walk from most of the floor. Workers say they sometimes skip breaks to keep their rates up. Several have filed complaints with HR about the pace; HR investigated and found the rates were "within industry standards."
+
+Cascade does have a formal HR function. There is an employee assistance program (EAP) with confidential counseling. The company runs quarterly "engagement surveys" in which workers can anonymously rate their experience; results are shared with workers in aggregate but decisions about what to do with the results are made by senior management. The CEO visited the facility last year and told workers the company "deeply values" their contributions and their safety.
+
+Wages are about $2/hour above the local minimum wage. Turnover is 68% annually. Management attributes this to "the nature of the work." Some workers have tried to organize a union; the company hired a consulting firm to run an anti-union campaign, which included mandatory small-group meetings where supervisors explained why a union "wasn't necessary here."
+
+---
+
+*Work through the [discussion questions](case-study-week-04.html#questions-same-for-all-groups) with your group.*

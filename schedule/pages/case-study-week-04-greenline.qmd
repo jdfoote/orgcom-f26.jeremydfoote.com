@@ -1,0 +1,23 @@
+---
+title: "Group A: r/AskHistorians"
+---
+
+*See the [full activity overview](case-study-week-04.html) for the questions your group should work through.*
+
+## Your Organization
+
+**r/AskHistorians** is a Reddit community where people ask questions about history and receive serious, well-sourced answers. Founded in 2011, it has grown to 2.7 million members and has been called by the American Historical Association "a training ground for historical thinking." One of its lead moderators has described the project as "the world's largest historical outreach project" — run entirely by unpaid volunteers on what the same moderator called "a cesspool of a website."
+
+The community is governed by 43 volunteer moderators — historians, graduate students, and knowledgeable enthusiasts who give their time because they believe the project matters. There is no application process in the traditional sense; moderators are recruited by existing mods based on observed contributions to the community. There is no pay, no formal contract, and no job description beyond the norms the mod team has collectively developed over time.
+
+What makes r/AskHistorians unusual is its moderation philosophy. Unlike most online communities, where the main rule is "don't be rude," r/AskHistorians aggressively removes *any* low-quality answers, even polite, well-intentioned ones. A comment that says "I think the Roman Empire fell because of lead in the pipes — I read that somewhere" will be deleted, even if no one disputes it. The standard is: answers must be substantive, demonstrate actual knowledge, and engage seriously with historical complexity. Short answers, unsourced speculation, and "just asking questions" comments are routinely removed. This policy generates constant friction with members who feel their contributions were unfairly deleted.
+
+The moderators are explicit about the tradeoffs. They've written publicly that strict removal is what makes the community valuable: without it, low-quality answers crowd out expert ones, experts stop participating, and the community becomes indistinguishable from everywhere else on the internet. But it also means mods spend significant time on enforcement, often explaining removal decisions to frustrated users in one-on-one exchanges that can get hostile.
+
+Burnout is a documented problem. The mod team's informal solution is to encourage moderators to take hiatuses from active duty without leaving the team entirely. There is no formal structure for this — it's handled case by case. Some moderators have been quietly inactive for months; others have left without announcement. When a moderator burns out or disappears, the remaining mods absorb the work.
+
+There is also a structural tension the community has no clean answer to: the moderators do not own the platform. Reddit, Inc. — a for-profit company — controls the infrastructure, the algorithm that surfaces content, and the ultimate rules. In 2023, a Reddit policy change sparked a sitewide blackout protest from volunteer moderators across thousands of communities, including r/AskHistorians, who felt the company was extracting value from their unpaid labor without meaningful input into platform decisions.
+
+---
+
+*Work through the [discussion questions](case-study-week-04.html#questions-same-for-all-groups) with your group.*

@@ -1,0 +1,21 @@
+---
+title: "Group B: Stormwall Security"
+---
+
+*See the [full activity overview](case-study-week-04.html) for the questions your group should work through.*
+
+## Your Organization
+
+**Stormwall Security** is a 60-person cybersecurity consulting firm in Indianapolis that helps mid-sized companies defend against ransomware, data breaches, and network intrusions. Founded eight years ago by two engineers who left a large defense contractor, the firm has grown steadily on the strength of its technical reputation.
+
+The workforce is almost entirely engineers and analysts: penetration testers, incident responders, security architects, and threat intelligence specialists. Most have advanced certifications (CISSP, CEH, OSCP) and could easily find work elsewhere. They are well-paid, they know it, and they are selective about where they work.
+
+The founders set out to build an "anti-corporate" culture — no cubicles, flexible hours, self-directed work, minimal management layers. There are no formal job titles beyond "engineer," "senior engineer," and "lead." Engineers mostly self-assign to client engagements based on their interests and availability. Performance reviews don't exist; compensation is determined in individual conversations with the founders twice a year.
+
+This worked well when the firm had 15 people. At 60, things are fraying. Some engineers feel like they're doing more than their share; others seem to coast. There's no clear process for making decisions about which clients to take or which new services to develop — ideas get raised in Slack, debated for weeks, and then quietly die. Three senior engineers left last year, citing frustration with the lack of direction. A client relationship manager hired 18 months ago to help with business development says she's never sure who is actually in charge of anything.
+
+The founders believe strongly in the HR model — they talk about "treating engineers like adults" and "trusting people to manage themselves." But some of the engineers have started to wonder if what looks like trust is actually just the founders avoiding difficult management conversations.
+
+---
+
+*Work through the [discussion questions](case-study-week-04.html#questions-same-for-all-groups) with your group.*
