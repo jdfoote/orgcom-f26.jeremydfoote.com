@@ -23,6 +23,10 @@ date: "2026-09-21"
 
 * [Reading Review Assignment](/syllabus/syllabus.html#reading-review-assignments)
 
+**In Class:**
+
+* [Systems Mapping activity](pages/activity-week-05-systems-exercise.html) — draw your focal organization, its supersystem and subsystems, interdependencies, and feedback loops
+
 ### Thursday (Sep 24)
 
 **In Class:**

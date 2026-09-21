@@ -1,0 +1,88 @@
+---
+title: "Activity: Systems Mapping"
+---
+
+Systems theory sees organizations as nested, interdependent systems with permeable boundaries. This activity asks you to map one organization using that lens.
+
+**Time:** ~18 minutes (12 min drawing, 4 min pairs, debrief)
+
+**What you need:** Paper and a pen. Draw as you go — each step builds on the last.
+
+---
+
+## Step 1: Focal organization (1 min)
+
+Think of an organization you've been part of or know well — a job, team, club, school, religious community, anything with recurring membership and purpose.
+
+**Draw a medium-sized circle near the center of your page. Label it with the organization's name.**
+
+---
+
+## Step 2: Supersystem (2 min)
+
+Every organization exists inside a larger system that shapes it — a company, an industry, a community, a social movement, a legal/regulatory environment.
+
+**Draw a large circle around your focal organization. Label it with the supersystem it belongs to.**
+
+*(Examples: a restaurant is part of the local food service industry; a student club is part of Purdue's co-curricular ecosystem; a subreddit is part of Reddit's platform and the broader internet culture around its topic.)*
+
+If there are multiple supersystems that matter, you can draw more than one — but pick the most important one first.
+
+---
+
+## Step 3: Subsystems (3 min)
+
+Most organizations are also made up of smaller parts — subsystems — each with their own function, norms, and communication patterns.
+
+**Inside your focal organization circle, draw smaller labeled regions for each major subsystem.**
+
+*(Examples: a restaurant has a front-of-house subsystem, a kitchen subsystem, and a management subsystem. A club has an executive board, general members, and maybe an events committee.)*
+
+---
+
+## Step 4: Interdependencies (3 min)
+
+Organizations don't operate in isolation. They depend on — and are depended on by — other organizations and groups. Some of these are inside the supersystem, and some are outside it.
+
+**Outside your focal organization circle (but on the same page), draw bubbles for the external groups your organization regularly exchanges resources or information with. Draw lines connecting them to your focal org.**
+
+*(Examples: suppliers, customers, regulators, partner organizations, competitors, the media, funders.)*
+
+For each interdependency, draw a line connecting the external group to your focal organization.
+
+---
+
+## Step 5: Inputs, throughput, outputs (3 min)
+
+For each line in step 4, label the type of resource or information exchanged, with an arrow pointing in the direction of the flow. If the exchange is two-way, draw arrows in both directions.
+
+- **Inputs:** these are things coming into the organization (raw materials, funding, new members, external demands, information)
+- **Outputs:** these are things the organization produces (products, services, reports, communications, trained people)
+- **Throughput:** what the organization *does* with inputs before they become outputs is the *throughput* — label this in a word or two inside the circle
+
+---
+
+## Step 6: Find a feedback loop (2 min)
+
+A feedback loop is when an output eventually circles back as an input — creating a cycle. Find one in your map (or within the throughput process) and trace it with a dotted line.
+
+There are two kinds:
+
+**Amplifying loops** (positive feedback): more leads to even more. The loop reinforces itself and can spiral in either direction — up or down.
+> *Example: Good reviews → more customers → more revenue → better service → better reviews. Or: low morale → more turnover → remaining staff more overloaded → lower morale.*
+
+**Stabilizing loops** (negative feedback): more leads to less, which leads back to more. The loop self-corrects around some target or equilibrium.
+> *Example: Sales drop → prices discounted → more customers buy → sales recover → prices return to normal. Or: A team falls behind → manager adds check-ins → team catches up → check-ins become less frequent.*
+
+Note: "positive" and "negative" here don't mean good and bad — they mean whether the loop reinforces or corrects.
+
+Look at the loop you traced. Which kind is it? How do you know?
+
+---
+
+## Share with a partner (4 min)
+
+Show your map. Discuss with your partner:
+
+- How did you identify the boundaries of your organization? What was inside, and what was outside?
+- How did this exercise help you see the organization differently?

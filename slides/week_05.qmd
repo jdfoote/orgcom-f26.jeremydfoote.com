@@ -1,0 +1,74 @@
+---
+title: "Week 5: Systems and Cultural Approaches"
+date: "2026-09-22"
+format:
+  revealjs:
+    incremental: true
+---
+
+## Today's Dad Joke
+
+I married my wife for her looks.
+
+<span class="fragment">but not the ones she's been giving me lately!</span>
+
+## Housekeeping
+
+- Do you like random groups for case studies?
+- We are skipping Chapter 5 and going straight to Chapter 6
+- Need to hear from groups 4 and 5
+
+
+## Class Questions
+
+- What do you want to talk about today?
+
+## Basic Concepts
+
+- What is systems thinking, and how does it differ from the classical and human relations approaches?
+- What is hierarchical ordering? What does this have to do with organizations?
+- What do we mean by interdependence in systems?
+- What is permeability?
+
+## Basic Concepts (cont.)
+
+- What is the input-throughput-output model of systems?
+- What are feedback loops? How do they function differently?
+- Give an example of a positive feedback loop and a negative feedback loop in an organization.
+
+## Basic Concepts (cont.)
+
+- What is entropy? What is negative entropy? How do organizations avoid entropy?
+- What are networks and how do they relate to systems thinking?
+
+## Systems Exercise
+
+- Interview a classmate about an organization you've been part of, using the questions from [the activity page](activity-week-05-systems-exercise.qmd).
+
+## Basic Concepts (cont.)
+
+- What is organizational culture? 
+- What is the culture of Purdue? What are the values, heroes, rites, and rituals?
+- How is Purdue's culture enacted and reinforced? How is it challenged?
+- What is the argument for why "strong" cultures are more effective? Do you agree?
+
+<aside class="notes">
+Putnam - culture is how we make sense of the world.
+</aside>
+
+## Basic Concepts (cont.)
+
+- What do we mean that culture is "emergent"?
+- What are ways that culture is communicated in organizations? How does it change?
+
+## Reading Review
+
+- If organizational culture is constantly changing and emerges from interactions between employees, how much control can leaders realistically have over shaping a culture?
+- How can we find the "underlying assumptions" of a culture? How do we know when we've found them?
+- Can a high amount of equivocality within an organization be beneficial, or is it always detrimental to organizational goals?
+
+## Reading Review
+
+- How does someone determine what type of organizational culture is appropriate for them in a workplace? Is it based on their personal values and experiences, or do they have to learn through trial and error to find a culture that fits them?
+- How do new employees learn the culture of an organization?
+- If Weick's theory emphasizes reducing equivocality, why are corporate practices like "circling back" so common when they can delay reaching a shared understanding or decision?
