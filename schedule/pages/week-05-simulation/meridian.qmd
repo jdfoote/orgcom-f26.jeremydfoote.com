@@ -1,0 +1,24 @@
+---
+title: "Meridian Analytics — Employee Brief"
+---
+
+*You are a Meridian employee. Read this brief, then check the named roles below — your instructor will hand out role cards.*
+
+---
+
+You work at **Meridian Analytics**. Meridian helps large enterprises — manufacturers, hospitals, banks, government agencies — make sense of their data. Your engagements run long, your clients are demanding, and the work is serious. A mistake doesn't just cost a project; it can end a decade-long relationship worth millions of dollars. You've built your career on the trust that comes from doing things right.
+
+You've been told why Meridian bought Apex: clients want product analytics capabilities, and building that in-house would take years. Fine. You understand the business logic. But you've also seen acquisitions go badly, and the pattern is always the same: the acquired company thinks their way of doing things should survive intact, and the acquiring company doesn't push back hard enough early on. You're not going to let that happen here.
+
+You have mixed feelings about the Apex team specifically. Their technical work is genuinely impressive — you've looked at some of it. But you've heard things about how they operate: decisions made in Slack threads with no documentation, features shipped before they're tested, no clear chain of approval. One of your colleagues described their internal communication as "organized chaos, with more chaos than organization." You're hoping this meeting establishes some ground rules before that culture infects yours. Whatever happens, the clients cannot be surprised.
+
+---
+
+## Named Roles
+
+A few people will be assigned to each of the roles below. If you don't have a role, you are a general Meridian employee and can speak for that perspective. 
+
+- [VP of Operations](role-meridian-vp.html)
+- [Senior Account Manager](role-meridian-account.html)
+- [HR Business Partner](role-meridian-hr.html)
+- [IT Lead](role-meridian-it.html)

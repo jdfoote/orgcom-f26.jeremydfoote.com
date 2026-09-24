@@ -67,6 +67,10 @@ Putnam - culture is how we make sense of the world.
 - How can we find the "underlying assumptions" of a culture? How do we know when we've found them?
 - Can a high amount of equivocality within an organization be beneficial, or is it always detrimental to organizational goals?
 
+<aside class="notes">
+Check the time - definitely need 30 minutes for the simulation activity
+</aside>
+
 ## Reading Review
 
 - How does someone determine what type of organizational culture is appropriate for them in a workplace? Is it based on their personal values and experiences, or do they have to learn through trial and error to find a culture that fits them?

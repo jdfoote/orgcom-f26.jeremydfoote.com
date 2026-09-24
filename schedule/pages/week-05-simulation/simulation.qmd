@@ -1,0 +1,47 @@
+---
+title: "Activity: The First Meeting (Meridian-Apex Simulation)"
+---
+
+## Background
+
+**Meridian Analytics** is a 12-year-old data consulting firm based in Chicago. It helps large enterprises — Fortune 500 manufacturers, healthcare systems, financial institutions, federal agencies — understand their data and make better decisions. Meridian doesn't build software products; it builds relationships. Engagements typically run 18–36 months, involve senior consultants embedded with client teams, and are renewed because clients trust Meridian to be careful and reliable. Revenue is about $45M per year. The firm has 180 employees.
+
+**Apex Labs** is a 4-year-old product analytics startup, also in Chicago, with 30 employees. It builds tools that help tech companies understand how users actually behave inside their products — where they drop off, what features they ignore, what predicts churn. Apex's clients are growth-stage tech companies that need fast answers: they're not looking for 18-month engagements, they're looking for a dashboard that tells them what to fix by Friday. Revenue is $4M ARR and growing fast, but Apex has been burning through its Series A and the founders know they need either another raise or an exit.
+
+**Why this acquisition?** Meridian's enterprise clients have been asking for product analytics capabilities for years — they're building internal software tools and need the kind of instrumentation Apex provides. Meridian doesn't have the technical talent to build this in-house and doesn't have time to hire it. Apex has the product but lacks the enterprise sales relationships to break into large accounts. On paper, it's a perfect fit.
+
+In practice, the two firms have almost nothing in common except a zip code. Meridian's leadership announced the acquisition as a way to "bring Apex's innovation energy into Meridian's trusted infrastructure." No one at either company is quite sure what that means.
+
+---
+
+Meridian Analytics just acquired Apex Labs. Leadership has announced the teams will be "fully integrated" in six months. Today is the first joint team meeting — the agenda is brief: *"Getting to know each other + planning how we'll work together."*
+
+---
+
+## Setup
+
+The room is divided in half:
+
+- **One side:** [Meridian Analytics](meridian.html)
+- **Other side:** [Apex Labs](apex.html)
+
+Read only your side's brief. Within your side, a few people will take on named roles — your instructor will hand out role cards. Whoever doesn't take a named role is a **general employee**: you share your side's values and can speak up at any point.
+
+---
+
+## The Meeting
+
+Your instructor will facilitate. The question on the table:
+
+> **What should our working norms be as a combined team?** Specifically: How will we communicate day-to-day? How will decisions get made? How do we know when something is done?
+
+Respond as your character. General employees: you have opinions too — speak up.
+
+---
+
+## Debrief
+
+1. **Artifacts:** What did you notice about *how* people communicated — word choices, tone, what got written down vs. said aloud?
+2. **Espoused values:** What did each side say they valued? Did both sides use any of the same words to mean different things?
+3. **Basic assumptions:** What did each side take for granted — things so obvious they barely got stated? Where did those assumptions collide?
+4. **As yourself:** Have you had experiences where cultures collided like this or had to be renegotiated? What happened?

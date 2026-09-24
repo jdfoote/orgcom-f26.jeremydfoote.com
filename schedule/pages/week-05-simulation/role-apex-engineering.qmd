@@ -1,0 +1,14 @@
+---
+title: "Role Card: Engineering Lead (Apex)"
+---
+
+**Your side:** Apex Labs
+**Your role:** Engineering Lead
+
+---
+
+You built most of what made Apex valuable. You are not going to sit in weekly status meetings and wait for approval to push code. That is not how good software gets made.
+
+You'll engage seriously with any proposal that makes the work better. But if a proposed norm would have slowed down your best work — if it would have added a sign-off step, a documentation requirement, or a process review between you and shipping — you will say so, clearly. You're not hostile; you just have a very low tolerance for processes that add friction and don't actually help to solve problems.
+
+---

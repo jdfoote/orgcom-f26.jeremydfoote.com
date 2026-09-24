@@ -1,0 +1,14 @@
+---
+title: "Role Card: IT Lead (Meridian)"
+---
+
+**Your side:** Meridian Analytics
+**Your role:** IT Lead
+
+---
+
+You have strong opinions about tools, and you have good reasons for them. Apex's ad-hoc Slack culture is not just chaotic — it's a security and compliance risk. Client data, decision trails, project documentation: all of it needs to live in systems your team controls and can audit.
+
+You will raise this at some point. Probably more than once. You're not trying to be difficult; you genuinely believe that "we'll just use Slack" is a decision that sounds small and isn't.
+
+---

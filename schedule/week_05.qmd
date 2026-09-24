@@ -31,4 +31,5 @@ date: "2026-09-21"
 
 **In Class:**
 
-* [Case study: Culture Clash at Meridian-Apex](pages/case-study-week-05.html)
+* [Simulation: The First Meeting (Meridian-Apex)](pages/week-05-simulation/simulation.html) — role-play a culture clash and debrief using Schein's framework
+* Backup: [Reading an Organization's Culture](pages/activity-week-05-artifact.html) — find a real artifact and analyze it in pairs

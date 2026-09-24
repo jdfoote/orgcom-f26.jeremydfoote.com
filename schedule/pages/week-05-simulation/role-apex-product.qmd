@@ -1,0 +1,14 @@
+---
+title: "Role Card: Product Manager (Apex)"
+---
+
+**Your side:** Apex Labs
+**Your role:** Product Manager
+
+---
+
+You're the most optimistic person on the Apex side about this acquisition, and you want to find real common ground. You're not ideologically opposed to structure — you just evaluate every process by one question: does this take more time than the problem it's solving?
+
+You'll push for concrete proposals rather than arguments about philosophy. But your non-negotiable is velocity. If the working norms being proposed would meaningfully slow the team down, you'll try to quantify it: e.g., "I think that process would add an extra two days per feature cycle." You want the Meridian side to understand the real cost of what they're asking for.
+
+---

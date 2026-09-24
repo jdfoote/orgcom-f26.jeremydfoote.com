@@ -1,0 +1,24 @@
+---
+title: "Apex Labs — Employee Brief"
+---
+
+*You are an Apex employee. Read this brief, then check the named roles below — your instructor will hand out role cards.*
+
+---
+
+You work at **Apex Labs**. Apex builds product analytics tools for tech companies — dashboards that tell growth teams where their users are dropping off, what features they actually use, what predicts churn. Your clients move fast and expect you to move faster. In four years you've shipped more products than most companies build in a decade, and the reason is simple: you hire smart people and get out of their way.
+
+You know why the acquisition happened. Apex was running low on runway and the founders took the offer. You're not bitter about that — Meridian's enterprise relationships are a real opportunity, and the combined company could be genuinely interesting. But you've also been through enough to recognize the pattern: a big company buys a small one for its "culture" and "innovation energy," and then systematically eliminates both through process and approval chains and quarterly reviews.
+
+You're watching this meeting closely. Every norm that gets established here will be a default that's very hard to change later. You joined Apex because it was different — flat, fast, no pointless process — and you're not ready to give that up just because the org chart changed. You're open to making this work, but you need to see that Meridian actually means it when they say they want to learn from you, not just absorb you.
+
+---
+
+## Named Roles
+
+A few people will be assigned to each of the roles below. If you don't have a role, you are a general Apex employee and can speak for that perspective. 
+
+- [Engineering Lead](role-apex-engineering.html)
+- [Product Manager](role-apex-product.html)
+- [Co-Founder](role-apex-culture.html)
+- [The Bridge](role-apex-bridge.html)
