@@ -76,3 +76,5 @@ Check the time - definitely need 30 minutes for the simulation activity
 - How does someone determine what type of organizational culture is appropriate for them in a workplace? Is it based on their personal values and experiences, or do they have to learn through trial and error to find a culture that fits them?
 - How do new employees learn the culture of an organization?
 - If Weick's theory emphasizes reducing equivocality, why are corporate practices like "circling back" so common when they can delay reaching a shared understanding or decision?
+
+## Simulation

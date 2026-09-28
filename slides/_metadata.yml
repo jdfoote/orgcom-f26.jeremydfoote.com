@@ -7,3 +7,4 @@ format:
     reveal_plugins: ['notes']
     width: 1280
     height: 720
+    incremental: true
