@@ -1,0 +1,256 @@
+---
+title: "Week 7: Exam 1 Review"
+date: "2026-10-06"
+---
+
+## Today's Dad Joke
+
+What's an astronaut's favorite part of a computer? 
+
+<span class="fragment"> The space bar. </span>
+
+
+## Housekeeping
+
+- Exam 1 is **Thursday, Oct 8**
+- Covers Chs. 1–4 and 6 (we skipped Ch. 5)
+- Mix of True/False, Multiple Choice, and short essay
+- Bring a pencil; closed notes
+
+## The Plan for Today
+
+- You ask, I answer
+- Work through concepts that aren't clear
+- Then we'll highlight high-priority things to know
+
+## Big Picture: What Are We Even Doing?
+
+- All six approaches are trying to solve the same problem: *how do organizations work?*
+- Each one is a reaction to the limits of the one before it
+- Know what each approach says about: **the worker**, **communication**, and **power**
+
+## Ch. 1: Communication & the Modern World
+
+**Models of communication:**
+
+- **S-M-C-R / transmission model** — linear, sender → receiver; what are its limits?
+- **Constitutive model** — communication *creates* shared meaning, not just transmits it
+- **Rhetorical model** — communication as a "practical art of discourse"
+
+## Ch. 1: Weick & Complexity
+
+- **Requisite variety**: organizations must be *as complicated as the problems they face* — a simple org can't handle a complex environment
+- **Equivocality**: ambiguity in the environment; organizations develop rules and cycles to reduce it
+
+## Ch. 1: Forces of Change
+
+- **Globalization**: outsourcing, exploitation risks, domestic job loss, interdependence of economies
+- **Demographics**: generational cohorts, "majority-minority" shift in the U.S., diversity in the workforce
+- **Technology**: virtual organizations (no physical "brick and mortar" presence)
+- **Climate/environment**, homeland security
+
+## Ch. 2: The Classical Approach
+
+**Three theorists — know who said what:**
+
+| Theorist | Key Idea |
+|----------|----------|
+| **Taylor** | Scientific Management; time-motion studies; one best way |
+| **Fayol** | 14 Principles; prescriptive; span of control; unity of command |
+| **Weber** | Bureaucracy; three types of authority |
+
+## Ch. 2: Taylor's Scientific Management
+
+- **Time and motion studies**: find the single most efficient way to do a task
+- Workers tend toward **soldiering** (working slower than possible) — management must control pace
+- Separate planning (managers) from doing (workers)
+- Incentive pay for efficiency
+
+## Ch. 2: Fayol's Principles
+
+- **Prescriptive** — tells managers what *should* happen
+- **Unity of command**: employees receive orders from *one* person only
+- **Division of labor**: employees do a limited, specialized set of tasks
+- **Span of control**: first-level managers supervise 20–30 employees
+- **Remuneration**: year-end bonuses and incentives
+
+## Ch. 2: Weber's Authority
+
+Three types — know the difference:
+
+- **Traditional authority** — power from custom or family lineage (e.g., family business)
+- **Charismatic authority** — power from personal qualities or reputation
+- **Rational-legal (bureaucratic) authority** — power from rules and position — *this is what Weber advocated*
+
+## Ch. 2: The Machine Metaphor
+
+- Workers are **standardized, interchangeable parts**
+- Organizations are predictable *because machines follow rules*
+- Communication flows **vertically/downward**, formal, written (codified)
+- Horizontal communication is **discouraged**
+
+## Ch. 3: The Human Relations Approach
+
+**Hawthorne Studies** (Western Electric, 1920s–30s):
+
+- Started with a classical question: does lighting affect productivity?
+- **Relay Assembly Room**: productivity went up regardless of conditions → social factors matter
+- **Bank Wiring Room**: workers held each other to a group norm — social group overrode management
+- **Interview Program**: workers wanted to talk about feelings, not just work
+
+## Ch. 3: Hawthorne Effect
+
+- People change their behavior when they know they're being observed
+- The finding that changed everything: *social relationships* shape worker behavior more than physical conditions or pay
+
+## Ch. 3: Maslow's Hierarchy
+
+- Five levels: physiological → safety → social (belonging) → esteem → self-actualization
+- Lower needs must be satisfied *before* higher needs become motivating
+- **Safety needs example**: protective equipment, job security
+
+## Ch. 3: Theory X and Theory Y (McGregor)
+
+| Theory X | Theory Y |
+|----------|----------|
+| Workers are lazy, avoid work | Workers want to work if conditions are right |
+| Must be controlled and threatened | Workers will self-direct if committed |
+| Communication is top-down, controlling | Communication is participatory |
+
+- Sager's research found Theory X managers used more **controlling** communication patterns
+
+## Ch. 3: Managerial Grid & Likert
+
+- **Blake & Mouton's Managerial Grid**: two axes — *concern for people* and *concern for production*
+  - Ideal: **Team Management** (high-high)
+  - Country Club: high people, low production
+- **Likert's System IV**: control exercised at *all levels*, not just the top — participative management
+
+## Ch. 3: Human Relations vs. Human Resources
+
+- **Human Relations**: treat workers *better* to get more out of them — surface-level changes
+- **Human Resources**: genuinely involve workers' *cognitive contributions* — ideas, judgment, decisions
+- Human relations can be *misused* as manipulation to get compliance without real change
+
+## Ch. 3: Other HR Concepts
+
+- **Knowledge management**: the cycle of capturing, sharing, and applying employee knowledge
+- **Learning organization** (Senge): emphasizes mental flexibility and team learning
+- **TQM** (Total Quality Management): high failure rate — why?
+
+## Ch. 4: Systems Theory
+
+- Emerged from **biology** (not engineering or management)
+- Core shift: organizations are **open systems** interacting with their environment
+
+**Key properties:**
+
+- **Holism**: the whole is *more than* the sum of its parts
+- **Interdependence**: components rely on each other
+- **Hierarchical ordering**: systems are nested within larger systems
+- **Permeability**: boundaries are open (not fully closed)
+
+## Ch. 4: ITO + Feedback
+
+- **Input → Throughput → Output** model
+- **Positive (amplifying) feedback**: more leads to even more (growth, escalation)
+- **Negative (stabilizing) feedback**: deviation triggers correction back toward baseline
+- **Equifinality**: multiple paths can lead to the same outcome
+
+## Ch. 4: Network Concepts
+
+- **Network density**: how many connections exist relative to the possible connections
+- **Network symmetry**: whether links flow equally in both directions
+- **Bridge**: connects two otherwise separate groups
+- **Liaison**: connects groups without belonging to either
+- **Isolate**: rarely communicates with others
+
+## Ch. 4: Weick's Model of Organizing
+
+- Goal of organizations: **reduce equivocality** (make sense of an ambiguous environment)
+- **Enactment → Selection → Retention**: how organizations make sense of inputs
+- **Assembly rules**: saved guidelines for handling situations you've encountered before
+- Environment is something organizations *enact*, not something that just exists out there
+
+## Ch. 4: Organizational Culture
+
+**Prescriptive approach** (Deal & Kennedy; Peters & Waterman):
+
+- Strong cultures → better performance
+- Deal & Kennedy: 4 components of strong culture (values, heroes, rites/rituals, cultural network)
+- Peters & Waterman: 8 themes of "excellent" organizations
+
+**Alternative approaches**: culture is not unitary; multiple subcultures; ambiguity is normal
+
+## Ch. 4: Schein's Three Levels
+
+- **Artifacts**: visible symbols, practices, physical space
+- **Espoused values**: stated beliefs and goals
+- **Basic assumptions**: deep, taken-for-granted beliefs (hardest to see, most powerful)
+- Cultural performances are *interactional, contextual, episodic, and improvisational* — not separate from history
+
+## Ch. 6: The Critical Approach
+
+- Philosophical roots: **Karl Marx** and the **Frankfurt School**
+- Key claim: organizations are **sites of domination**, not neutral coordination
+- Goal of critical theory: **emancipation** — freeing people from oppressive structures
+- Role of the critical theorist is like a **therapist**: help people see what they can't see themselves
+
+## Ch. 6: Power Concepts
+
+- **Ideology**: taken-for-granted beliefs that make the status quo seem natural and inevitable
+- **Hegemony**: the controlled group doesn't just *accept* control — they *actively reproduce* it
+- **Alienation** (Marx): workers become separated from the product of their labor
+
+**Two views of power:**
+
+- Traditional: power held by individuals, measurable
+- **Communicative/relational**: power *emerges from* communication and relationships
+
+## Ch. 6: Three Types of Control
+
+| Type | How it works |
+|------|-------------|
+| **Simple** | Direct, authoritarian — boss tells you what to do |
+| **Technical** | Built into the tools and processes (machine pace, monitoring) |
+| **Concertive** | Peers enforce norms — the group polices itself |
+
+## Ch. 6: Resistance
+
+- **Resistance** = workers opposing and counteracting authority
+- Overt: unions, strikes, walkouts
+- Covert: working slowly, ignoring rules, sharing restricted information
+- Robin Clair's work: frames are used to *normalize and justify* harassment — e.g., "that's just how it is here"
+
+## Ch. 6: Feminist Approaches
+
+- Core argument: organizations are built around **gendered assumptions** — they're not neutral
+- **Ideal worker norm**: the model worker has no care responsibilities outside work
+- **Glass ceiling**: barriers to advancement that are real but officially denied
+- **Intersectionality**: gender, race, class, disability combine — different people experience the same org differently
+
+## Ch. 6: Streams of Feminist Thought
+
+- **Liberal feminism**: work within the system for equal opportunity
+- **Radical feminism**: the system itself is the problem; need fundamental transformation
+- **Standpoint feminism**: knowledge comes from marginalized positions; remedies come from *outside* the system
+- **Postmodern feminism**: amplify marginalized voices in societal dialogue
+
+## Things That Are Commonly Confused
+
+- **Human Relations vs. Human Resources** — one is surface, one involves real participation
+- **Positive vs. Negative feedback loops** — "positive" doesn't mean good; it means amplifying
+- **Holism** — the system is *more* than the sum of parts (not less)
+- **Hegemony vs. simple control** — hegemony means the dominated *participate* in their own control
+- **Theory X vs. Y** — these are manager *assumptions*, not worker types
+
+## Applying Concepts: Practice
+
+A hospital rolls out "employee wellness teams" — self-organized peer groups that are supposed to monitor each other's stress levels and report burnout risks upward. What framework(s) apply? What's the tension?
+
+<span class="fragment">*Concertive control? Human Resources? Hegemony?*</span>
+
+## Your Questions
+
+- What concepts are you uncertain about?
+- What would you like to work through together?

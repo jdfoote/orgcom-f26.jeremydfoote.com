@@ -7,7 +7,7 @@ date: "2026-10-05"
 
 **In Class:**
 
-* Exam 1 review — bring questions, we'll work through key concepts and clarify anything unclear
+* [Exam 1 review](/slides/week_07.html) — bring questions, we'll work through key concepts and clarify anything unclear
 
 **No 3-2-1 this week.**
 
