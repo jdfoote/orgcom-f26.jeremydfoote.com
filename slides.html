@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Week 13: Diversity, Equity, and Inclusion – Organizational Communication</title>
+<title>Slides – Organizational Communication</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -29,24 +29,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../resources/favicon.ico" rel="icon">
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-5ab90760911abda779565a305ebf803f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./resources/favicon.ico" rel="icon">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-5ab90760911abda779565a305ebf803f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,19 +76,77 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="../resources/custom_css.css">
+    const options = {
+      valueNames: ['listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="resources/custom_css.css">
 </head>
 
-<body class="nav-sidebar docked nav-fixed quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Organizational Communication</span>
     </a>
   </div>
@@ -97,19 +157,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../slides.html"> 
+    <a class="nav-link active" href="./slides.html" aria-current="page"> 
 <span class="menu-text">Slides</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../syllabus/syllabus.html"> 
+    <a class="nav-link" href="./syllabus/syllabus.html"> 
 <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../schedule.html" aria-current="page"> 
+    <a class="nav-link" href="./schedule.html"> 
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../assignments/assignments.html"> 
+    <a class="nav-link" href="./assignments/assignments.html"> 
 <span class="menu-text">Assignments</span></a>
   </li>  
 </ul>
@@ -118,205 +178,132 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../schedule/week_01.html">Course content</a></li><li class="breadcrumb-item"><a href="../schedule/week_13.html">Week 13: Diversity, Equity, and Inclusion</a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-    </div>
-  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">Overview</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Schedule for the semester</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
- <span class="menu-text">Course content</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_01.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 1: Introductions and Overview</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_02.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 2: What is Organizational Communication?</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_03.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 3: Classical Approaches</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_04.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 4: Human Relations and Human Resources Approaches</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_05.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 5: Systems and Cultural Approaches</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_06.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 6: Critical and Feminist Approaches</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_07.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 7: Exam 1</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_08.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 8: Socialization</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_09.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 9: Decision Making</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_10.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 10: Conflict Management</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_11.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 11: Organizational Change and Leadership</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_12.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 12: Emotion in the Workplace</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_13.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Week 13: Diversity, Equity, and Inclusion</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_14.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 14: NCA / Thanksgiving</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_15.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 15: Exam 2 / Technology and the Future of Organizations</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_16.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 16: Final Presentations and Wrap-Up</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#tuesday-nov-17" id="toc-tuesday-nov-17" class="nav-link active" data-scroll-target="#tuesday-nov-17">Tuesday (Nov 17)</a></li>
-  <li><a href="#thursday-nov-19" id="toc-thursday-nov-19" class="nav-link" data-scroll-target="#thursday-nov-19">Thursday (Nov 19)</a></li>
-  </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/jdfoote/orgcom-f26.jeremydfoote.com/edit/main/schedule/week_13.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/orgcom-f26.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../schedule/week_01.html">Course content</a></li><li class="breadcrumb-item"><a href="../schedule/week_13.html">Week 13: Diversity, Equity, and Inclusion</a></li></ol></nav><h1 class="title display-7">Week 13: Diversity, Equity, and Inclusion</h1></header>
+<main class="content" id="quarto-document-content">
 
-<header id="title-block-header">
-
-
-<div class="date-block bg-content text-white p-2">
-  <p class="date">Content for the week of Monday, November 16, 2026</p>
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Slides</h1>
 </div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
 </header>
 
 
-<section id="tuesday-nov-17" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-nov-17">Tuesday (Nov 17)</h3>
-<p><strong>Required Readings:</strong></p>
-<ul>
-<li>Miller, Barbour &amp; Woo, Ch. 12</li>
-</ul>
-<p></p><div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/5ok25qGjHD8?si=dGahsNTfFYTisfuV" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div> Matthew Koschmann’s video on diversity in organizations<p></p>
-<p><strong>Concepts:</strong></p>
-<ul>
-<li>Diversity beyond demographics: identity, experience, and perspective</li>
-<li>How organizations communicate (and miscommunicate) about DEI</li>
-<li>Structural barriers and inclusive communication practices</li>
-<li>The difference between diversity, equity, and inclusion — and why all three matter</li>
-<li>DEI as organizational change, not just policy</li>
-</ul>
-<p><strong>Assignment Due:</strong></p>
-<ul>
-<li><a href="../syllabus/syllabus.html#reading-review-assignments">Reading Review Assignment</a></li>
-</ul>
-</section>
-<section id="thursday-nov-19" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-nov-19">Thursday (Nov 19)</h3>
-<p><strong>In Class:</strong></p>
-<ul>
-<li>Case study: DEI communication in practice (materials on Brightspace) — we’ll run this during Tuesday’s session since Thursday is exam review</li>
-</ul>
+<p>These slides are posted as they are finalized, sometimes before class. They may change up until class time.</p>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+Date
+</th>
+
+<th>
+Title
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-listing-date-sort="1787616000000" data-listing-file-modified-sort="1791325776982" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="572" data-listing-title-sort="Week 1: Introductions and Overview" data-listing-filename-sort="week_01.qmd">
+<td>
+<span class="listing-date">Aug 25</span>
+</td>
+<td>
+<a href="./slides/week_01.html" class="title listing-title">Week 1: Introductions and Overview</a>
+</td>
+
+</tr>
+
+<tr data-index="1" data-listing-date-sort="1788134400000" data-listing-file-modified-sort="1791325776983" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="284" data-listing-title-sort="Week 2: Organizations in a Changing World" data-listing-filename-sort="week_02.qmd">
+<td>
+<span class="listing-date">Aug 31</span>
+</td>
+<td>
+<a href="./slides/week_02.html" class="title listing-title">Week 2: Organizations in a Changing World</a>
+</td>
+
+</tr>
+
+<tr data-index="2" data-listing-date-sort="1788825600000" data-listing-file-modified-sort="1791325776983" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="261" data-listing-title-sort="Week 3: Classical Approaches" data-listing-filename-sort="week_03.qmd">
+<td>
+<span class="listing-date">Sep 8</span>
+</td>
+<td>
+<a href="./slides/week_03.html" class="title listing-title">Week 3: Classical Approaches</a>
+</td>
+
+</tr>
+
+<tr data-index="3" data-listing-date-sort="1789603200000" data-listing-file-modified-sort="1791325776983" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="382" data-listing-title-sort="Week 4: Human Relations and Human Resources Approaches" data-listing-filename-sort="week_04.qmd">
+<td>
+<span class="listing-date">Sep 17</span>
+</td>
+<td>
+<a href="./slides/week_04.html" class="title listing-title">Week 4: Human Relations and Human Resources Approaches</a>
+</td>
+
+</tr>
+
+<tr data-index="4" data-listing-date-sort="1790035200000" data-listing-file-modified-sort="1791325776983" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="411" data-listing-title-sort="Week 5: Systems and Cultural Approaches" data-listing-filename-sort="week_05.qmd">
+<td>
+<span class="listing-date">Sep 22</span>
+</td>
+<td>
+<a href="./slides/week_05.html" class="title listing-title">Week 5: Systems and Cultural Approaches</a>
+</td>
+
+</tr>
+
+<tr data-index="5" data-listing-date-sort="1790640000000" data-listing-file-modified-sort="1791325776983" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="532" data-listing-title-sort="Week 6: Critical and Feminist Approaches" data-listing-filename-sort="week_06.qmd">
+<td>
+<span class="listing-date">Sep 29</span>
+</td>
+<td>
+<a href="./slides/week_06.html" class="title listing-title">Week 6: Critical and Feminist Approaches</a>
+</td>
+
+</tr>
+
+<tr data-index="6" data-listing-date-sort="1791244800000" data-listing-file-modified-sort="1791325776983" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1398" data-listing-title-sort="Week 7: Exam 1 Review" data-listing-filename-sort="week_07.qmd">
+<td>
+<span class="listing-date">Oct 6</span>
+</td>
+<td>
+<a href="./slides/week_07.html" class="title listing-title">Week 7: Exam 1 Review</a>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -722,4 +709,4 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jdfoote/orgcom-f26.jeremydfoote.com/edit/main/schedule/week_13.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/orgcom-f26.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><ul><li><a href="https://github.com/jdfoote/orgcom-f26.jeremydfoote.com/edit/main/slides.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/orgcom-f26.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
