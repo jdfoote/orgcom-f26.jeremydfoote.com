@@ -1,0 +1,77 @@
+---
+title: "Week 9: Decision Making"
+date: "2026-10-20"
+---
+
+## Today's Dad Joke
+
+Two cats had a swimming race. The first cat was named "One, two three," and the other was named "un deux trois." Which cat won?
+
+<span class="fragment">
+"One two three" won. Unfortunately, the un deux trois cat sank.
+</span>
+
+
+## Housekeeping
+
+- Theory Application Short Paper due Monday Oct 26
+    - 2-3 page paper applying one of the theories we've covered to a real-world organization
+- Exam feedback
+    - Come to office hours or email me if you want to talk about your exam
+- Still working on SAR feedback (sorry!)
+
+## Class Questions
+
+- What do you want to talk about today?
+
+## Basic Concepts
+
+- What is the rational model of decision making? What does it assume about humans and organizations?
+- Why is the rational model usually not how decisions actually happen?
+- What is bounded rationality? What is satisficing, and how is it different from optimizing?
+
+## Basic Concepts (cont.)
+
+- What is the multiple-sequence model of decision making? How does it differ from the rational model?
+- What is the functional model of decision making?
+
+## Quick Aside
+
+- Garbage can model of decision making
+    - Decisions are made more randomly than rationally
+    - Problems, solutions, people, and decision opportunities all float around in an "organized anarchy" and get mixed together in a "garbage can"
+- Spiral of silence
+    - People are less likely to speak up if they think their opinion is in the minority
+    - This can lead to a false perception of consensus, which can lead to bad decisions
+
+## Basic Concepts (cont.)
+
+- What is groupthink? What conditions make it more likely?
+- What are the symptoms of groupthink?
+- What is partipatory decision making? What are the two models of participatory decision making? How do they differ?
+- What is workplace democracy? How does it differ from participatory decision making?
+
+## Break
+
+
+## Basic Concepts (cont.)
+
+- What are the three types of knowledge in an organization? How do they relate to decision making?
+- What is knowledge management? How can it help organizations make better decisions?
+
+
+## Reading Review Questions
+
+- Which decision-making model best describes how decisions get made in organizations you've been part of?
+- How can organizations make/encourage employees to express their idea and different opinions without making group members feel uncomfortable or creating conflict?
+- Is there a way to make tacit cultural knowledge explicit? Do we want to make it explicit?
+
+## Reading Review Questions (cont.)
+
+- Is group decision-making usually better than making decisions individually, or can having too many opinions make the decision-making process more difficult?
+- Can groupthink ever be beneficial?
+- How is decision making not necessarily correlated with high quality solutions? If you generate all or most possible solutions to a complex problem, shouldn't this always mean that the customer is satisfied?
+
+## Thursday
+
+- [Case study: The Lodestar Launch Decision](pages/case-study-week-09.html)
