@@ -2,26 +2,114 @@
 title: "Case Study: The Lodestar Launch Decision"
 ---
 
-## Background
+## Opening Reflection
 
-**Lodestar Electric** is a mid-sized electric vehicle manufacturer preparing to launch its first mass-market model, the Lodestar S. The launch has been in development for three years and is scheduled for eight weeks from now. Two thousand dealerships have pre-sold 18,000 units. The CEO has already appeared on the cover of *Forbes* with the headline "America's EV Moment."
+Take 3–4 minutes to write a response to the following prompt.
 
-One week before the final go/no-go decision meeting, the lead battery engineer, Daria Chen, submits an internal report flagging a thermal management issue. Under sustained high-speed driving in temperatures above 95°F, the battery cooling system may underperform, causing reduced range and, in rare cases, a risk of thermal runaway (battery fire). Her report estimates the probability of thermal runaway at approximately 1 in 4,000 vehicles under worst-case conditions.
+**Think of a time you were in a group that made a bad decision** It could be a work team, a club, a family, a friend group, etc. Reflect on how the decision happened. Start by just writing down what happened in plain English. Then, reflect on whether the decision-making process matched with any of the theories that we read about this week. Was the process rational, boundedly rational, was it linear or messy, did it involve groupthink, etc.? What was the outcome of the decision? How did you feel about it at the time, and how do you feel about it now?
+
+After writing, we'll hear from one or two people before moving into today's case.
 
 ---
 
-## What Happened in the Meeting
+## Background
 
-The go/no-go meeting includes the CEO, CFO, VP of Engineering, VP of Marketing, General Counsel, and Daria Chen. Here is a summary of what each person said:
+**Lodestar Electric** is a mid-sized electric vehicle manufacturer preparing to launch its first mass-market model, the Lodestar S. The launch has been in development for three years and is scheduled for eight weeks from now. Two thousand dealerships have pre-sold 18,000 units. The CEO has already appeared on the cover of *Forbes* with the headline "America's Next EV Moment?"
 
-- **CEO:** "We've spent $340 million getting here. Our competitors are six months behind us. Missing this launch window costs us everything. Daria, how confident are you in that 1-in-4,000 figure?"
-- **CFO:** "A recall post-launch would be catastrophic financially. But delaying also has massive costs. I'd want to see the data independently verified before we decide."
-- **VP of Engineering:** "Every vehicle has edge-case risks. We exceeded all current federal safety standards. I think we're fine."
-- **VP of Marketing:** "If we delay now, the press narrative becomes 'Lodestar can't deliver.' We can issue a software update post-launch to manage the thermal curve."
-- **General Counsel:** "Federal standards are met. As long as we document that we reviewed the report, our liability exposure is limited."
-- **Daria Chen:** "I want to be clear: I'm not saying don't launch. I'm saying we need four more weeks to redesign the cooling loop. The fix is straightforward. The risk is low but it's real."
+One week before the final go/no-go decision meeting, the lead battery engineer, **Daria Chen**, submits an internal report flagging a thermal management issue. Under sustained high-speed driving in temperatures above 95°F, the battery cooling system may underperform, causing reduced range and, in rare cases, a risk of thermal runaway (battery fire). Her report estimates the probability of thermal runaway at approximately 1 in 4,000 vehicles under worst-case conditions.
 
-The CEO called for a show of hands. Everyone except Daria voted to launch on schedule.
+---
+
+## Document 1: Excerpt from Daria Chen's Engineering Report
+
+> **TO:** VP of Engineering, James Okafor<br>
+> **FROM:** Daria Chen, Lead Battery Systems Engineer<br>
+> **DATE:** October 3<br>
+> **RE:** Thermal Management Concern — Lodestar S Pre-Launch Review
+>
+> During final validation testing last week, we identified an anomaly in the battery cooling loop under sustained load at ambient temperatures above 95°F. In our simulations, 6 of 150 test runs resulted in thermal management failures. In 2 of those 6 cases, the failure progressed to early-stage thermal runaway before the safety shutoff triggered.
+>
+> I want to be precise about what this means: the probability of a real-world thermal runaway event is low — approximately 1 in 4,000 vehicles under worst-case driving conditions. Most customers will never encounter those conditions. However, "low probability" is not the same as "acceptable," especially given that thermal runaway in an EV can result in fire.
+>
+> The fix is well understood. A redesign of the cooling loop manifold, combined with a revised thermal management software profile, would resolve the issue. My team estimates four weeks to implement and validate.
+>
+> I am not recommending that we cancel the launch. I am recommending that we delay four weeks and make the fix. I recognize the business implications of that recommendation and I am not making it lightly.
+
+---
+
+## Document 2: Email Exchange (the evening before the meeting)
+
+> **From:** Marcus Webb, CFO<br>
+> **To:** Elena Park, CEO<br>
+> **Subject:** Tomorrow — quick thought<br>
+> **Date:** October 9, 9:47 PM
+>
+> Elena — I've been sitting with Daria's report and I keep coming back to the same question: have we had anyone independently verify her 1-in-4,000 estimate? I don't doubt her competence, but if we're going to vote to launch over an engineer's safety objection, I want to know we've done our due diligence. If something goes wrong post-launch and it comes out that we had this report and didn't verify it, that's a very bad look — legally and reputationally. Just want to make sure we're covered.
+>
+> — M
+
+> **From:** Elena Park, CEO<br>
+> **To:** Marcus Webb, CFO<br>
+> **Subject:** Re: Tomorrow — quick thought<br>
+> **Date:** October 9, 10:14 PM
+>
+> Marcus — I hear you, but we don't have time for an independent review before the launch window closes. James has looked at it and he's comfortable. Daria is thorough but she's also risk-averse by nature — that's her job. We're not ignoring the report; we're weighing it against everything else. See you tomorrow.
+
+---
+
+## The Meeting
+
+The go/no-go meeting is held October 10. Attendees: **Elena Park** (CEO), **Marcus Webb** (CFO), **James Okafor** (VP of Engineering), **Priya Nair** (VP of Marketing), **David Lim** (General Counsel), and **Daria Chen** (Lead Battery Systems Engineer).
+
+---
+
+**Elena Park (CEO):** "Thanks everyone for being here. We all know what's at stake. We have eight weeks to launch, 18,000 pre-sold units, and a press narrative that's been working in our favor. The question on the table is Daria's report. Daria, do you want to give us the thirty-second version?"
+
+**Daria Chen:** "Sure. The short version is: we found a thermal management anomaly in high-temperature sustained-load testing. The probability of a serious outcome — thermal runaway — is about 1 in 4,000 under worst-case conditions. The fix takes four weeks. I think we should take the four weeks."
+
+**James Okafor (VP of Engineering):** "I've reviewed Daria's methodology. The 6-out-of-150 simulation result is real, but I'd push back on the extrapolation to real-world conditions. The test protocol was more aggressive than typical customer driving. And we exceed all current federal safety standards. I think the risk, as modeled, overstates what customers will actually experience."
+
+**Daria Chen:** "The test protocol was designed to find edge cases. That's the point of the test."
+
+**James Okafor:** "I'm not saying your data is wrong. I'm saying your model of real-world exposure may be conservative."
+
+**Elena Park:** "Daria, how confident are you in the 1-in-4,000 figure specifically?"
+
+**Daria Chen:** "It's an estimate. The honest answer is it could be lower. It could also be higher. That's why I want four more weeks — to get a better number and fix the underlying issue."
+
+**Marcus Webb:** "I flagged this last night — do we have any independent verification of Daria's estimate?"
+
+**Elena Park:** "James has reviewed it. That's our internal verification."
+
+**Marcus Webb:** "Right, but James is also the one who signed off on the original cooling system design. I'm not saying he's wrong, I'm just noting that—"
+
+**James Okafor:** "Marcus, I take quality seriously. I wouldn't tell you I'm comfortable if I wasn't."
+
+**Marcus Webb:** "I know. I'm not questioning your judgment. I'm just thinking about how this looks if—" *(pauses)* "—you know what, never mind. I hear you."
+
+**Priya Nair (VP of Marketing):** "Can I say something from the market side? If we delay now, the story becomes 'Lodestar blinked.' We've had two competitors announce their timelines in the last month. We delay four weeks, we hand them a news cycle. And the fix Daria is describing — a software update to the thermal management profile — that can go out post-launch, right?"
+
+**Daria Chen:** "The software update is part of the fix, but it's not the whole fix. The cooling loop manifold also needs to be redesigned. You can't push that over the air."
+
+**Priya Nair:** "So we issue a recall for the manifold if it becomes necessary. That's a known process."
+
+**Daria Chen:** "A recall after a fire is a very different situation than a four-week delay before launch."
+
+**David Lim (General Counsel):** "From a liability standpoint: we meet federal standards, and we have documentation that we reviewed Daria's report and took it seriously. As long as we can show a reasonable decision-making process, our exposure is limited. I'd recommend we note in the minutes that the report was discussed and that engineering leadership assessed the risk as acceptable."
+
+**Elena Park:** "Daria, I want to be clear — we're not dismissing your concern. We're weighing it. Is there anything that would make you more comfortable with a launch decision today?"
+
+**Daria Chen:** "Four weeks. That's what would make me comfortable."
+
+**Elena Park:** "Understood. I don't think that's where the group is going to land, but I want it on the record that you said it." *(She looks around the table.)* "I think we've had a thorough discussion. I'd like to call for a show of hands. All in favor of proceeding with the launch on schedule?"
+
+*Webb hesitates for a moment, glances at Okafor, then raises his hand. Nair and Lim raise their hands immediately. Okafor nods. Everyone's hand is up except Chen's.*
+
+**Elena Park:** "Daria?"
+
+**Daria Chen:** "I'm not voting yes. I'll support whatever decision the team makes, but I'm not voting yes."
+
+**Elena Park:** "Noted. We proceed with launch."
 
 ---
 
@@ -47,27 +135,35 @@ Herbert Simon argued that real decision-makers *satisfice* — they look for a "
 
 - What cognitive shortcuts or "satisficing" moves do you see in the meeting? Who was settling for "good enough," and on what basis?
 - What information did participants use as a mental shortcut to avoid deeper analysis?
-- How did time pressure and sunk costs ("we've spent $340 million") shape the decision? Is this rational, boundedly rational, or something else?
+- How did time pressure and sunk costs shape the decision? Is this rational, boundedly rational, or something else?
 
 ---
 
 ### Group 3: Groupthink
 
-Irving Janis identified groupthink as a pattern where the pressure to reach consensus overrides realistic appraisal of alternatives. Classic symptoms include: illusion of invulnerability, collective rationalization, self-censorship, illusion of unanimity, and pressure on dissenters.
+Groupthink as a pattern where the pressure to reach consensus overrides realistic appraisal of alternatives. Classic symptoms include: illusion of invulnerability, collective rationalization, self-censorship, illusion of unanimity, and pressure on dissenters.
 
 - Which groupthink symptoms appear in this meeting? Find specific evidence in the dialogue.
-- What communication dynamics silenced or minimized Daria Chen's concern?
+- What happened to Marcus Webb between his email the night before and his vote in the meeting? Is this an example of self-censorship, pressure to conform, or something else?
 - What specific procedural change — in how the meeting was structured or how voices were solicited — might have produced a different outcome?
 
 ---
 
-### Group 4: The Garbage Can Model
+### Group 4: The Functional Model
 
-The garbage can model describes organizations as "organized anarchies" where problems, solutions, participants, and choice opportunities flow independently and connect somewhat randomly.
+The functional model argues that effective group decision-making requires performing four key communicative functions: (1) adequately analyzing the problem, (2) establishing criteria for an acceptable solution, (3) identifying realistic alternatives, and (4) critically evaluating those alternatives.
 
-- What different "problems" and "solutions" were floating around in this meeting, and did they actually match each other?
-- Is the go/no-go decision actually about the thermal issue — or are other problems (financial pressure, competitive timing, reputation) being channeled into this decision?
-- Who were the key participants, and how did their presence or absence shape what got decided?
+- Which of the four functions did the Lodestar team perform well? Which did they skip or shortcut?
+- If the group had followed the functional model, how would the meeting have looked like differently?
+
+---
+
+### Group 5: Poole's Multiple-Sequence Model
+
+Poole argued that groups don't follow a single, linear decision path. Instead, they move through multiple activity tracks simultaneously — task, relational, and topical — and can cycle back, get derailed, or take "breakpoints" that shift the group's direction.
+
+- Can you identify moments in the meeting where the group seemed to cycle back, restart, or get pulled off the main track? What caused those shifts?
+- How did relational dynamics (status, loyalty, professional tension) run alongside the task track? Where did they interfere with or override the task?
 
 ---
 
@@ -78,3 +174,4 @@ After groups share out, we'll discuss together:
 - Which model best explains what happened at Lodestar?
 - Are these models competing explanations, or can they all be true at the same time?
 - What does this case reveal about the role of *communication* — not just information — in organizational decision-making?
+- Look back at what you wrote at the start of class. Does any of it connect to what you saw in this case?
