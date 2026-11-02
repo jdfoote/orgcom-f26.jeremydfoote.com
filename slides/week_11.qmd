@@ -1,0 +1,111 @@
+---
+title: "Week 11: Organizational Change and Leadership"
+date: "2026-11-03"
+---
+
+## Today's Dad Joke
+
+Why can't T-Rex's clap their hands?
+
+<span class='fragment'>Because they're extinct.</span>
+
+## Housekeeping
+
+- Thanks for feedback on tardiness / absences
+- Planned changes
+    - Make exam include more of the content we cover in class
+    - Expectation is that you know the reading material, whether or not we cover it
+    - Reduce amount of time on review, increase time on discussion questions
+    - Reduce need for laptops, hopefully
+
+## Class Questions
+
+- What do you want to talk about today?
+
+## Organizations have lifecycles
+
+- Start-up phase
+- Growth phase
+- Maturity phase
+- Decay phase
+
+- Do all organizations go through these phases? Why or why not?
+
+## Planned change is hard
+
+- Implementation is never simple
+- Change has unintended consequences
+- Three common factors:
+    - Management support (or lack of it)
+    - Resistance
+    - Uncertainty
+
+- Think of a change in an org you belong to. What was the change? Think about how it was implemented. What went well? What didn't go well?
+- Can change come from the bottom up? What are some examples of this?
+
+## Where does resistance come from?
+
+- Sometimes it's just the natural reaction to change
+- Sometimes it's a rational response to an unwise or poorly implemented change
+
+- What are some examples of resistance you've seen in organizations? How did the organization respond?
+
+## Strategies for communicating change
+
+- **Spray and pray** - share everything, let employees sort it out
+- **Tell and sell** - a few core messages, then persuade
+- **Underscore and explore** - focus on key issues, let employees explore options
+- **Identify and reply** - listen for concerns and respond
+- **Withhold and uphold** - share as little as possible, stick to the party line
+
+- Are these representative of your experience? Think of the change you experienced and how it was communicated.
+
+## Unplanned change: Crisis
+
+- Crises unfold in three stages: precrisis, crisis, postcrisis
+- Leaders must communicate with both internal and external audiences
+
+- Think of an organizational crisis in the news. What did they do well or poorly?
+
+## Leadership theories
+
+- **Trait** theories - leaders have certain qualities (intelligence, confidence, integrity, ...)
+- **Style** theories - concern for *production* vs. concern for *people*
+- **Contingency** theories - the best style depends on the situation
+
+- Who are the best leaders you've had?
+
+## Transactional vs. Transformational
+
+- **Transactional** - leadership as an exchange (rewards for performance)
+- **Transformational** - inspiring followers with a vision and setting an example
+
+## Leadership as framing
+
+- Leadership is the *management of meaning*
+- Framing tools: metaphors, catchphrases, contrast, spin, stories
+- *How* and *when* something is said matters as much as what is said
+
+## Reading Review Questions
+
+- How much control should employees have over changes that affect their work? How much control should managers have?
+- How can organizational leaders manage to encourage employees to support change, especially when they know those changes might negatively affect some employees?
+- Do different change communication strategies work better in different environments? (e.g. are more technical workers more likely to respond well to the 'Spray and Pray' approach?) 
+
+## Reading Review Questions
+
+- Do you think an organization can be successful without having a strong leader, or is good leadership necessary for an organization to succeed?
+- How can leaders maintain honest communication with employees during an organizational crisis when they may not have all the answers?
+- When an organization goes through significant change, how should it balance the potentially competing interests of employees, management, shareholders, and customers while remaining ethical?
+
+## Reading Review Questions
+
+- How does the implementation of AI affect organizations in the future, especially in what ways it can change an organization?
+- How much influence does organizational culture have on whether a new leader will be successful?
+- Is there a situation where transactional leadership would be preferred over transformational leadership?
+- Is it ever okay for a company to hold back information during a change, like the withhold and uphold strategy?
+
+
+## Thursday
+
+- Case study: Leadership and organizational change in practice
