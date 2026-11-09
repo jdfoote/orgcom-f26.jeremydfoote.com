@@ -11,48 +11,111 @@ What do flight attendants and actors have in common?
 
 ## Housekeeping
 
-> - Organizational Profile / Site Selection Memo due Monday Nov 9
-> - Self-Assessment Reflection 2 due Monday Nov 9
+- Organizational Profile / Site Selection Memo was due yesterday (Nov 9)
+- Self-Assessment Reflection 2 was due yesterday (Nov 9)
 
-## Schedule Changes
+## Upcoming Schedule
 
-> - Tue Nov 17: Ch. 12 reading and DEI case study
-> - Thu Nov 19: No class (NCA conference)
-> - Tue Nov 24: No in-person class — virtual peer workshop with an assigned partner
-> - Tue Dec 1: Technology (Chs. 13–14), with a reading review due
-> - Thu Dec 3: Exam 2 (moved from Dec 1), still Chs. 7–12
+- Tue Nov 17: Ch. 12 reading and DEI case study
+- Thu Nov 19: No class (NCA conference)
+- Tue Nov 24: No in-person class — virtual peer workshop with an assigned partner
+- Tue Dec 1: Technology (Chs. 13–14), with a reading review due
+- Thu Dec 3: Exam 2 (moved from Dec 1), will include Chs. 7–14
 
-## Updated Syllabus Dates
+## Final Project
 
-> - The syllabus now matches the schedule page and Brightspace
-> - Final Paper due Monday Dec 7, 5–6 pages
-> - Final Self-Assessment Reflection due Friday Dec 11
-> - Final presentations are now no more than 5 minutes
+- Final Paper due Monday Dec 7, 5–6 pages
+- Final presentations will be in class on Tue Dec 8 and Thu Dec 10
+- Final Self-Assessment Reflection due Friday Dec 11
+
 
 ## Class Questions
 
-> - What do you want to talk about today?
+- What do you want to talk about today?
 
-## Basic Concepts
+## Emotion and rationality
 
-> - What is emotional labor? Who does it — is it only certain jobs, or is it present in most work?
-> - What is the difference between surface acting and deep acting? Which is more costly, and why?
-> - Where does emotional labor show up in organizations you've been part of?
+- Classic models treat organizations as rational: logic in, decisions out
+- Even *bounded rationality* treats rationality as the goal
+- Mumby & Putnam: **bounded emotionality**. Feelings, relationships, and intuition are part of how organizations work
 
-## Basic Concepts (cont.)
+- Think about a recent decision you made. What role did emotion play in that decision? 
 
-> - What is burnout? What are its organizational (not just individual) causes?
-> - What are organizational norms around emotion — what emotions are "allowed" at work, and what gets suppressed? Who gets to set those norms?
-> - How do those norms vary by industry, role, or identity?
+## Emotion as part of the job
 
-## Basic Concepts (cont.)
+- **Emotional labor**: managing your feelings in the ways an organization requires, for the organization's gain
+    - Flight attendants, servers, retail, call centers
+- **Emotional work**: emotional situations as part of the job
+    - Nurses, teachers, social workers
 
-> - What is emotional intelligence in an organizational context? Is it a skill, a trait, or something else?
-> - Is it possible to have too much emotional intelligence, or to misuse it? What would that look like?
-> - What would an organization that takes emotional labor seriously actually do differently?
+## Surface acting vs. deep acting
+
+- **Surface acting** - displaying an emotion you don't feel as requred
+- **Deep acting** - trying to actually feel the emotion you're supposed to show
+
+- Where have you done each kind of acting? Which was more tiring?
+
+## Emotions at work
+
+- Our relationships with coworkers is hugely important
+- **Emotional buzzing** - emotions spread across workplaces
+- **Workplace bullying** - real trauma and stigma for targets
+- **Compassion** - a culture of compassion can help people cope with stress and burnout
+
+- Have you seen one person's mood change a whole team? What happened?
+
+## Emotional intelligence
+
+- The idea: some people are better at understanding and managing emotions, their own and others'
+- Very popular with managers and corporate trainers
+- Criticized for weak research evidence, and for being hard to distinguish from other traits
+
+- Why do you think it's so popular anyway?
+
+## Stress and burnout
+
+- **Stressors** - aspects of the environment that create strain: workload, role conflict, role ambiguity
+- **Burnout** has three dimensions:
+    - Emotional exhaustion (the core)
+    - Reduced personal accomplishment
+    - Depersonalization - treating people as cases or objects
+- Feeling *for* people (**empathic concern**) is healthier than catching their feelings (**emotional contagion**)
+
+## Coping with burnout
+
+- **Problem-centered** - change the stressor (ask for a clear job description)
+- **Appraisal-centered** - change how you see the situation
+- **Emotion-centered** - deal with the feelings (exercise, venting, time off)
+- **Participation in decision making** reduces role conflict and role ambiguity
+
+- Pick a stressor in your life as a student. What would each kind of coping look like?
+
+## Social support
+
+- **Emotional** - empathy, caring, listening
+- **Informational** - facts and advice
+- **Instrumental** - practical help (covering a shift, cooking dinner)
+- Different people give different kinds:
+    - Supervisors: informational and instrumental
+    - Coworkers: informational and emotional
+    - Friends and family: emotional and instrumental
+
+- Think of a time when you needed support. Who do you go to for each kind of support? Why?
 
 ## Reading Review Questions
 
+- Do you think preventing workplace burnout is more of the employee's responsibility or the organization's responsibility, and why?
+- How can managers encourage employees to express their emotions honestly while still maintaining professionalism in the workplace?
+- As a student, how do you cope with stress and burnout, and how does it compare to the chapter? 
+- Is bullying really common in workplaces?
+
+## Reading Review Questions
+
+- How can managers recognize when employees are experiencing burnout before it becomes a serious problem?
+- What is the difference between emotional labor and emotional work?
+- What is the distinction between "emotional buzzing," "co-rumination," and healthy communication between coworkers
+- How would making more room for emotional expression in the workplace affect the organization? What are some potential benefits and drawbacks?
+
 ## Thursday
 
-> - Case study: Emotion in the workplace
+- [Case study: Front Stage, Backstage](/schedule/pages/case-study-week-12.html)
