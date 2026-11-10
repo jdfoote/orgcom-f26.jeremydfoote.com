@@ -11,41 +11,105 @@ Why did the company hire a diversity consultant?
 
 ## Housekeeping
 
-> - No class Thursday (instructor at NCA conference)
-> - No in-person class next week (Thanksgiving) — virtual peer workshop Tuesday with an assigned partner
-> - Next in-person class is Tuesday Dec 1
-> - Case study will happen today instead
+> - No class Thursday
+> - Tue Nov 24: No in-person class — virtual peer workshop with an assigned partner
+> - Thu Nov 26: No class (Thanksgiving)
+> - Next in-person class is Tuesday Dec 1 (read Chs. 13–14, reading review due)
 > - Exam 2 is Thursday Dec 3
 
 ## Class Questions
 
-> - What do you want to talk about today?
+- What do you want to talk about today?
 
-## Basic Concepts
+## Diversity, equity, and inclusion
 
-> - What is the difference between diversity, equity, and inclusion? Why do all three matter — and why aren't they the same thing?
-> - What does it mean for communication to be a structural barrier? Give an example.
-> - How do organizations communicate *about* DEI — and how do those communications sometimes undermine the stated goals?
+- **Diversity** - the extent to which different groups are represented in an organization
+- **Equity** - giving people the resources they need based on their circumstances (not the same as *equality*)
+- **Inclusion** - whether people can participate fully and feel that they belong
+- **Minoritized** - marginalized by systemic oppression, whether or not the group is small in number
 
-## Basic Concepts (cont.)
+- Can an organization be diverse without being equitable or inclusive? Can it be equitable without being diverse or inclusive? Can it be inclusive without being diverse or equitable?
 
-> - What is the difference between diversity as a demographic fact and diversity as something that requires active inclusion to be valuable?
-> - What does the research say about when diverse groups perform better — and when they don't?
-> - How does this chapter connect to the critical and feminist approaches from Ch. 6?
+## Bias at work
 
-## Basic Concepts (cont.)
+- **Prejudice** - negative *attitudes* toward someone based on their group identity
+- **Discrimination** - negative *behavior* toward someone based on their group identity
+- **Microaggressions** - small, often unintentional slights that add up over time
 
-> - What does "DEI as organizational change" mean — why frame it that way instead of as a set of policies?
-> - What would communication look like in a genuinely inclusive organization, vs. one that performs inclusion?
+- Think of a time when you felt like you were treated differently because of your identity. Was it prejudice, discrimination, or a microaggression? How did it make you feel? How did you respond?
+
+## Barriers to advancement
+
+- **Glass ceiling** - an invisible barrier keeping women and minoritized people out of top positions
+- **Relational barriers** - limited access to informal networks and mentors
+- **Tokenism** - being the "only one," and expected to represent your whole group
+- **The "mommy track"** - assuming that people who use flexible arrangements are less committed
+
+- What informal networks matter in organizations you've been part of? Who gets left out of them?
+- What are some other mechanisms that create these barriers? How can organizations reduce them?
+
+## How organizations respond
+
+- Legal requirements: **affirmative action**, the **Americans with Disabilities Act** (reasonable accommodations)
+- **Mentoring** programs
+- **Employee Resource Groups (ERGs)** - internal communities for social and career support
+- **Family-friendly programs** - flextime, onsite day care, job sharing
+- **DEI training** - widespread, but often little more than box-checking
+
+- Have you participated in any of these programs? How effective were they? What could have made them more effective?
+
+## Stages of becoming multicultural
+
+- **First-generation affirmative action** - meeting legal requirements for representation
+- **Second-generation affirmative action** - working to *retain* and support a diverse workforce
+- **Multicultural organization** - celebrating diversity as a core value
+- Cox's dimensions: acculturation, structural integration, informal integration, cultural bias, identification, intergroup conflict
+
+- Where would you place Purdue? What's your evidence?
+
+## Why DEI efforts succeed or fail
+
+- The business case: access to talent (resource acquisition), creativity, and problem-solving
+    - But the evidence is mixed
+- A common reason for failure: a lack of real commitment
+- A *constitutive* approach: diversity is negotiated through ongoing interaction, not just written into policy
+- Since 2025, many organizations have scaled back or renamed their DEI programs
+
+- Should DEI need a business case to be worth doing?
+- When an organization renames or scales back a DEI program, what does that communicate — to supporters, and to skeptics?
+
+
+## Case Study: Halvorsen Logistics {.smaller}
+
+- Regional shipping and warehousing company in Indianapolis, about 600 employees
+- Proud of its hiring record: the entry-level workforce is much more diverse than five years ago
+- The recruiting brochure shows its "diverse leadership team"
+- But 33 of the 40 managers are White men
+- Women and employees of color leave in their first two years at nearly double the average rate
+
+## Round 1: The Meetings {.smaller}
+
+- A director keeps mixing up two Asian American analysts, Mei Lin and Jenny Cho, in Zoom meetings. Mei says it's probably not intentional, but it's been months and it's upsetting
+- At lunch, the director says a new hire, DeShawn Carter, is "surprisingly articulate... a lot more polished than I expected." No one says anything
+
+## You witnessed both. What would you do?
+
+::: {.nonincremental}
+- **A.** Say something in the moment
+- **B.** Talk to the director privately afterward
+- **C.** Check in with Mei or DeShawn
+- **D.** Report it to a manager or HR
+:::
+
+- Prejudice, discrimination, or microaggression?
+- What could the *organization* do so this doesn't depend on individual bravery?
+
+## Round 2: The Exit Interview {.smaller}
+
+Anjali Raman, a senior operations manager and the only woman of color in management, is leaving:
+
+> "I was asked to sit on every hiring panel, speak at every recruiting event, and be in every photo. That's a lot of extra work that never showed up in my performance review. Meanwhile, the real decisions get made on the Thursday golf outing, and I've never been invited. When the regional director job opened up, I heard about it after it was filled."
+
+- With a partner: Which barriers do you see? What's **one** change that would have kept Anjali?
 
 ## Reading Review Questions
-
-## Case Study
-
-> - Case study: DEI communication in practice (we're doing this today — materials on Brightspace)
-
-## Exam 2 Preview
-
-> - Thursday Dec 3 — same format as Exam 1
-> - Covers: Socialization, Decision Making, Conflict, Change & Leadership, Emotion, DEI
-> - Good practice: for each chapter, ask "what problem was this theory trying to solve?"

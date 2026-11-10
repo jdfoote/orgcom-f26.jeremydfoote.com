@@ -5,9 +5,10 @@ date: "2026-11-10"
 
 ## Today's Dad Joke
 
-What do flight attendants and actors have in common?
+When I was a kid, we were so poor that we had to share a calculator, and the X button didn't even work.
 
-<span class="fragment">They both get paid to smile through the turbulence.</span>
+<span class='fragment'>Times were hard.</span>
+
 
 ## Housekeeping
 
