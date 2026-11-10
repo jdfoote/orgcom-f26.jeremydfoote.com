@@ -11,7 +11,7 @@ My workplace implemented AI to boost efficiency.
 
 ## Housekeeping
 
-> - Exam 2 is Thursday Dec 3 — covers Chs. 7–12
+> - Exam 2 is Thursday Dec 3 — covers Chs. 7–14
 > - Final Paper due Monday Dec 7
 > - Final presentations start Tuesday Dec 8
 
