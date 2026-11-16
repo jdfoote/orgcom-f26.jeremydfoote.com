@@ -5,17 +5,20 @@ date: "2026-11-17"
 
 ## Today's Dad Joke
 
-Why did the company hire a diversity consultant?
+Why did the man get fired from the calendar factory?
 
-<span class="fragment">Their inclusion statement wasn't including anyone.</span>
+<p class='fragment'>
+He took too many days off!
+</p>
 
 ## Housekeeping
 
-> - No class Thursday
-> - Tue Nov 24: No in-person class — virtual peer workshop with an assigned partner
-> - Thu Nov 26: No class (Thanksgiving)
-> - Next in-person class is Tuesday Dec 1 (read Chs. 13–14, reading review due)
-> - Exam 2 is Thursday Dec 3
+- Finish last presentations from last week
+- No class Thursday
+- Tue Nov 24: No in-person class — virtual peer workshop with an assigned partner
+- Thu Nov 26: No class (Thanksgiving)
+- Next in-person class is Tuesday Dec 1 (read Chs. 13–14, reading review due)
+- Exam 2 is Thursday Dec 3
 
 ## Class Questions
 
@@ -24,9 +27,8 @@ Why did the company hire a diversity consultant?
 ## Diversity, equity, and inclusion
 
 - **Diversity** - the extent to which different groups are represented in an organization
-- **Equity** - giving people the resources they need based on their circumstances (not the same as *equality*)
+- **Equity** - giving people the resources they need based on their circumstances
 - **Inclusion** - whether people can participate fully and feel that they belong
-- **Minoritized** - marginalized by systemic oppression, whether or not the group is small in number
 
 - Can an organization be diverse without being equitable or inclusive? Can it be equitable without being diverse or inclusive? Can it be inclusive without being diverse or equitable?
 
@@ -35,6 +37,7 @@ Why did the company hire a diversity consultant?
 - **Prejudice** - negative *attitudes* toward someone based on their group identity
 - **Discrimination** - negative *behavior* toward someone based on their group identity
 - **Microaggressions** - small, often unintentional slights that add up over time
+- **Thinking Under the Influence** - automatic processes that can leaad to biased decisions
 
 - Think of a time when you felt like you were treated differently because of your identity. Was it prejudice, discrimination, or a microaggression? How did it make you feel? How did you respond?
 
@@ -43,7 +46,7 @@ Why did the company hire a diversity consultant?
 - **Glass ceiling** - an invisible barrier keeping women and minoritized people out of top positions
 - **Relational barriers** - limited access to informal networks and mentors
 - **Tokenism** - being the "only one," and expected to represent your whole group
-- **The "mommy track"** - assuming that people who use flexible arrangements are less committed
+- **The "mommy track"** - difficulty advancing while balancing work and family responsibilities
 
 - What informal networks matter in organizations you've been part of? Who gets left out of them?
 - What are some other mechanisms that create these barriers? How can organizations reduce them?
@@ -56,27 +59,22 @@ Why did the company hire a diversity consultant?
 - **Family-friendly programs** - flextime, onsite day care, job sharing
 - **DEI training** - widespread, but often little more than box-checking
 
-- Have you participated in any of these programs? How effective were they? What could have made them more effective?
 
 ## Stages of becoming multicultural
 
 - **First-generation affirmative action** - meeting legal requirements for representation
 - **Second-generation affirmative action** - working to *retain* and support a diverse workforce
 - **Multicultural organization** - celebrating diversity as a core value
-- Cox's dimensions: acculturation, structural integration, informal integration, cultural bias, identification, intergroup conflict
 
 - Where would you place Purdue? What's your evidence?
 
 ## Why DEI efforts succeed or fail
 
 - The business case: access to talent (resource acquisition), creativity, and problem-solving
-    - But the evidence is mixed
-- A common reason for failure: a lack of real commitment
-- A *constitutive* approach: diversity is negotiated through ongoing interaction, not just written into policy
-- Since 2025, many organizations have scaled back or renamed their DEI programs
-
-- Should DEI need a business case to be worth doing?
-- When an organization renames or scales back a DEI program, what does that communicate — to supporters, and to skeptics?
+    - Evidence is mixed
+    - Why might diversity not always lead to better outcomes?
+- Moral case
+    - People should be treated well, regardless of whether it benefits the organization
 
 
 ## Case Study: Halvorsen Logistics {.smaller}
@@ -108,8 +106,25 @@ Why did the company hire a diversity consultant?
 
 Anjali Raman, a senior operations manager and the only woman of color in management, is leaving:
 
-> "I was asked to sit on every hiring panel, speak at every recruiting event, and be in every photo. That's a lot of extra work that never showed up in my performance review. Meanwhile, the real decisions get made on the Thursday golf outing, and I've never been invited. When the regional director job opened up, I heard about it after it was filled."
+"I was asked to sit on every hiring panel, speak at every recruiting event, and be in every photo. That's a lot of extra work that never showed up in my performance review. Meanwhile, the real decisions get made on the Thursday golf outing, and I've never been invited. When the regional director job opened up, I heard about it after it was filled."
 
 - With a partner: Which barriers do you see? What's **one** change that would have kept Anjali?
 
 ## Reading Review Questions
+
+- How can organizations create a diverse, equitable, and inclusive workplace without allowing employees' demographic characteristics to overshadow their individual abilities, accomplishments, and perspectives?
+- Is it more harmful for an organization to treat DEI like a checklist, or to not do it at all?
+- How can organizations measure whether their DEI initiatives are actually improving employees' experiences and creating a more inclusive workplace?
+
+## Reading Review Questions
+
+- Why is it that when a major event happens, people talk about discrimination and then forget about it?
+- Think about an organization, club, or workplace you've been a part of.  What's one unwritten rule or informal tradition that might accidentally make new hires or people from different backgrounds feel like outsiders, and how could the group communicate differently to fix it?
+- How can workplaces be systematically changed to better support mothers during the off-ramp and on-ramp stages of their careers?
+- Can an organization truly become multicultural when they expect different backgrounds to accept workplace norms?
+
+## Reading Review Questions
+
+- How can employees from nonmarginalized groups help create an inclusive workplace where everyone feels welcome and valued without making marginalized coworkers feel singled out?
+- What are the benefits of mentorship? What have you gained from having mentors?
+- What are some ways organizations can tell whether their DEI efforts are actually improving the experiences of their members or employees, rather than just fulfilling a requirement (tokenism)
